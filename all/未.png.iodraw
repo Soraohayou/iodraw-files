@@ -93,11 +93,14 @@
             <mxPoint x="770" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYrvvPAp-bAPjb2auwI2-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="fYrvvPAp-bAPjb2auwI2-26" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="265" y="40" width="90" height="30" as="geometry" />
+          <mxGeometry x="960" y="225" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fYrvvPAp-bAPjb2auwI2-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="320" as="sourcePoint" />
+            <mxPoint x="950" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
