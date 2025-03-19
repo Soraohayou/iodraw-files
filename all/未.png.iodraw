@@ -105,8 +105,8 @@
         <mxCell id="fYrvvPAp-bAPjb2auwI2-28" value="学习信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="170" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fYrvvPAp-bAPjb2auwI2-29" value="学习信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="180" width="70" height="30" as="geometry" />
+        <mxCell id="fYrvvPAp-bAPjb2auwI2-29" value="课程信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="644" y="170" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
