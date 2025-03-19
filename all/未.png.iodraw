@@ -54,8 +54,8 @@
         <mxCell id="fYrvvPAp-bAPjb2auwI2-13" value="课程信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fYrvvPAp-bAPjb2auwI2-15" value="1.选课检查" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="225" width="100" height="50" as="geometry" />
+        <mxCell id="fYrvvPAp-bAPjb2auwI2-15" value="2. 学习信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="215" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
