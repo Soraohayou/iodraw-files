@@ -45,6 +45,12 @@
         <mxCell id="fYrvvPAp-bAPjb2auwI2-9" value="选课信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="280" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fYrvvPAp-bAPjb2auwI2-10" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="235" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fYrvvPAp-bAPjb2auwI2-11" value="选课" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
