@@ -135,10 +135,10 @@
         <mxCell id="aeiXewi3adFYN4iq3wk0-3" value="考试管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="350" width="25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aeiXewi3adFYN4iq3wk0-4" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aeiXewi3adFYN4iq3wk0-4" value="成绩管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="350" width="25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aeiXewi3adFYN4iq3wk0-5" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aeiXewi3adFYN4iq3wk0-5" value="提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="350" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aeiXewi3adFYN4iq3wk0-6" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
