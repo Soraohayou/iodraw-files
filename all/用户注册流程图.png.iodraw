@@ -60,11 +60,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZwecUiABWo3nU1-ARaQF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZwecUiABWo3nU1-ARaQF-15" target="ZwecUiABWo3nU1-ARaQF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZwecUiABWo3nU1-ARaQF-15" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="460" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZwecUiABWo3nU1-ARaQF-18" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="110" width="90" height="40" as="geometry" />
+        <mxCell id="ZwecUiABWo3nU1-ARaQF-18" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="530" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
