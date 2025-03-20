@@ -37,9 +37,9 @@
             <mxPoint x="380" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Bab3wqSh_8S838NKyjmv-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bab3wqSh_8S838NKyjmv-1" target="Bab3wqSh_8S838NKyjmv-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="320" as="sourcePoint" />
+            <mxPoint x="80" y="150" as="sourcePoint" />
             <mxPoint x="110" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
