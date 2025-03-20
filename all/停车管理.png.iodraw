@@ -453,18 +453,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aP30dljBd-l1hRXvky99" name="车辆管理功能流程图">
-    <mxGraphModel dx="500" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8R5v0iTgcXyHqUhO1y-6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8R5v0iTgcXyHqUhO1y-6-1" target="8R5v0iTgcXyHqUhO1y-6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8R5v0iTgcXyHqUhO1y-6-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="90" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8R5v0iTgcXyHqUhO1y-6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8R5v0iTgcXyHqUhO1y-6-3" target="8R5v0iTgcXyHqUhO1y-6-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8R5v0iTgcXyHqUhO1y-6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8R5v0iTgcXyHqUhO1y-6-3" target="8R5v0iTgcXyHqUhO1y-6-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8R5v0iTgcXyHqUhO1y-6-3" value="查询车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="90" height="40" as="geometry" />
