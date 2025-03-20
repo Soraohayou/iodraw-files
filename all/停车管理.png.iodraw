@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17" pages="11">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17" pages="12">
   <diagram name="车位用例图" id="K21Unu6RBYL9LUFwpGdk">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -860,7 +860,7 @@
         <mxCell id="DJdn-DK2P41TxqQxepzc-3" value="排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DJdn-DK2P41TxqQxepzc-4" value="车牌" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DJdn-DK2P41TxqQxepzc-4" value="区域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DJdn-DK2P41TxqQxepzc-5" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -899,6 +899,14 @@
             <mxPoint x="750" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Jo5LzkvGcHPp-VJqnSVp" name="第 12 页">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
