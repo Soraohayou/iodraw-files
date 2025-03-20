@@ -85,15 +85,6 @@
         <mxCell id="ZwecUiABWo3nU1-ARaQF-21" value="是否达到上限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="460" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZwecUiABWo3nU1-ARaQF-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZwecUiABWo3nU1-ARaQF-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="490" as="sourcePoint" />
-            <mxPoint x="220" y="150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="310" y="485" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
