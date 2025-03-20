@@ -10,8 +10,11 @@
         <mxCell id="JH0w-Woa3iGc4nFx9Wp8-2" value="忘记密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="90" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JH0w-Woa3iGc4nFx9Wp8-3" value="忘记密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JH0w-Woa3iGc4nFx9Wp8-3" value="账号登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="155" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JH0w-Woa3iGc4nFx9Wp8-4" value="账号登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="165" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
