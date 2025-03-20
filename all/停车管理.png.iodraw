@@ -508,8 +508,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8R5v0iTgcXyHqUhO1y-6-14" value="创建车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="240" width="90" height="40" as="geometry" />
+        <mxCell id="8R5v0iTgcXyHqUhO1y-6-14" value="计算车辆费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
