@@ -524,6 +524,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8R5v0iTgcXyHqUhO1y-6-17" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
