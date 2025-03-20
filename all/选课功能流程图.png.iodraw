@@ -13,7 +13,7 @@
         <mxCell id="ZwecUiABWo3nU1-ARaQF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZwecUiABWo3nU1-ARaQF-2" target="ZwecUiABWo3nU1-ARaQF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZwecUiABWo3nU1-ARaQF-2" value="浏览课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZwecUiABWo3nU1-ARaQF-2" value="创建学习计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZwecUiABWo3nU1-ARaQF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZwecUiABWo3nU1-ARaQF-3" target="ZwecUiABWo3nU1-ARaQF-5">
