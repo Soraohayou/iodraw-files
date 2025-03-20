@@ -262,6 +262,16 @@
             <mxPoint x="330" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Bab3wqSh_8S838NKyjmv-81" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bab3wqSh_8S838NKyjmv-76">
+          <mxGeometry x="0.6221" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bab3wqSh_8S838NKyjmv-82" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bab3wqSh_8S838NKyjmv-76">
+          <mxGeometry x="-0.6766" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-80" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="230" width="80" height="80" as="geometry" />
         </mxCell>
