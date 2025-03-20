@@ -120,8 +120,8 @@
             <mxPoint x="200" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYrvvPAp-bAPjb2auwI2-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="405" y="108" width="50" height="30" as="geometry" />
+        <mxCell id="fYrvvPAp-bAPjb2auwI2-33" value="教师信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="110" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
