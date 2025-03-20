@@ -19,7 +19,7 @@
         <mxCell id="4OCPDJmnyAvVdshpml29-6" value="学生编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4OCPDJmnyAvVdshpml29-7" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4OCPDJmnyAvVdshpml29-7" value="及格分数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4OCPDJmnyAvVdshpml29-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4OCPDJmnyAvVdshpml29-1" target="4OCPDJmnyAvVdshpml29-3">
