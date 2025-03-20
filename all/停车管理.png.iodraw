@@ -550,9 +550,6 @@
         <mxCell id="e7e6hRKz8AcpesupMgEC-4" value="查询车位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e7e6hRKz8AcpesupMgEC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-6" target="e7e6hRKz8AcpesupMgEC-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e7e6hRKz8AcpesupMgEC-6" value="查询车位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="230" width="90" height="40" as="geometry" />
         </mxCell>
@@ -592,20 +589,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7e6hRKz8AcpesupMgEC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-13" target="e7e6hRKz8AcpesupMgEC-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e7e6hRKz8AcpesupMgEC-13" value="计算车辆费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="310" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="e7e6hRKz8AcpesupMgEC-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-8" target="e7e6hRKz8AcpesupMgEC-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="280" as="sourcePoint" />
-            <mxPoint x="160" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="225" y="290" />
-              <mxPoint x="335" y="290" />
-            </Array>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="e7e6hRKz8AcpesupMgEC-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e7e6hRKz8AcpesupMgEC-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
