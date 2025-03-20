@@ -672,11 +672,14 @@
             <mxPoint x="345" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2-0-VtHEWa7pVONJUxZ-5" value="查询车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c2-0-VtHEWa7pVONJUxZ-5" value="信息提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="150" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c2-0-VtHEWa7pVONJUxZ-6" value="用户输入预约信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c2-0-VtHEWa7pVONJUxZ-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
