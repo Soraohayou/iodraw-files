@@ -678,8 +678,14 @@
         <mxCell id="c2-0-VtHEWa7pVONJUxZ-6" value="用户输入预约信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="90" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="c2-0-VtHEWa7pVONJUxZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c2-0-VtHEWa7pVONJUxZ-7" target="c2-0-VtHEWa7pVONJUxZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c2-0-VtHEWa7pVONJUxZ-7" value="是否履行预约" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c2-0-VtHEWa7pVONJUxZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c2-0-VtHEWa7pVONJUxZ-8" target="c2-0-VtHEWa7pVONJUxZ-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c2-0-VtHEWa7pVONJUxZ-8" value="车辆登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="320" width="90" height="40" as="geometry" />
@@ -690,8 +696,8 @@
         <mxCell id="c2-0-VtHEWa7pVONJUxZ-10" value="释放车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="280" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c2-0-VtHEWa7pVONJUxZ-11" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="90" height="40" as="geometry" />
+        <mxCell id="c2-0-VtHEWa7pVONJUxZ-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
