@@ -96,12 +96,6 @@
         <mxCell id="Bab3wqSh_8S838NKyjmv-37" value="学习记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="-100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bab3wqSh_8S838NKyjmv-13" target="Bab3wqSh_8S838NKyjmv-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="120" as="sourcePoint" />
-            <mxPoint x="310" y="-60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-36" value="观看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" width="80" height="80" as="geometry" />
         </mxCell>
