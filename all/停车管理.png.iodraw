@@ -487,7 +487,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8R5v0iTgcXyHqUhO1y-6-14" value="计算车辆费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="90" height="40" as="geometry" />
+          <mxGeometry x="290" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8R5v0iTgcXyHqUhO1y-6-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="490" width="90" height="40" as="geometry" />
@@ -497,6 +497,9 @@
         </mxCell>
         <mxCell id="5Tp30WsboLR38bw-j9EA-5" value="开始计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Tp30WsboLR38bw-j9EA-7" value="车辆退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
