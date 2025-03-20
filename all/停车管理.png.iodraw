@@ -1172,7 +1172,7 @@
         <mxCell id="oyxOMvw3H1c2swVO3y-Y-4" value="登记" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="208" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oyxOMvw3H1c2swVO3y-Y-5" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+        <mxCell id="oyxOMvw3H1c2swVO3y-Y-5" value="D1 车辆信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
