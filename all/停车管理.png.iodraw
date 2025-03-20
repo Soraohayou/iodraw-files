@@ -547,7 +547,7 @@
         <mxCell id="e7e6hRKz8AcpesupMgEC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-4" target="e7e6hRKz8AcpesupMgEC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e7e6hRKz8AcpesupMgEC-4" value="查询车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e7e6hRKz8AcpesupMgEC-4" value="查询车位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e7e6hRKz8AcpesupMgEC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-6" target="e7e6hRKz8AcpesupMgEC-13">
