@@ -211,7 +211,7 @@
           <mxGeometry x="350" y="260" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WnYHHapn1WjMisPX5076-18" value="支付订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="260" width="20" height="110" as="geometry" />
+          <mxGeometry x="393" y="260" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WnYHHapn1WjMisPX5076-19" value="预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="260" width="20" height="110" as="geometry" />
@@ -374,6 +374,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="290" as="sourcePoint" />
             <mxPoint x="380" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="250" />
+              <mxPoint x="380" y="250" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
