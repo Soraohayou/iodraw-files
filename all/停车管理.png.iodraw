@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0DBzOVBCJN8kybDQcG8c" name="整体E-R图">
-    <mxGraphModel dx="420" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1052,10 +1052,20 @@
             <mxPoint x="320" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="z0HEchNNH4Pd9ZCAVpR7-7" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z0HEchNNH4Pd9ZCAVpR7-5">
+          <mxGeometry x="0.0272" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z0HEchNNH4Pd9ZCAVpR7-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0HEchNNH4Pd9ZCAVpR7-4" target="z0HEchNNH4Pd9ZCAVpR7-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="210" as="sourcePoint" />
             <mxPoint x="510" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z0HEchNNH4Pd9ZCAVpR7-8" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z0HEchNNH4Pd9ZCAVpR7-6">
+          <mxGeometry x="-0.1552" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
