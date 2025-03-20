@@ -498,6 +498,11 @@
         <mxCell id="5Tp30WsboLR38bw-j9EA-7" value="车辆退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="420" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5Tp30WsboLR38bw-j9EA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Tp30WsboLR38bw-j9EA-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5Tp30WsboLR38bw-j9EA-9" value="修改车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="300" width="90" height="40" as="geometry" />
         </mxCell>
