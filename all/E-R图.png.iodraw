@@ -28,14 +28,11 @@
             <mxPoint x="370" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-97" value="用户新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Bab3wqSh_8S838NKyjmv-97" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-7.5" y="350" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-98" value="用户修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="32.5" y="350" width="25" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-99" value="用户删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="72.5" y="350" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-100" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="112.5" y="350" width="25" height="110" as="geometry" />
@@ -70,9 +67,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-105" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bab3wqSh_8S838NKyjmv-99" target="Bab3wqSh_8S838NKyjmv-90">
+        <mxCell id="Bab3wqSh_8S838NKyjmv-105" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Bab3wqSh_8S838NKyjmv-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-50" y="260" as="sourcePoint" />
+            <mxPoint x="85" y="350" as="sourcePoint" />
             <mxPoint y="210" as="targetPoint" />
             <Array as="points">
               <mxPoint x="85" y="320" />
