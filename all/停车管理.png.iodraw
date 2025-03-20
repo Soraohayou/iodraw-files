@@ -461,10 +461,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8R5v0iTgcXyHqUhO1y-6-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Tp30WsboLR38bw-j9EA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8R5v0iTgcXyHqUhO1y-6-3" target="8R5v0iTgcXyHqUhO1y-6-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8R5v0iTgcXyHqUhO1y-6-3" value="查询车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="90" height="40" as="geometry" />
+          <mxGeometry x="290" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8R5v0iTgcXyHqUhO1y-6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="8R5v0iTgcXyHqUhO1y-6-14">
           <mxGeometry relative="1" as="geometry">
