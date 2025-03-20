@@ -533,11 +533,84 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="AfOSe4QGF_D1XrrVkDyz" name="第 7 页">
+  <diagram id="AfOSe4QGF_D1XrrVkDyz" name="车位管理功能流程图">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e7e6hRKz8AcpesupMgEC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-2" target="e7e6hRKz8AcpesupMgEC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-4" target="e7e6hRKz8AcpesupMgEC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-4" value="查询车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-6" target="e7e6hRKz8AcpesupMgEC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-6" value="查询车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-7" value="删除车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-8" value="创建车辆信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-4" target="e7e6hRKz8AcpesupMgEC-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="170" as="sourcePoint" />
+            <mxPoint x="250" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="210" />
+              <mxPoint x="225" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-4" target="e7e6hRKz8AcpesupMgEC-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="190" as="sourcePoint" />
+            <mxPoint x="190" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="210" />
+              <mxPoint x="445" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-7" target="e7e6hRKz8AcpesupMgEC-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="260" as="sourcePoint" />
+            <mxPoint x="520" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="250" />
+              <mxPoint x="520" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-13" target="e7e6hRKz8AcpesupMgEC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-13" value="计算车辆费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e7e6hRKz8AcpesupMgEC-8" target="e7e6hRKz8AcpesupMgEC-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="225" y="290" />
+              <mxPoint x="335" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7e6hRKz8AcpesupMgEC-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
