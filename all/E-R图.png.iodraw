@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-98" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="350" width="25" height="110" as="geometry" />
+          <mxGeometry x="52.5" y="350" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-100" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="112.5" y="350" width="25" height="110" as="geometry" />
@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-106" value="课程新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Bab3wqSh_8S838NKyjmv-106" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="142.5" y="350" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-107" value="课程修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
