@@ -1194,7 +1194,10 @@
           <mxGeometry x="-100" y="208" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oyxOMvw3H1c2swVO3y-Y-11" value="D3 车位信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="340" y="130" width="90" height="30" as="geometry" />
+          <mxGeometry x="340" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oyxOMvw3H1c2swVO3y-Y-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="388" y="100" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
