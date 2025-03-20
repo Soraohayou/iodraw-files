@@ -7,7 +7,7 @@
         <mxCell id="4OCPDJmnyAvVdshpml29-1" value="课程学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4OCPDJmnyAvVdshpml29-3" value="测验编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4OCPDJmnyAvVdshpml29-3" value="时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4OCPDJmnyAvVdshpml29-4" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="4OCPDJmnyAvVdshpml29-19" value="学生编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4OCPDJmnyAvVdshpml29-20" value="分数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4OCPDJmnyAvVdshpml29-20" value="课程编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4OCPDJmnyAvVdshpml29-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4OCPDJmnyAvVdshpml29-1" target="4OCPDJmnyAvVdshpml29-19">
