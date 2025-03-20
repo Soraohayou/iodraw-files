@@ -280,17 +280,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WnYHHapn1WjMisPX5076-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.479;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WnYHHapn1WjMisPX5076-8" target="WnYHHapn1WjMisPX5076-10">
+        <mxCell id="WnYHHapn1WjMisPX5076-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WnYHHapn1WjMisPX5076-8" target="WnYHHapn1WjMisPX5076-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="270" as="sourcePoint" />
             <mxPoint x="200" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="80" y="230" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WnYHHapn1WjMisPX5076-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WnYHHapn1WjMisPX5076-10" target="WnYHHapn1WjMisPX5076-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
