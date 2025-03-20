@@ -123,8 +123,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aeiXewi3adFYN4iq3wk0-1" value="学习计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="360" width="25" height="110" as="geometry" />
+        <mxCell id="aeiXewi3adFYN4iq3wk0-1" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="350" width="25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aeiXewi3adFYN4iq3wk0-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="400" as="sourcePoint" />
+            <mxPoint x="620" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
