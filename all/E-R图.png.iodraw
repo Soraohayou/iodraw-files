@@ -100,8 +100,14 @@
         <mxCell id="Bab3wqSh_8S838NKyjmv-115" value="学习记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="350" width="25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-116" value="用户删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Bab3wqSh_8S838NKyjmv-116" value="学习计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="350" width="25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Bab3wqSh_8S838NKyjmv-117" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="410" as="sourcePoint" />
+            <mxPoint x="490" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
