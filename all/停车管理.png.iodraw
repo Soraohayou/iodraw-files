@@ -745,7 +745,7 @@
         <mxCell id="Zcp74CeE-N3BjcE7inZT-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zcp74CeE-N3BjcE7inZT-3" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zcp74CeE-N3BjcE7inZT-3" value="车主姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zcp74CeE-N3BjcE7inZT-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zcp74CeE-N3BjcE7inZT-3">
@@ -762,6 +762,9 @@
         </mxCell>
         <mxCell id="Zcp74CeE-N3BjcE7inZT-7" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zcp74CeE-N3BjcE7inZT-8" value="车主姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
