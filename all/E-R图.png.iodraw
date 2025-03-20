@@ -22,7 +22,7 @@
         <mxCell id="Bab3wqSh_8S838NKyjmv-94" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="595" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-96" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bab3wqSh_8S838NKyjmv-92" target="Bab3wqSh_8S838NKyjmv-89">
+        <mxCell id="Bab3wqSh_8S838NKyjmv-96" value="" style="endArrow=none;html=1;rounded=0;exitX=0.525;exitY=0.011;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bab3wqSh_8S838NKyjmv-92" target="Bab3wqSh_8S838NKyjmv-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="430" as="sourcePoint" />
             <mxPoint x="370" y="380" as="targetPoint" />
