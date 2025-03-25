@@ -1291,14 +1291,13 @@
         <mxCell id="U0O0pDV_iVMscfXIMqvK-17" value="测验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
           <mxGeometry x="50" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="peoJwj5ZKxhlr8yK2Loq-7" source="U0O0pDV_iVMscfXIMqvK-19" target="U0O0pDV_iVMscfXIMqvK-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="peoJwj5ZKxhlr8yK2Loq-7" source="U0O0pDV_iVMscfXIMqvK-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-19" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
           <mxGeometry x="55" y="430" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-21" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
-          <mxGeometry x="170" y="350" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-8" value="教师" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="70" width="200" height="550" as="geometry" />
