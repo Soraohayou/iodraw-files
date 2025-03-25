@@ -123,7 +123,7 @@
           <mxGeometry x="340" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dZeJf2hhSCT_UB0IZfjF-6" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="60" height="50" as="geometry" />
+          <mxGeometry x="490" y="130" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dZeJf2hhSCT_UB0IZfjF-7" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="60" height="50" as="geometry" />
@@ -188,6 +188,17 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="255" as="sourcePoint" />
             <mxPoint x="280" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZeJf2hhSCT_UB0IZfjF-22" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dZeJf2hhSCT_UB0IZfjF-21">
+          <mxGeometry x="0.0452" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZeJf2hhSCT_UB0IZfjF-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dZeJf2hhSCT_UB0IZfjF-8" target="dZeJf2hhSCT_UB0IZfjF-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="265" as="sourcePoint" />
+            <mxPoint x="290" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
