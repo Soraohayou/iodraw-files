@@ -1273,14 +1273,8 @@
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-7" value="学生" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="70" width="200" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-3" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
-          <mxGeometry x="50" y="170" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-8" value="教师" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="70" width="200" height="550" as="geometry" />
-        </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-2" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-8">
-          <mxGeometry x="55" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-9" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="70" width="200" height="550" as="geometry" />
@@ -1301,13 +1295,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-7" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-9">
-          <mxGeometry x="40" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="170" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0O0pDV_iVMscfXIMqvK-1" target="U0O0pDV_iVMscfXIMqvK-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0O0pDV_iVMscfXIMqvK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0O0pDV_iVMscfXIMqvK-1" target="U0O0pDV_iVMscfXIMqvK-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0O0pDV_iVMscfXIMqvK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
