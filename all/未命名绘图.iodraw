@@ -1295,17 +1295,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-7" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-9">
-          <mxGeometry x="55" y="170" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0O0pDV_iVMscfXIMqvK-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0O0pDV_iVMscfXIMqvK-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-9" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="240" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
