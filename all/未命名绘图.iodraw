@@ -1288,6 +1288,9 @@
         <mxCell id="U0O0pDV_iVMscfXIMqvK-17" value="测验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
           <mxGeometry x="50" y="360" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
+          <mxGeometry x="50" y="435" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-8" value="教师" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="70" width="200" height="550" as="geometry" />
         </mxCell>
