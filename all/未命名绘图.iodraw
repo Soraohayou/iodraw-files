@@ -1285,14 +1285,17 @@
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-8" value="教师" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="70" width="200" height="550" as="geometry" />
         </mxCell>
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="peoJwj5ZKxhlr8yK2Loq-8" source="U0O0pDV_iVMscfXIMqvK-7" target="U0O0pDV_iVMscfXIMqvK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-7" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-8">
           <mxGeometry x="55" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-13" value="测验管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-8">
-          <mxGeometry x="54" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-14" value="章节管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-8">
-          <mxGeometry x="54" y="230" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="255" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-9" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="70" width="200" height="550" as="geometry" />
