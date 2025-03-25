@@ -1309,6 +1309,9 @@
         <mxCell id="U0O0pDV_iVMscfXIMqvK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0O0pDV_iVMscfXIMqvK-1" target="U0O0pDV_iVMscfXIMqvK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-13" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
