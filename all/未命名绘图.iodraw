@@ -1273,9 +1273,6 @@
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-7" value="学生" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="70" width="200" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="opCYMWwMQdOckmdcdqZc-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
-          <mxGeometry x="55" y="40" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-8" value="教师" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="70" width="200" height="550" as="geometry" />
         </mxCell>
@@ -1283,12 +1280,15 @@
           <mxGeometry x="470" y="70" width="200" height="550" as="geometry" />
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-1" value="用户输入预约信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-9">
-          <mxGeometry x="55" y="110" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="opCYMWwMQdOckmdcdqZc-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="opCYMWwMQdOckmdcdqZc-1" target="U0O0pDV_iVMscfXIMqvK-1">
+        <mxCell id="opCYMWwMQdOckmdcdqZc-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-9">
+          <mxGeometry x="55" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="opCYMWwMQdOckmdcdqZc-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="peoJwj5ZKxhlr8yK2Loq-9" source="opCYMWwMQdOckmdcdqZc-1" target="U0O0pDV_iVMscfXIMqvK-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="250" as="sourcePoint" />
-            <mxPoint x="170" y="210" as="targetPoint" />
+            <mxPoint x="-270" y="180" as="sourcePoint" />
+            <mxPoint x="-300" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
