@@ -1333,7 +1333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="peoJwj5ZKxhlr8yK2Loq-9" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="70" width="200" height="550" as="geometry" />
+          <mxGeometry x="470" y="70" width="200" height="600" as="geometry" />
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-1" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-9">
           <mxGeometry x="55" y="100" width="90" height="40" as="geometry" />
@@ -1352,6 +1352,9 @@
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0O0pDV_iVMscfXIMqvK-1" target="U0O0pDV_iVMscfXIMqvK-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-25" value="测验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
