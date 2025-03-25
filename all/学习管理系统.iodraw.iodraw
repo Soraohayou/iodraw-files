@@ -456,7 +456,7 @@
         <mxCell id="2PBuqUQSS4nPOf5jeuOR-4" value="视频url地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2PBuqUQSS4nPOf5jeuOR-5" value="编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2PBuqUQSS4nPOf5jeuOR-5" value="序号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2PBuqUQSS4nPOf5jeuOR-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PBuqUQSS4nPOf5jeuOR-1" target="2PBuqUQSS4nPOf5jeuOR-2">
@@ -509,11 +509,8 @@
         <mxCell id="rIR_yh1BivBUVrwIzO4u-3" value="学生编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rIR_yh1BivBUVrwIzO4u-4" value="视频url地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rIR_yh1BivBUVrwIzO4u-4" value="分数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rIR_yh1BivBUVrwIzO4u-5" value="编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rIR_yh1BivBUVrwIzO4u-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rIR_yh1BivBUVrwIzO4u-1" target="rIR_yh1BivBUVrwIzO4u-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -537,12 +534,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="280" as="sourcePoint" />
             <mxPoint x="424" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rIR_yh1BivBUVrwIzO4u-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rIR_yh1BivBUVrwIzO4u-1" target="rIR_yh1BivBUVrwIzO4u-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="290" as="sourcePoint" />
-            <mxPoint x="434" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIR_yh1BivBUVrwIzO4u-11" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
