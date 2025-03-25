@@ -1291,9 +1291,13 @@
         <mxCell id="U0O0pDV_iVMscfXIMqvK-17" value="测验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
           <mxGeometry x="50" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U0O0pDV_iVMscfXIMqvK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="peoJwj5ZKxhlr8yK2Loq-7" source="U0O0pDV_iVMscfXIMqvK-19" target="U0O0pDV_iVMscfXIMqvK-10">
+        <mxCell id="U0O0pDV_iVMscfXIMqvK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="peoJwj5ZKxhlr8yK2Loq-7" source="U0O0pDV_iVMscfXIMqvK-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="360" as="targetPoint" />
+            <mxPoint x="160" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="181" y="455" />
+              <mxPoint x="181" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U0O0pDV_iVMscfXIMqvK-19" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="peoJwj5ZKxhlr8yK2Loq-7">
