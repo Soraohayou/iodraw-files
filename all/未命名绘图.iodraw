@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nQ2bMXGlxyW_KyzC9o0i-1" value="教师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nQ2bMXGlxyW_KyzC9o0i-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nQ2bMXGlxyW_KyzC9o0i-3" target="dZeJf2hhSCT_UB0IZfjF-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -332,7 +332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nQ2bMXGlxyW_KyzC9o0i-3" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="260" width="60" height="50" as="geometry" />
+          <mxGeometry x="350" y="260" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
