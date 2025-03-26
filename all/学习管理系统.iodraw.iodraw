@@ -253,7 +253,7 @@
         <mxCell id="F3ZGvTxdXzf_GEjbUiHu-1" value="考试" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="290" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F3ZGvTxdXzf_GEjbUiHu-2" value="测验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F3ZGvTxdXzf_GEjbUiHu-2" value="成绩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3ZGvTxdXzf_GEjbUiHu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F3ZGvTxdXzf_GEjbUiHu-2" target="F3ZGvTxdXzf_GEjbUiHu-2">
@@ -265,7 +265,7 @@
             <mxPoint x="400" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3ZGvTxdXzf_GEjbUiHu-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3ZGvTxdXzf_GEjbUiHu-5">
+        <mxCell id="F3ZGvTxdXzf_GEjbUiHu-7" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3ZGvTxdXzf_GEjbUiHu-5">
           <mxGeometry x="-0.0067" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -274,6 +274,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="330" as="sourcePoint" />
             <mxPoint x="320" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3ZGvTxdXzf_GEjbUiHu-8" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3ZGvTxdXzf_GEjbUiHu-6">
+          <mxGeometry x="-0.008" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
