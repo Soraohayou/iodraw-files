@@ -351,6 +351,9 @@
         <mxCell id="nQ2bMXGlxyW_KyzC9o0i-26" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="120" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nQ2bMXGlxyW_KyzC9o0i-27" value="学习计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
