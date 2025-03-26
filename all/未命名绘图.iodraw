@@ -103,11 +103,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qApE2DZHQu65zzMgOScx" name="E-R图">
-    <mxGraphModel dx="600" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dZeJf2hhSCT_UB0IZfjF-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dZeJf2hhSCT_UB0IZfjF-1" value="学生" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dZeJf2hhSCT_UB0IZfjF-2" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -273,7 +273,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQ2bMXGlxyW_KyzC9o0i-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nQ2bMXGlxyW_KyzC9o0i-7" target="dZeJf2hhSCT_UB0IZfjF-1">
+        <mxCell id="nQ2bMXGlxyW_KyzC9o0i-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nQ2bMXGlxyW_KyzC9o0i-7" target="dZeJf2hhSCT_UB0IZfjF-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="310" as="sourcePoint" />
             <mxPoint x="180" y="260" as="targetPoint" />
