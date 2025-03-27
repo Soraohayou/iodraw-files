@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tjzC58DmDrMLoJFfhkEt-1" value="学生" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="70" width="320" height="770" as="geometry" />
+          <mxGeometry x="-50" y="80" width="320" height="770" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-3" target="tjzC58DmDrMLoJFfhkEt-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,9 +25,9 @@
         <mxCell id="tjzC58DmDrMLoJFfhkEt-7" value="测验" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="170" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjzC58DmDrMLoJFfhkEt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-10" target="tjzC58DmDrMLoJFfhkEt-5" edge="1">
+        <mxCell id="tjzC58DmDrMLoJFfhkEt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="440" as="targetPoint" />
+            <mxPoint x="170" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="110" y="585" />
               <mxPoint x="110" y="440" />
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-10" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
-          <mxGeometry x="175" y="560" width="80" height="50" as="geometry" />
+          <mxGeometry x="175" y="570" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1" source="nUXfS9wL3fUMNcOqfLJb-3" target="tjzC58DmDrMLoJFfhkEt-3">
           <mxGeometry relative="1" as="geometry" />
