@@ -162,6 +162,9 @@
             <mxPoint x="880" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1-TkXdcQkgaw3H9HRfp9-7" value="课程信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
