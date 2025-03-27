@@ -180,6 +180,9 @@
         <mxCell id="1-TkXdcQkgaw3H9HRfp9-13" value="课程信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="20" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1-TkXdcQkgaw3H9HRfp9-15" value="D1 课程目录" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="589.3199999999999" y="28.75" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
