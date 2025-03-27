@@ -141,6 +141,9 @@
             <mxPoint x="620" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1-TkXdcQkgaw3H9HRfp9-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="805" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
