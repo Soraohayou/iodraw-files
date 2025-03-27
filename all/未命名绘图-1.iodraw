@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="181" y="555" />
+              <mxPoint x="181" y="545" />
               <mxPoint x="181" y="310" />
             </Array>
           </mxGeometry>
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-10" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="55" y="520" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fBm0S83J1TmXdNmJ0bZx-1" value="在线学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
+          <mxGeometry x="50" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="200" height="750" as="geometry" />
