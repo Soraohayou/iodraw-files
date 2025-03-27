@@ -45,7 +45,7 @@
         <mxCell id="fBm0S83J1TmXdNmJ0bZx-1" value="记录笔记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
           <mxGeometry x="50" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fBm0S83J1TmXdNmJ0bZx-2" value="记录笔记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
+        <mxCell id="fBm0S83J1TmXdNmJ0bZx-2" value="学习记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
           <mxGeometry x="50" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
