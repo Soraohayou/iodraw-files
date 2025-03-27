@@ -144,6 +144,9 @@
         <mxCell id="1-TkXdcQkgaw3H9HRfp9-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="805" y="30" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1-TkXdcQkgaw3H9HRfp9-3" value="D3 学习进度" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="790" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
