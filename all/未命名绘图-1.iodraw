@@ -13,7 +13,7 @@
         <mxCell id="tjzC58DmDrMLoJFfhkEt-3" value="学习计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="50" y="220" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjzC58DmDrMLoJFfhkEt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-5" target="tjzC58DmDrMLoJFfhkEt-7" edge="1">
+        <mxCell id="tjzC58DmDrMLoJFfhkEt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="fBm0S83J1TmXdNmJ0bZx-1" target="tjzC58DmDrMLoJFfhkEt-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-5" value="在线学习" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
@@ -42,9 +42,6 @@
         <mxCell id="tjzC58DmDrMLoJFfhkEt-10" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="55" y="560" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fBm0S83J1TmXdNmJ0bZx-1" value="记录笔记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
-          <mxGeometry x="50" y="360" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="fBm0S83J1TmXdNmJ0bZx-2" value="学习记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
           <mxGeometry x="50" y="420" width="90" height="40" as="geometry" />
         </mxCell>
@@ -54,8 +51,18 @@
             <mxPoint x="300" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="20" y="440" />
+              <mxPoint x="20" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fBm0S83J1TmXdNmJ0bZx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-5" target="fBm0S83J1TmXdNmJ0bZx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="410" as="sourcePoint" />
+            <mxPoint x="165" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fBm0S83J1TmXdNmJ0bZx-1" value="记录笔记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
+          <mxGeometry x="50" y="355" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="200" height="750" as="geometry" />
