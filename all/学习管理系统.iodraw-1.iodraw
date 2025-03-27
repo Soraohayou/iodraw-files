@@ -22,8 +22,13 @@
         <mxCell id="tjzC58DmDrMLoJFfhkEt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-7" target="tjzC58DmDrMLoJFfhkEt-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nUXfS9wL3fUMNcOqfLJb-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjzC58DmDrMLoJFfhkEt-6">
+        <mxCell id="nUXfS9wL3fUMNcOqfLJb-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjzC58DmDrMLoJFfhkEt-6">
           <mxGeometry x="-0.29" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUXfS9wL3fUMNcOqfLJb-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjzC58DmDrMLoJFfhkEt-6">
+          <mxGeometry x="-0.3471" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
