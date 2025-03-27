@@ -65,7 +65,7 @@
           <mxGeometry x="50" y="355" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="70" width="200" height="750" as="geometry" />
+          <mxGeometry x="270" y="70" width="200" height="760" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" source="tjzC58DmDrMLoJFfhkEt-13" target="tjzC58DmDrMLoJFfhkEt-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="55" y="230" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-17" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="70" width="200" height="750" as="geometry" />
+          <mxGeometry x="470" y="70" width="200" height="760" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-18" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-17" vertex="1">
           <mxGeometry x="55" y="100" width="90" height="40" as="geometry" />
