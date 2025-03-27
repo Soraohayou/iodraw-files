@@ -68,7 +68,7 @@
         <mxCell id="tjzC58DmDrMLoJFfhkEt-7" value="测验" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="169" y="570" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjzC58DmDrMLoJFfhkEt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-5" target="tjzC58DmDrMLoJFfhkEt-7" edge="1">
+        <mxCell id="tjzC58DmDrMLoJFfhkEt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="tjzC58DmDrMLoJFfhkEt-1" source="nUXfS9wL3fUMNcOqfLJb-16" target="tjzC58DmDrMLoJFfhkEt-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -135,6 +135,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="625.5" as="sourcePoint" />
             <mxPoint x="320" y="615.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUXfS9wL3fUMNcOqfLJb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nUXfS9wL3fUMNcOqfLJb-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="610" as="sourcePoint" />
+            <mxPoint x="174" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
