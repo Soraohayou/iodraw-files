@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pWNYUPdgd0r0FhHvKAHY-16" value="选课信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="379" y="290" width="70" height="30" as="geometry" />
+          <mxGeometry x="344" y="265" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pWNYUPdgd0r0FhHvKAHY-17" value="D3 学习进度" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" parent="1" vertex="1">
           <mxGeometry x="524" y="130" width="120" height="30" as="geometry" />
