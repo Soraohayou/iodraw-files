@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="595" />
+              <mxPoint x="110" y="635" />
               <mxPoint x="110" y="440" />
             </Array>
           </mxGeometry>
@@ -45,10 +45,10 @@
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-3" value="选择课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
           <mxGeometry x="170" y="280" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nUXfS9wL3fUMNcOqfLJb-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-7" target="tjzC58DmDrMLoJFfhkEt-10">
+        <mxCell id="nUXfS9wL3fUMNcOqfLJb-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="560" as="sourcePoint" />
-            <mxPoint x="400" y="510" as="targetPoint" />
+            <mxPoint x="300" y="520" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
