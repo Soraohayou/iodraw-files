@@ -215,8 +215,14 @@
         <mxCell id="UwWzej3bJQ26EkeHnBeg-12" value="在线考试功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="350" width="25" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="UwWzej3bJQ26EkeHnBeg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UwWzej3bJQ26EkeHnBeg-16" target="Bab3wqSh_8S838NKyjmv-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UwWzej3bJQ26EkeHnBeg-16" value="学习计划功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="492.5" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UwWzej3bJQ26EkeHnBeg-17" value="进度追踪功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
