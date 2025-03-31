@@ -57,14 +57,20 @@
         <mxCell id="AXbUqoqptNX_mlh6mBf6-1" value="完成作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
           <mxGeometry x="300" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AXbUqoqptNX_mlh6mBf6-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1" target="AXbUqoqptNX_mlh6mBf6-1">
+        <mxCell id="AXbUqoqptNX_mlh6mBf6-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1" source="nUXfS9wL3fUMNcOqfLJb-16" target="AXbUqoqptNX_mlh6mBf6-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="530" as="sourcePoint" />
             <mxPoint x="340" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="550" />
+              <mxPoint x="195" y="550" />
               <mxPoint x="345" y="550" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXbUqoqptNX_mlh6mBf6-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="490" as="sourcePoint" />
+            <mxPoint x="330" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
