@@ -100,7 +100,7 @@
         <mxCell id="tjzC58DmDrMLoJFfhkEt-16" value="章节管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
           <mxGeometry x="55" y="230" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nUXfS9wL3fUMNcOqfLJb-11" value="测验成绩判定" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
+        <mxCell id="nUXfS9wL3fUMNcOqfLJb-11" value="判定成绩" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
           <mxGeometry x="54" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="tjzC58DmDrMLoJFfhkEt-11" source="tjzC58DmDrMLoJFfhkEt-14" edge="1">
