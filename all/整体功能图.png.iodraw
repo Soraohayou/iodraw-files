@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-115" value="学习记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="350" width="25" height="110" as="geometry" />
+          <mxGeometry x="320" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-116" value="学习计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="350" width="25" height="110" as="geometry" />
