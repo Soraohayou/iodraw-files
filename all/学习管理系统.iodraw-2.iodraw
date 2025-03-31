@@ -33,7 +33,7 @@
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="nUXfS9wL3fUMNcOqfLJb-3" target="tjzC58DmDrMLoJFfhkEt-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nUXfS9wL3fUMNcOqfLJb-3" value="选择课程" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
+        <mxCell id="nUXfS9wL3fUMNcOqfLJb-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;选择课程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="151" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-10" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
