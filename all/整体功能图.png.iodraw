@@ -97,14 +97,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aeiXewi3adFYN4iq3wk0-1" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="492.5" y="350" width="25" height="110" as="geometry" />
+        <mxCell id="UwWzej3bJQ26EkeHnBeg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aeiXewi3adFYN4iq3wk0-1" target="Bab3wqSh_8S838NKyjmv-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aeiXewi3adFYN4iq3wk0-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bab3wqSh_8S838NKyjmv-93" target="aeiXewi3adFYN4iq3wk0-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="400" as="sourcePoint" />
-            <mxPoint x="620" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="aeiXewi3adFYN4iq3wk0-1" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="aeiXewi3adFYN4iq3wk0-3" value="考试管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="350" width="25" height="110" as="geometry" />
@@ -217,6 +214,9 @@
         </mxCell>
         <mxCell id="UwWzej3bJQ26EkeHnBeg-12" value="在线考试功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UwWzej3bJQ26EkeHnBeg-16" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="360" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
