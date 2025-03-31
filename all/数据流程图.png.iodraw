@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="RdKEgATblfLDoyXqk2wf">
-    <mxGraphModel dx="1111" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pWNYUPdgd0r0FhHvKAHY-16" value="选课信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="294" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="313.5" y="258.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pWNYUPdgd0r0FhHvKAHY-17" value="D4 学习进度" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="620" y="120" width="120" height="30" as="geometry" />
@@ -176,7 +176,7 @@
         <mxCell id="1-TkXdcQkgaw3H9HRfp9-11" value="D1 课程目录" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="449" y="10" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1-TkXdcQkgaw3H9HRfp9-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="pWNYUPdgd0r0FhHvKAHY-12" edge="1">
+        <mxCell id="1-TkXdcQkgaw3H9HRfp9-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="pWNYUPdgd0r0FhHvKAHY-12" target="1-TkXdcQkgaw3H9HRfp9-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="325" y="10" as="sourcePoint" />
             <mxPoint x="414" y="25" as="targetPoint" />
