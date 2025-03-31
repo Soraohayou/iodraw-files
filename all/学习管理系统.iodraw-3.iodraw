@@ -826,7 +826,7 @@
         <mxCell id="YaxdmcrEvu0G4sxnY8o4-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;在线考试功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="350" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YaxdmcrEvu0G4sxnY8o4-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;作业管理功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YaxdmcrEvu0G4sxnY8o4-7" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;学习笔记功能&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="100" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YaxdmcrEvu0G4sxnY8o4-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YaxdmcrEvu0G4sxnY8o4-7">
