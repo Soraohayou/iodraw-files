@@ -205,13 +205,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M--yPhk5_oWRlXJQHDRg-5" value="课程信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="280" width="70" height="30" as="geometry" />
+          <mxGeometry x="800.32" y="280" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M--yPhk5_oWRlXJQHDRg-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M--yPhk5_oWRlXJQHDRg-1">
+        <mxCell id="M--yPhk5_oWRlXJQHDRg-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M--yPhk5_oWRlXJQHDRg-1" target="pWNYUPdgd0r0FhHvKAHY-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="278" as="sourcePoint" />
             <mxPoint x="880.3200000000052" y="345" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M--yPhk5_oWRlXJQHDRg-8" value="课程信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="295" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
