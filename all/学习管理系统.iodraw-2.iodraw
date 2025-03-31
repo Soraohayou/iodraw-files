@@ -57,9 +57,9 @@
         <mxCell id="AXbUqoqptNX_mlh6mBf6-1" value="完成作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
           <mxGeometry x="300" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AXbUqoqptNX_mlh6mBf6-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1">
+        <mxCell id="AXbUqoqptNX_mlh6mBf6-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.706;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1" target="AXbUqoqptNX_mlh6mBf6-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="550" as="sourcePoint" />
+            <mxPoint x="200" y="550" as="sourcePoint" />
             <mxPoint x="340" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
