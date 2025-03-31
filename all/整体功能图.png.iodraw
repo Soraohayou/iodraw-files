@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bab3wqSh_8S838NKyjmv-106" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Bab3wqSh_8S838NKyjmv-106" value="课程管理功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="350" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Bab3wqSh_8S838NKyjmv-109" value="用户选课删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
