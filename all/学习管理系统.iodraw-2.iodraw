@@ -743,12 +743,12 @@
         <mxCell id="Pd4QrWhlxXgyqjD2STGd-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="130" as="sourcePoint" />
-            <mxPoint x="520" y="200" as="targetPoint" />
+            <mxPoint x="510" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pd4QrWhlxXgyqjD2STGd-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="230" as="sourcePoint" />
+            <mxPoint x="510" y="240" as="sourcePoint" />
             <mxPoint x="610" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
