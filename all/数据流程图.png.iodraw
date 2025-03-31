@@ -204,8 +204,8 @@
             <mxPoint x="870.3200000000052" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M--yPhk5_oWRlXJQHDRg-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="775" y="268" width="50" height="30" as="geometry" />
+        <mxCell id="M--yPhk5_oWRlXJQHDRg-5" value="课程信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
