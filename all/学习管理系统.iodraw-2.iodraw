@@ -782,6 +782,9 @@
         <mxCell id="Pd4QrWhlxXgyqjD2STGd-16" value="&lt;b&gt;用户信息，通知信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=40;" vertex="1" parent="1">
           <mxGeometry x="510" y="280" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Pd4QrWhlxXgyqjD2STGd-17" value="&lt;b&gt;消息汇总&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=40;" vertex="1" parent="1">
+          <mxGeometry x="510" y="325" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
