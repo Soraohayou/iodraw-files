@@ -675,7 +675,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7-d4DbD7MZsiRrFhj90D" name="用户管理模块用例图">
-    <mxGraphModel dx="244" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="512" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -683,13 +683,13 @@
           <mxGeometry x="200" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H0cmNAb9mrdmlww8QWET-2" value="登录功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="160" width="80" height="50" as="geometry" />
+          <mxGeometry x="280" y="160" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H0cmNAb9mrdmlww8QWET-3" value="注册功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="230" width="80" height="50" as="geometry" />
+          <mxGeometry x="280" y="240" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H0cmNAb9mrdmlww8QWET-4" value="用户资料修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="310" width="80" height="50" as="geometry" />
+          <mxGeometry x="280" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H0cmNAb9mrdmlww8QWET-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0cmNAb9mrdmlww8QWET-1" target="H0cmNAb9mrdmlww8QWET-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -701,6 +701,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="260" as="sourcePoint" />
             <mxPoint x="170" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0cmNAb9mrdmlww8QWET-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="380" as="sourcePoint" />
+            <mxPoint x="250" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
