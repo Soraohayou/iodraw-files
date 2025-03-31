@@ -767,8 +767,8 @@
         </mxCell>
         <mxCell id="Pd4QrWhlxXgyqjD2STGd-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="360" as="sourcePoint" />
-            <mxPoint x="600" y="410" as="targetPoint" />
+            <mxPoint x="510" y="290" as="sourcePoint" />
+            <mxPoint x="610" y="370" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -778,6 +778,9 @@
             <mxPoint x="510" y="260" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Pd4QrWhlxXgyqjD2STGd-16" value="&lt;b&gt;测验信息&amp;nbsp; &amp;nbsp; 评价信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
