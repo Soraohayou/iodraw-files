@@ -762,8 +762,15 @@
         <mxCell id="Pd4QrWhlxXgyqjD2STGd-11" value="&lt;b&gt;课程信息&amp;nbsp; &amp;nbsp; 测验信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pd4QrWhlxXgyqjD2STGd-12" value="&lt;b&gt;测验信息&amp;nbsp; &amp;nbsp; 评价信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="130" height="30" as="geometry" />
+        <mxCell id="Pd4QrWhlxXgyqjD2STGd-12" value="&lt;b&gt;测验信息&amp;nbsp; &amp;nbsp; 评价信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd4QrWhlxXgyqjD2STGd-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="240" as="sourcePoint" />
+            <mxPoint x="610" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
