@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="8">
   <diagram name="整体流程图" id="qPWRYi5D54e6Vu29KZXm">
-    <mxGraphModel dx="1527" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,9 @@
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-16" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="150" y="490" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AXbUqoqptNX_mlh6mBf6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-7" target="AXbUqoqptNX_mlh6mBf6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-7" value="测验" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="150" y="570" width="90" height="40" as="geometry" />
         </mxCell>
@@ -77,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AXbUqoqptNX_mlh6mBf6-6" value="完成作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
-          <mxGeometry x="151" y="620" width="90" height="40" as="geometry" />
+          <mxGeometry x="150" y="650" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="200" height="970" as="geometry" />
