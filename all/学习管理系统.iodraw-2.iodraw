@@ -16,10 +16,11 @@
         <mxCell id="tjzC58DmDrMLoJFfhkEt-5" value="在线学习" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="151" y="420" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjzC58DmDrMLoJFfhkEt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-10" edge="1">
+        <mxCell id="tjzC58DmDrMLoJFfhkEt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="440" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="155" y="695" />
               <mxPoint x="110" y="695" />
               <mxPoint x="110" y="440" />
             </Array>
@@ -37,7 +38,7 @@
           <mxGeometry x="151" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-10" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
-          <mxGeometry x="155" y="670" width="80" height="50" as="geometry" />
+          <mxGeometry x="155" y="720" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-16" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="150" y="490" width="90" height="40" as="geometry" />
