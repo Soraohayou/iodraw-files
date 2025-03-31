@@ -192,7 +192,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UwWzej3bJQ26EkeHnBeg-0" value="课程观看功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="269" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="275" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UwWzej3bJQ26EkeHnBeg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UwWzej3bJQ26EkeHnBeg-3" target="Bab3wqSh_8S838NKyjmv-92">
           <mxGeometry relative="1" as="geometry" />
@@ -207,7 +207,10 @@
           <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UwWzej3bJQ26EkeHnBeg-7" value="作业管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="389" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="380" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UwWzej3bJQ26EkeHnBeg-12" value="作业管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
