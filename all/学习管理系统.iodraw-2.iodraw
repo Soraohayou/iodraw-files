@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="8">
   <diagram name="整体流程图" id="qPWRYi5D54e6Vu29KZXm">
-    <mxGraphModel dx="1877" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-3" value="制定学习计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
-          <mxGeometry x="170" y="350" width="90" height="40" as="geometry" />
+          <mxGeometry x="151" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-5" value="在线学习" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
-          <mxGeometry x="170" y="420" width="90" height="40" as="geometry" />
+          <mxGeometry x="151" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -34,24 +34,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-3" value="选择课程" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
-          <mxGeometry x="170" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="151" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-10" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
-          <mxGeometry x="174" y="670" width="80" height="50" as="geometry" />
+          <mxGeometry x="155" y="670" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-16" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
-          <mxGeometry x="169" y="490" width="90" height="40" as="geometry" />
+          <mxGeometry x="150" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-7" value="测验" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
-          <mxGeometry x="169" y="570" width="90" height="40" as="geometry" />
+          <mxGeometry x="150" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="tjzC58DmDrMLoJFfhkEt-1" source="nUXfS9wL3fUMNcOqfLJb-16" target="tjzC58DmDrMLoJFfhkEt-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="tjzC58DmDrMLoJFfhkEt-1" source="tjzC58DmDrMLoJFfhkEt-5" target="nUXfS9wL3fUMNcOqfLJb-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="224" y="540" as="sourcePoint" />
-            <mxPoint x="224" y="580" as="targetPoint" />
+            <mxPoint x="205" y="540" as="sourcePoint" />
+            <mxPoint x="205" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AXbUqoqptNX_mlh6mBf6-1" value="完成作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tjzC58DmDrMLoJFfhkEt-1">
