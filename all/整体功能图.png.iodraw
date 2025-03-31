@@ -105,8 +105,8 @@
             <mxPoint x="292.5" y="350" as="sourcePoint" />
             <mxPoint x="360" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="320" />
-              <mxPoint x="358" y="320" />
+              <mxPoint x="310" y="320" />
+              <mxPoint x="360" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UwWzej3bJQ26EkeHnBeg-0" value="课程观看功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="300" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
