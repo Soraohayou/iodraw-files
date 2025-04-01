@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qApE2DZHQu65zzMgOScx" name="E-R图">
-    <mxGraphModel dx="350" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -385,6 +385,9 @@
           <mxGeometry x="-0.0033" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7SeanhSyEniHI7cQ7gdz-14" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
