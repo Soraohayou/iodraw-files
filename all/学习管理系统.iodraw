@@ -386,7 +386,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7SeanhSyEniHI7cQ7gdz-14" value="作业记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7SeanhSyEniHI7cQ7gdz-14" value="作业完成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7SeanhSyEniHI7cQ7gdz-16" value="生成" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
