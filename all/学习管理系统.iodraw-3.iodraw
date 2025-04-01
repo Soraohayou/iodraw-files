@@ -986,8 +986,8 @@
         <mxCell id="UGySiZdZE3lcFrmcWgtS-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UGySiZdZE3lcFrmcWgtS-12" value="题目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="UGySiZdZE3lcFrmcWgtS-12" value="题目答案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="330" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
