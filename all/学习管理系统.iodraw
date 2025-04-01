@@ -443,7 +443,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aVUIM8Mr7rapjRaKqxcp-9" value="学习计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="-110" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aVUIM8Mr7rapjRaKqxcp-10" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="60" height="50" as="geometry" />
@@ -454,7 +454,7 @@
             <mxPoint x="50" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aVUIM8Mr7rapjRaKqxcp-13" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aVUIM8Mr7rapjRaKqxcp-11">
+        <mxCell id="aVUIM8Mr7rapjRaKqxcp-13" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aVUIM8Mr7rapjRaKqxcp-11">
           <mxGeometry x="0.2029" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
