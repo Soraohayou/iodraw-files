@@ -965,7 +965,7 @@
         <mxCell id="UGySiZdZE3lcFrmcWgtS-1" value="作业题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UGySiZdZE3lcFrmcWgtS-2" value="章节ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UGySiZdZE3lcFrmcWgtS-2" value="题目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGySiZdZE3lcFrmcWgtS-3" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -982,6 +982,12 @@
             <mxPoint x="490" y="220" as="sourcePoint" />
             <mxPoint x="540" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UGySiZdZE3lcFrmcWgtS-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UGySiZdZE3lcFrmcWgtS-12" value="题目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
