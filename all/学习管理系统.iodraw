@@ -304,7 +304,7 @@
             <mxPoint x="330" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZeJf2hhSCT_UB0IZfjF-32" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dZeJf2hhSCT_UB0IZfjF-31" vertex="1" connectable="0">
+        <mxCell id="dZeJf2hhSCT_UB0IZfjF-32" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dZeJf2hhSCT_UB0IZfjF-31" vertex="1" connectable="0">
           <mxGeometry x="-0.0759" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -413,9 +413,6 @@
           <mxGeometry x="0.0157" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aVUIM8Mr7rapjRaKqxcp-1" value="教师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aVUIM8Mr7rapjRaKqxcp-9" value="学习计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="200" width="80" height="30" as="geometry" />
