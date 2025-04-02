@@ -1271,7 +1271,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fpLOF6rFbrw_ORuVIhkJ-1" value="用户" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="70" width="320" height="850" as="geometry" />
+          <mxGeometry x="-250" y="70" width="520" height="850" as="geometry" />
         </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fpLOF6rFbrw_ORuVIhkJ-1" source="h-74lFwKIEVLyb-PBxDJ-3" target="h-74lFwKIEVLyb-PBxDJ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1281,9 +1281,6 @@
         </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-4" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-1">
           <mxGeometry x="110" y="220" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h-74lFwKIEVLyb-PBxDJ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-1">
-          <mxGeometry x="110" y="290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fpLOF6rFbrw_ORuVIhkJ-27" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="200" height="850" as="geometry" />
