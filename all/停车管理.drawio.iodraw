@@ -1061,7 +1061,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0DBzOVBCJN8kybDQcG8c" name="整体E-R图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1179,6 +1179,9 @@
         </mxCell>
         <mxCell id="z0HEchNNH4Pd9ZCAVpR7-23" value="管理" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="230" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i16zhR5Nm7vlm6c5RWsC-1" value="停车记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="170" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
