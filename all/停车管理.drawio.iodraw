@@ -216,10 +216,10 @@
         <mxCell id="WnYHHapn1WjMisPX5076-16" value="查询车位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="260" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WnYHHapn1WjMisPX5076-17" value="登记车辆" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WnYHHapn1WjMisPX5076-17" value="&#xa;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&#xa;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:&#xa;minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;查找&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="260" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WnYHHapn1WjMisPX5076-18" value="支付订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WnYHHapn1WjMisPX5076-18" value="查询车辆" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="393" y="260" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WnYHHapn1WjMisPX5076-20" value="统计&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%94%AF%E4%BB%98%E8%AE%A2%E5%8D%95%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22394%22%20y%3D%22260%22%20width%3D%2220%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
