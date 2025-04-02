@@ -1321,6 +1321,9 @@
         <mxCell id="OWLapg2snQzrE3xBfcl7-1" value="D3 车位信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
           <mxGeometry x="346" y="10" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OWLapg2snQzrE3xBfcl7-4" value="1.自助停车" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="224" width="100" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
