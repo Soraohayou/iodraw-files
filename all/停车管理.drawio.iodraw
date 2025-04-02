@@ -1317,11 +1317,6 @@
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-19" value="检查车位可用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-1">
           <mxGeometry x="160" y="405" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-74lFwKIEVLyb-PBxDJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fpLOF6rFbrw_ORuVIhkJ-1" source="h-74lFwKIEVLyb-PBxDJ-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-23" value="是否可用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-1">
           <mxGeometry x="165" y="480" width="80" height="50" as="geometry" />
         </mxCell>
@@ -1513,6 +1508,11 @@
         </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-21" value="选择车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-74lFwKIEVLyb-PBxDJ-23" target="h-74lFwKIEVLyb-PBxDJ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
