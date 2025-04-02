@@ -1229,7 +1229,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyxOMvw3H1c2swVO3y-Y-5" value="D2 车辆信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="160" y="220" width="90" height="30" as="geometry" />
+          <mxGeometry x="-40" y="310" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oyxOMvw3H1c2swVO3y-Y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyxOMvw3H1c2swVO3y-Y-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1246,7 +1246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oyxOMvw3H1c2swVO3y-Y-7" value="D1 车主信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="220" width="90" height="30" as="geometry" />
+          <mxGeometry x="-30" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oyxOMvw3H1c2swVO3y-Y-9" value="车主信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-100" y="208" width="70" height="30" as="geometry" />
