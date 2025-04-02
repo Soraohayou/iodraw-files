@@ -1492,27 +1492,14 @@
         <mxCell id="Jib7saHUGaABGRAQnasL-24" value="车主进入停车场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jib7saHUGaABGRAQnasL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Jib7saHUGaABGRAQnasL-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="420" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="356" y="420" />
-              <mxPoint x="356" y="456" />
-              <mxPoint x="355" y="456" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="440" width="90" height="40" as="geometry" />
+          <mxGeometry x="850" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jib7saHUGaABGRAQnasL-37" target="Jib7saHUGaABGRAQnasL-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-37" value="获取车位费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Jib7saHUGaABGRAQnasL-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jib7saHUGaABGRAQnasL-39" target="Jib7saHUGaABGRAQnasL-33">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-39" value="车主离开停车场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="100" width="90" height="40" as="geometry" />
