@@ -104,7 +104,7 @@
         <mxCell id="wVv2iowauk8CJvYLgEFa-2" value="预约车位" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="130" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wVv2iowauk8CJvYLgEFa-3" value="查询空闲车位" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wVv2iowauk8CJvYLgEFa-3" value="空闲车位查找" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="195" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wVv2iowauk8CJvYLgEFa-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wVv2iowauk8CJvYLgEFa-1" target="wVv2iowauk8CJvYLgEFa-2" edge="1">
