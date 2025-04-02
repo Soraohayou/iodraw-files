@@ -1421,8 +1421,8 @@
         <mxCell id="OWLapg2snQzrE3xBfcl7-34" value="停车记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="990" y="200" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWLapg2snQzrE3xBfcl7-35" value="5.消息汇总" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="218" width="100" height="42" as="geometry" />
+        <mxCell id="OWLapg2snQzrE3xBfcl7-36" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2189" y="240" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
