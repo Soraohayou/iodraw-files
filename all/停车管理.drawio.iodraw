@@ -1519,6 +1519,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-26" value="检查车位可用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="485" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
