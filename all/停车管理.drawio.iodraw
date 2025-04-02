@@ -1512,6 +1512,11 @@
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-74lFwKIEVLyb-PBxDJ-23" target="h-74lFwKIEVLyb-PBxDJ-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-140" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="575" />
+              <mxPoint x="-150" y="360" />
+              <mxPoint x="-45" y="360" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
