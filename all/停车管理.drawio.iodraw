@@ -1283,7 +1283,7 @@
           <mxGeometry x="55" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-1" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-27">
-          <mxGeometry x="55" y="140" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fpLOF6rFbrw_ORuVIhkJ-38" value="学生" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="80" width="320" height="850" as="geometry" />
@@ -1438,6 +1438,9 @@
             <mxPoint x="1520" y="430" as="sourcePoint" />
             <mxPoint x="1570" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-3" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="240" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
