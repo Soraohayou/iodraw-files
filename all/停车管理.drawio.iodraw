@@ -1266,7 +1266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="elfdsv3XFj_t-uUHwucr" name="业务流程图">
-    <mxGraphModel dx="2140" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1403,6 +1403,9 @@
         </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-44" value="支付费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-27">
           <mxGeometry x="55" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fpLOF6rFbrw_ORuVIhkJ-27" source="h-74lFwKIEVLyb-PBxDJ-47" target="h-74lFwKIEVLyb-PBxDJ-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-47" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-27">
           <mxGeometry x="55" y="790" width="90" height="40" as="geometry" />
