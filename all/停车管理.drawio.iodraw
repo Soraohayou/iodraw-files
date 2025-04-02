@@ -1266,7 +1266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="elfdsv3XFj_t-uUHwucr" name="业务流程图">
-    <mxGraphModel dx="1877" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1305,8 +1305,14 @@
             <mxPoint x="205.00000000000045" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fpLOF6rFbrw_ORuVIhkJ-1" source="h-74lFwKIEVLyb-PBxDJ-16" target="h-74lFwKIEVLyb-PBxDJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-16" value="选择车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-1">
           <mxGeometry x="310" y="405" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fpLOF6rFbrw_ORuVIhkJ-1" source="h-74lFwKIEVLyb-PBxDJ-18" target="h-74lFwKIEVLyb-PBxDJ-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-18" value="检查车位可用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-1">
           <mxGeometry x="310" y="485" width="90" height="40" as="geometry" />
@@ -1526,6 +1532,11 @@
               <mxPoint x="-150" y="360" />
               <mxPoint x="-45" y="360" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h-74lFwKIEVLyb-PBxDJ-25">
+          <mxGeometry x="-0.1977" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
