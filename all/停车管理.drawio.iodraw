@@ -1330,6 +1330,26 @@
         <mxCell id="OWLapg2snQzrE3xBfcl7-7" value="D3 车位信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OWLapg2snQzrE3xBfcl7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWLapg2snQzrE3xBfcl7-9" target="OWLapg2snQzrE3xBfcl7-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWLapg2snQzrE3xBfcl7-9" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWLapg2snQzrE3xBfcl7-10" value="D3 车位信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWLapg2snQzrE3xBfcl7-11" value="车位信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="228" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWLapg2snQzrE3xBfcl7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWLapg2snQzrE3xBfcl7-13" target="OWLapg2snQzrE3xBfcl7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWLapg2snQzrE3xBfcl7-13" value="D3 车位信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-50" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
