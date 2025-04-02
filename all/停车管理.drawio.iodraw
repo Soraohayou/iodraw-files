@@ -1392,6 +1392,9 @@
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-9" value="车位管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-27">
           <mxGeometry x="55" y="290" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-43" value="结束计费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-27">
+          <mxGeometry x="55" y="650" width="90" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="fpLOF6rFbrw_ORuVIhkJ-38" value="学生" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="80" width="320" height="850" as="geometry" />
         </mxCell>
@@ -1571,9 +1574,6 @@
           <mxGeometry x="-0.1977" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="h-74lFwKIEVLyb-PBxDJ-43" value="车位管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="370" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
