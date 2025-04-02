@@ -119,6 +119,15 @@
             <mxPoint x="150" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lWkQD6CyN4rwjgRR7ER3-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wVv2iowauk8CJvYLgEFa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lWkQD6CyN4rwjgRR7ER3-2" value="查询空闲车位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="205" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
