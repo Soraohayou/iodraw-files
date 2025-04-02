@@ -198,7 +198,7 @@
         <mxCell id="WnYHHapn1WjMisPX5076-10" value="修改用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="260" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WnYHHapn1WjMisPX5076-11" value="删除用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WnYHHapn1WjMisPX5076-11" value="用户信息修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="260" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WnYHHapn1WjMisPX5076-12" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -465,7 +465,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9CUnWtz99li9Z8clavE-2" value="查询车辆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V9CUnWtz99li9Z8clavE-2" value="计算停车费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
