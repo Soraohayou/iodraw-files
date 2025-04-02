@@ -446,8 +446,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="V9CUnWtz99li9Z8clavE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9CUnWtz99li9Z8clavE-1" target="WnYHHapn1WjMisPX5076-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="250" />
+              <mxPoint x="380" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V9CUnWtz99li9Z8clavE-1" value="登记车辆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="V9CUnWtz99li9Z8clavE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9CUnWtz99li9Z8clavE-2" target="WnYHHapn1WjMisPX5076-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="250" />
+              <mxPoint x="380" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="V9CUnWtz99li9Z8clavE-2" value="查询车辆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="20" height="110" as="geometry" />
