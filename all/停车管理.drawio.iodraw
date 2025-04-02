@@ -1530,35 +1530,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q3tCZauXuCyxeUuaTl5t-1" value="车辆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q3tCZauXuCyxeUuaTl5t-1" value="区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q3tCZauXuCyxeUuaTl5t-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q3tCZauXuCyxeUuaTl5t-3" value="车主id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q3tCZauXuCyxeUuaTl5t-3" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="220" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Q3tCZauXuCyxeUuaTl5t-4" value="车牌" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Q3tCZauXuCyxeUuaTl5t-5" value="类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q3tCZauXuCyxeUuaTl5t-6" value="颜色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Q3tCZauXuCyxeUuaTl5t-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q3tCZauXuCyxeUuaTl5t-1" target="Q3tCZauXuCyxeUuaTl5t-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="260" as="sourcePoint" />
-            <mxPoint x="120" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q3tCZauXuCyxeUuaTl5t-8" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.02;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q3tCZauXuCyxeUuaTl5t-1" target="Q3tCZauXuCyxeUuaTl5t-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="360" as="sourcePoint" />
-            <mxPoint x="160" y="310" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Q3tCZauXuCyxeUuaTl5t-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q3tCZauXuCyxeUuaTl5t-6" target="Q3tCZauXuCyxeUuaTl5t-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
