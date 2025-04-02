@@ -1282,7 +1282,7 @@
         <mxCell id="fpLOF6rFbrw_ORuVIhkJ-75" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="fpLOF6rFbrw_ORuVIhkJ-27" vertex="1">
           <mxGeometry x="55" y="60" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-74lFwKIEVLyb-PBxDJ-1" value="停车记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-27">
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-1" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-27">
           <mxGeometry x="55" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fpLOF6rFbrw_ORuVIhkJ-38" value="学生" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
