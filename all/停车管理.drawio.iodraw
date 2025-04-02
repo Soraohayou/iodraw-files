@@ -1472,14 +1472,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Jib7saHUGaABGRAQnasL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jib7saHUGaABGRAQnasL-24" target="Jib7saHUGaABGRAQnasL-37">
+        <mxCell id="Jib7saHUGaABGRAQnasL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jib7saHUGaABGRAQnasL-24" target="Jib7saHUGaABGRAQnasL-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jib7saHUGaABGRAQnasL-21" target="Jib7saHUGaABGRAQnasL-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-21" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="30" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jib7saHUGaABGRAQnasL-23" target="Jib7saHUGaABGRAQnasL-41">
           <mxGeometry relative="1" as="geometry">
@@ -1490,7 +1490,7 @@
           <mxGeometry x="310" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-24" value="车主进入停车场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="160" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Jib7saHUGaABGRAQnasL-33">
           <mxGeometry relative="1" as="geometry">
@@ -1509,7 +1509,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-37" value="获取车位费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="180" width="90" height="40" as="geometry" />
+          <mxGeometry x="310" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jib7saHUGaABGRAQnasL-39" target="Jib7saHUGaABGRAQnasL-33">
           <mxGeometry relative="1" as="geometry" />
