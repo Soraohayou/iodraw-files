@@ -1501,7 +1501,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-9" value="是否履行预约" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="305" y="210" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Jib7saHUGaABGRAQnasL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jib7saHUGaABGRAQnasL-11" target="Jib7saHUGaABGRAQnasL-15">
           <mxGeometry relative="1" as="geometry" />
@@ -1526,6 +1526,7 @@
             <mxPoint x="390" y="280" as="sourcePoint" />
             <mxPoint x="440" y="230" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="430" y="245" />
               <mxPoint x="465" y="250" />
             </Array>
           </mxGeometry>
