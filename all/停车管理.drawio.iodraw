@@ -1503,6 +1503,9 @@
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-21" value="选择车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="400" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-22" value="检查车位可用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="555" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
