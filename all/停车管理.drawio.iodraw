@@ -1314,6 +1314,9 @@
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-19" value="检查车位可用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-1">
           <mxGeometry x="160" y="405" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h-74lFwKIEVLyb-PBxDJ-23" value="是否可用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="fpLOF6rFbrw_ORuVIhkJ-1">
+          <mxGeometry x="160" y="480" width="80" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="fpLOF6rFbrw_ORuVIhkJ-27" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="200" height="850" as="geometry" />
         </mxCell>
@@ -1502,9 +1505,6 @@
         </mxCell>
         <mxCell id="h-74lFwKIEVLyb-PBxDJ-21" value="选择车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="400" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h-74lFwKIEVLyb-PBxDJ-23" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="924" y="760" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
