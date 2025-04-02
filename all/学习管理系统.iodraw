@@ -1568,6 +1568,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SEk-kVo4wF_j5VDKVsGK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SEk-kVo4wF_j5VDKVsGK-4" target="SEk-kVo4wF_j5VDKVsGK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SEk-kVo4wF_j5VDKVsGK-4" value="进度保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="410" width="106" height="40" as="geometry" />
         </mxCell>
@@ -1576,6 +1579,9 @@
         </mxCell>
         <mxCell id="SEk-kVo4wF_j5VDKVsGK-5" value="读取进度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="250" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEk-kVo4wF_j5VDKVsGK-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="490" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
