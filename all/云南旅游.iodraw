@@ -198,11 +198,32 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EPKPA77bIQwTJ_XiFlxF" name="第 6 页">
+  <diagram id="EPKPA77bIQwTJ_XiFlxF" name="评分功能用例图">
     <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RKdZ3y7FW_J2pry3_ujk-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKdZ3y7FW_J2pry3_ujk-2" value="关键词搜索" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKdZ3y7FW_J2pry3_ujk-3" value="全局搜索" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKdZ3y7FW_J2pry3_ujk-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKdZ3y7FW_J2pry3_ujk-1" target="RKdZ3y7FW_J2pry3_ujk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="380" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RKdZ3y7FW_J2pry3_ujk-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RKdZ3y7FW_J2pry3_ujk-1" target="RKdZ3y7FW_J2pry3_ujk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="270" as="sourcePoint" />
+            <mxPoint x="740" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
