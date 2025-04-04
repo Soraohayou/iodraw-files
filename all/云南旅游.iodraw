@@ -244,7 +244,7 @@
         <mxCell id="buvbputKa599DAh_2bLO-4" value="收藏分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="buvbputKa599DAh_2bLO-5" value="学习管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="buvbputKa599DAh_2bLO-5" value="搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-6" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -374,7 +374,7 @@
         <mxCell id="buvbputKa599DAh_2bLO-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-39" target="buvbputKa599DAh_2bLO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="buvbputKa599DAh_2bLO-39" value="在线考试功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="buvbputKa599DAh_2bLO-39" value="查看收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="393.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-41" target="buvbputKa599DAh_2bLO-5">
