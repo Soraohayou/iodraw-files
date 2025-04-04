@@ -305,8 +305,11 @@
         <mxCell id="buvbputKa599DAh_2bLO-15" value="轮播图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="buvbputKa599DAh_2bLO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-16" target="buvbputKa599DAh_2bLO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-16" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="250" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-20" target="buvbputKa599DAh_2bLO-5">
           <mxGeometry relative="1" as="geometry" />
