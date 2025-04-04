@@ -445,6 +445,9 @@
             <mxPoint x="610" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wBOEf6oXfVpvxFuLEMjf-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wBOEf6oXfVpvxFuLEMjf-18" target="wBOEf6oXfVpvxFuLEMjf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wBOEf6oXfVpvxFuLEMjf-18" value="查询" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="225" width="80" height="50" as="geometry" />
         </mxCell>
@@ -454,7 +457,7 @@
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wBOEf6oXfVpvxFuLEMjf-20" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wBOEf6oXfVpvxFuLEMjf-20" value="文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
