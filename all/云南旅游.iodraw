@@ -314,7 +314,7 @@
         <mxCell id="buvbputKa599DAh_2bLO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-20" target="buvbputKa599DAh_2bLO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="buvbputKa599DAh_2bLO-20" value="笔记管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="buvbputKa599DAh_2bLO-20" value="全局搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-22" target="buvbputKa599DAh_2bLO-6">
@@ -380,14 +380,13 @@
         <mxCell id="buvbputKa599DAh_2bLO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-41" target="buvbputKa599DAh_2bLO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="buvbputKa599DAh_2bLO-41" value="学习计划功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="buvbputKa599DAh_2bLO-41" value="关键词搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="buvbputKa599DAh_2bLO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-43" target="buvbputKa599DAh_2bLO-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="buvbputKa599DAh_2bLO-43" value="进度追踪功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="350" width="25" height="140" as="geometry" />
+        <mxCell id="buvbputKa599DAh_2bLO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="buvbputKa599DAh_2bLO-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="542.5" y="350" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-44" target="buvbputKa599DAh_2bLO-3">
           <mxGeometry relative="1" as="geometry" />
