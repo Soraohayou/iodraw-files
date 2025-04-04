@@ -299,6 +299,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="buvbputKa599DAh_2bLO-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-15" target="buvbputKa599DAh_2bLO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-15" value="轮播图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
@@ -373,23 +376,17 @@
             <mxPoint x="660" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buvbputKa599DAh_2bLO-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-31" target="buvbputKa599DAh_2bLO-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="buvbputKa599DAh_2bLO-31" value="课程观看功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="350" width="25" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-33" target="buvbputKa599DAh_2bLO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-33" value="测验与考试管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="298.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-35" target="buvbputKa599DAh_2bLO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-35" value="作业管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="340" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="buvbputKa599DAh_2bLO-37" target="buvbputKa599DAh_2bLO-4">
           <mxGeometry relative="1" as="geometry" />
@@ -416,7 +413,7 @@
           <mxGeometry x="530" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-44" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="155" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
