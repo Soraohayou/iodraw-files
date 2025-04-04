@@ -460,11 +460,17 @@
         <mxCell id="wBOEf6oXfVpvxFuLEMjf-20" value="文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wBOEf6oXfVpvxFuLEMjf-22" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wBOEf6oXfVpvxFuLEMjf-22" value="查询标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="180" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wBOEf6oXfVpvxFuLEMjf-23" value="查询关键字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wBOEf6oXfVpvxFuLEMjf-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="180" as="sourcePoint" />
+            <mxPoint x="110" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
