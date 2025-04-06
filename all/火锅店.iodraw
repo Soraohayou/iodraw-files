@@ -1317,10 +1317,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-15" value="菜单分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-15" value="菜品分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-16" value="用户选课功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-16" value="菜品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-15">
