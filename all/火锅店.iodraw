@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zWjzguzaowrsH_cgFYOL" name="整体E-R图">
-    <mxGraphModel dx="375" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,6 +214,11 @@
         </mxCell>
         <mxCell id="XAXegO7JliAUNQIqZw-S-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XAXegO7JliAUNQIqZw-S-6" target="XAXegO7JliAUNQIqZw-S-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAXegO7JliAUNQIqZw-S-12" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XAXegO7JliAUNQIqZw-S-8">
+          <mxGeometry x="-0.0536" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XAXegO7JliAUNQIqZw-S-6" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="80" height="80" as="geometry" />
