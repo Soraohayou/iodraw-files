@@ -1462,12 +1462,13 @@
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-50" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="787.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-53">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.542;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-53" target="7XrPeU1eL-p4NYIRQ0L3-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="173" y="320" />
-              <mxPoint x="210" y="320" />
+              <mxPoint x="215" y="320" />
+              <mxPoint x="215" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
