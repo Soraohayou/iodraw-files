@@ -1609,11 +1609,11 @@
           <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sDcezvCBlWPMzkqS0bEH-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="830" width="90" height="40" as="geometry" />
+          <mxGeometry x="324" y="590" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sDcezvCBlWPMzkqS0bEH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sDcezvCBlWPMzkqS0bEH-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="800" as="sourcePoint" />
+            <mxPoint x="369" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sDcezvCBlWPMzkqS0bEH-26" value="选择折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
