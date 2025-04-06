@@ -1581,7 +1581,7 @@
             <mxPoint x="215" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FtgjRvuuBWfQRbl--ma-3" value="课程列表浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4FtgjRvuuBWfQRbl--ma-3" value="课程搜索功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
