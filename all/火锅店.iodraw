@@ -1467,7 +1467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d8q19dOm1V8OsnG7LViz" name="登录流程图">
-    <mxGraphModel dx="500" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1485,6 +1485,9 @@
             <mxPoint x="-1" y="250" as="sourcePoint" />
             <mxPoint x="-31" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wdIOixtCal32Z2CEuBY_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdIOixtCal32Z2CEuBY_-4" target="wdIOixtCal32Z2CEuBY_-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-4" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="250" width="90" height="40" as="geometry" />
