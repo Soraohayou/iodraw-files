@@ -1553,7 +1553,10 @@
           <mxGeometry x="324" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-17" value="进入主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="710" width="90" height="40" as="geometry" />
+          <mxGeometry x="324" y="690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wdIOixtCal32Z2CEuBY_-22" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="780" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
