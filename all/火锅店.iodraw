@@ -1246,7 +1246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ke1FE92ffsS7mZGRfkyY" name="系统模块图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="244" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1457,8 +1457,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-50" value="会员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="350" width="25" height="140" as="geometry" />
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-50" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
