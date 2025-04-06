@@ -795,8 +795,8 @@
         <mxCell id="6LNE4k9H-xmlsw4HwbNG-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LYKRj1gGX6c2b2cpnnP-1" value="功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="80" height="50" as="geometry" />
+        <mxCell id="5LYKRj1gGX6c2b2cpnnP-1" value="课程列表浏览功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5LYKRj1gGX6c2b2cpnnP-2" value="课程选择功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="80" height="50" as="geometry" />
