@@ -1467,7 +1467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d8q19dOm1V8OsnG7LViz" name="登录流程图">
-    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1519,6 +1519,11 @@
         <mxCell id="wdIOixtCal32Z2CEuBY_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdIOixtCal32Z2CEuBY_-11" target="wdIOixtCal32Z2CEuBY_-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wdIOixtCal32Z2CEuBY_-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wdIOixtCal32Z2CEuBY_-18">
+          <mxGeometry x="-0.0921" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-11" value="验证是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="560" width="109" height="80" as="geometry" />
         </mxCell>
@@ -1535,7 +1540,7 @@
           <mxGeometry x="324" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-17" value="进入主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="670" width="90" height="40" as="geometry" />
+          <mxGeometry x="324" y="710" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
