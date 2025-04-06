@@ -1246,7 +1246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ke1FE92ffsS7mZGRfkyY" name="系统模块图">
-    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="292" dy="173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1317,8 +1317,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-15" value="菜品分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="350" width="25" height="140" as="geometry" />
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-15" value="菜单分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-16" value="菜品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="25" height="140" as="geometry" />
@@ -1328,7 +1328,6 @@
             <mxPoint x="50" y="320" as="sourcePoint" />
             <mxPoint x="215" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="193" y="320" />
               <mxPoint x="215" y="320" />
             </Array>
           </mxGeometry>
