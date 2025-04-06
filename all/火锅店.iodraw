@@ -1634,11 +1634,60 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2LmCQ2hBZAu_ioq-i9J4" name="第 20 页">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="2LmCQ2hBZAu_ioq-i9J4" name="购物车功能流程图">
+    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nd5RQon9xmA5vum1yTjp-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-2" target="nd5RQon9xmA5vum1yTjp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-2" value="创建菜品分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-3" target="nd5RQon9xmA5vum1yTjp-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1" y="250" as="sourcePoint" />
+            <mxPoint x="-31" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-6" target="nd5RQon9xmA5vum1yTjp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-6" value="创建菜品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-8" target="nd5RQon9xmA5vum1yTjp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-8" value="选择分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-10" target="nd5RQon9xmA5vum1yTjp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-10" value="选择是否推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nd5RQon9xmA5vum1yTjp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-12" value="选择折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-14" value="创建完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="550" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
