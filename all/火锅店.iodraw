@@ -1657,7 +1657,7 @@
         <mxCell id="nd5RQon9xmA5vum1yTjp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-6" target="nd5RQon9xmA5vum1yTjp-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nd5RQon9xmA5vum1yTjp-6" value="修改菜品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nd5RQon9xmA5vum1yTjp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-8" target="nd5RQon9xmA5vum1yTjp-10">
