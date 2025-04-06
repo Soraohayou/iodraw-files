@@ -1256,7 +1256,7 @@
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-3" value="课程浏览选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-3" value="菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-4" value="在线学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
