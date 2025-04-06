@@ -1516,6 +1516,9 @@
         <mxCell id="wdIOixtCal32Z2CEuBY_-8" value="管理员注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wdIOixtCal32Z2CEuBY_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdIOixtCal32Z2CEuBY_-11" target="wdIOixtCal32Z2CEuBY_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-11" value="验证是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="560" width="109" height="80" as="geometry" />
         </mxCell>
@@ -1531,8 +1534,8 @@
         <mxCell id="wdIOixtCal32Z2CEuBY_-14" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wdIOixtCal32Z2CEuBY_-17" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="500" width="90" height="40" as="geometry" />
+        <mxCell id="wdIOixtCal32Z2CEuBY_-17" value="进入主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="670" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
