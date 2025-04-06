@@ -1467,7 +1467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d8q19dOm1V8OsnG7LViz" name="登录流程图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1552,13 +1552,19 @@
         <mxCell id="wdIOixtCal32Z2CEuBY_-14" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="490" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wdIOixtCal32Z2CEuBY_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdIOixtCal32Z2CEuBY_-17" target="wdIOixtCal32Z2CEuBY_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-17" value="进入主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="690" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-22" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314.5" y="840" width="90" height="40" as="geometry" />
+          <mxGeometry x="324" y="830" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wdIOixtCal32Z2CEuBY_-23" value="进入主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wdIOixtCal32Z2CEuBY_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdIOixtCal32Z2CEuBY_-23" target="wdIOixtCal32Z2CEuBY_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdIOixtCal32Z2CEuBY_-23" value="修改个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="760" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
