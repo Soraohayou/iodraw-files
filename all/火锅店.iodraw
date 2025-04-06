@@ -1390,35 +1390,23 @@
             <mxPoint x="660" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-31" target="7XrPeU1eL-p4NYIRQ0L3-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-31" value="课程观看功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="350" width="25" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-33" target="7XrPeU1eL-p4NYIRQ0L3-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-33" value="测验与考试管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="350" width="25" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-35" target="7XrPeU1eL-p4NYIRQ0L3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-35" value="购物车结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="313.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-37" target="7XrPeU1eL-p4NYIRQ0L3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-37" value="购物车创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="347.5" y="350" width="22.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-39" target="7XrPeU1eL-p4NYIRQ0L3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-39" value="购物车修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="381.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-41" target="7XrPeU1eL-p4NYIRQ0L3-5">
           <mxGeometry relative="1" as="geometry" />
