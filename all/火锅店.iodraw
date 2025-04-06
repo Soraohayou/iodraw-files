@@ -1745,7 +1745,7 @@
         <mxCell id="8_Pve6GaVEVEzbqTFHu4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8_Pve6GaVEVEzbqTFHu4-8" target="8_Pve6GaVEVEzbqTFHu4-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_Pve6GaVEVEzbqTFHu4-8" value="员工完成订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8_Pve6GaVEVEzbqTFHu4-8" value="浏览评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8_Pve6GaVEVEzbqTFHu4-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1754,7 +1754,7 @@
         <mxCell id="8_Pve6GaVEVEzbqTFHu4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_Pve6GaVEVEzbqTFHu4-11" target="8_Pve6GaVEVEzbqTFHu4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_Pve6GaVEVEzbqTFHu4-11" value="客户浏览订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8_Pve6GaVEVEzbqTFHu4-11" value="修改评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="390" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
