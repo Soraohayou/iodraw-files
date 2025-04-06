@@ -59,7 +59,7 @@
         <mxCell id="YSp6kpIsY6HVzoW8krlf-3" value="修改菜品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="250" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YSp6kpIsY6HVzoW8krlf-4" value="菜品浏览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YSp6kpIsY6HVzoW8krlf-4" value="购物车结算" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="330" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YSp6kpIsY6HVzoW8krlf-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSp6kpIsY6HVzoW8krlf-1" target="YSp6kpIsY6HVzoW8krlf-2">
