@@ -431,17 +431,6 @@
         <mxCell id="XAXegO7JliAUNQIqZw-S-78" value="所需积分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="530" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XAXegO7JliAUNQIqZw-S-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAXegO7JliAUNQIqZw-S-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="350" as="sourcePoint" />
-            <mxPoint x="510" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XAXegO7JliAUNQIqZw-S-80" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XAXegO7JliAUNQIqZw-S-79">
-          <mxGeometry x="-0.0397" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
