@@ -224,10 +224,10 @@
           <mxGeometry x="320" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XAXegO7JliAUNQIqZw-S-13" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAXegO7JliAUNQIqZw-S-14" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="XAXegO7JliAUNQIqZw-S-14" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
