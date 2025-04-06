@@ -1635,7 +1635,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2LmCQ2hBZAu_ioq-i9J4" name="购物车功能流程图">
-    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1660,10 +1660,13 @@
         <mxCell id="nd5RQon9xmA5vum1yTjp-6" value="修改菜品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="250" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nd5RQon9xmA5vum1yTjp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-8" target="nd5RQon9xmA5vum1yTjp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nd5RQon9xmA5vum1yTjp-8" value="结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-15" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nd5RQon9xmA5vum1yTjp-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="390" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
