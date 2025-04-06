@@ -1197,7 +1197,7 @@
         <mxCell id="fnsYU3WdQZ61ceb9PjWI-1" value="评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fnsYU3WdQZ61ceb9PjWI-2" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;订单ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fnsYU3WdQZ61ceb9PjWI-2" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;评价内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fnsYU3WdQZ61ceb9PjWI-3" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1218,10 +1218,10 @@
         <mxCell id="fnsYU3WdQZ61ceb9PjWI-6" value="数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fnsYU3WdQZ61ceb9PjWI-7" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fnsYU3WdQZ61ceb9PjWI-7" value="评价标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fnsYU3WdQZ61ceb9PjWI-8" value="菜品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fnsYU3WdQZ61ceb9PjWI-8" value="评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fnsYU3WdQZ61ceb9PjWI-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnsYU3WdQZ61ceb9PjWI-1" target="fnsYU3WdQZ61ceb9PjWI-6">
