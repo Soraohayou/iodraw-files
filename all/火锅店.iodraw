@@ -630,8 +630,11 @@
             <mxPoint x="830" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAXegO7JliAUNQIqZw-S-141" value="等级颜色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="215" width="90" height="50" as="geometry" />
+        <mxCell id="XAXegO7JliAUNQIqZw-S-141" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="205" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XAXegO7JliAUNQIqZw-S-142" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="210" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
