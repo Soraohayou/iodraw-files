@@ -1352,7 +1352,7 @@
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-22" target="7XrPeU1eL-p4NYIRQ0L3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-22" value="提醒功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-22" value="评价创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-24" target="7XrPeU1eL-p4NYIRQ0L3-6">
@@ -1451,7 +1451,7 @@
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="200" as="sourcePoint" />
-            <mxPoint x="700" y="220" as="targetPoint" />
+            <mxPoint x="660" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="800" y="220" />
             </Array>
