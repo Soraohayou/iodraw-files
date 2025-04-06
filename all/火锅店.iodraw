@@ -149,7 +149,7 @@
         <mxCell id="R-mQgiEg_hEmN1Y0Pjj6-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-mQgiEg_hEmN1Y0Pjj6-2" value="会员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R-mQgiEg_hEmN1Y0Pjj6-2" value="会员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R-mQgiEg_hEmN1Y0Pjj6-3" value="积分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -170,7 +170,7 @@
         <mxCell id="R-mQgiEg_hEmN1Y0Pjj6-6" value="统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="300" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R-mQgiEg_hEmN1Y0Pjj6-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="R-mQgiEg_hEmN1Y0Pjj6-1">
+        <mxCell id="R-mQgiEg_hEmN1Y0Pjj6-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R-mQgiEg_hEmN1Y0Pjj6-1" target="R-mQgiEg_hEmN1Y0Pjj6-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="290" as="sourcePoint" />
             <mxPoint x="170" y="240" as="targetPoint" />
