@@ -798,8 +798,8 @@
         <mxCell id="5LYKRj1gGX6c2b2cpnnP-1" value="课程列表浏览功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5LYKRj1gGX6c2b2cpnnP-2" value="课程选择功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="260" width="80" height="50" as="geometry" />
+        <mxCell id="5LYKRj1gGX6c2b2cpnnP-2" value="课程详情浏览" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5LYKRj1gGX6c2b2cpnnP-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6LNE4k9H-xmlsw4HwbNG-1" target="5LYKRj1gGX6c2b2cpnnP-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -812,6 +812,9 @@
             <mxPoint x="210" y="260" as="sourcePoint" />
             <mxPoint x="260" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RoqEUfZUR-A7dUEl0QXk-1" value="课程详情浏览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
