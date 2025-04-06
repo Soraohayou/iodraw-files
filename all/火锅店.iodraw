@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zWjzguzaowrsH_cgFYOL" name="整体E-R图">
-    <mxGraphModel dx="1577" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,7 +376,7 @@
         <mxCell id="XAXegO7JliAUNQIqZw-S-66" value="所需积分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5" y="205" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XAXegO7JliAUNQIqZw-S-67" value="图片地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XAXegO7JliAUNQIqZw-S-67" value="等级颜色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="205" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XAXegO7JliAUNQIqZw-S-68" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="XAXegO7JliAUNQIqZw-S-65">
