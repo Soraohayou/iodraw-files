@@ -1582,7 +1582,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bDagWS0MSAV8lRim0uyx-1" value="作业题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bDagWS0MSAV8lRim0uyx-1" value="考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bDagWS0MSAV8lRim0uyx-2" value="题目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1603,7 +1603,7 @@
             <mxPoint x="540" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bDagWS0MSAV8lRim0uyx-6" value="题目内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bDagWS0MSAV8lRim0uyx-6" value="及格分数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bDagWS0MSAV8lRim0uyx-7" value="题目答案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
