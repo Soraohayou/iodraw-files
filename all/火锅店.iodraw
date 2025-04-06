@@ -1467,12 +1467,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d8q19dOm1V8OsnG7LViz" name="登录流程图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wdIOixtCal32Z2CEuBY_-1" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="170" width="90" height="40" as="geometry" />
+        <mxCell id="wdIOixtCal32Z2CEuBY_-1" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="110" width="90" height="40" as="geometry" />
