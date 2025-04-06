@@ -1698,7 +1698,7 @@
         <mxCell id="RAP17Re3Bv1SyhOzKZPb-6" value="创建订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="250" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RAP17Re3Bv1SyhOzKZPb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RAP17Re3Bv1SyhOzKZPb-8" target="RAP17Re3Bv1SyhOzKZPb-9">
+        <mxCell id="RAP17Re3Bv1SyhOzKZPb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAP17Re3Bv1SyhOzKZPb-8" target="RAP17Re3Bv1SyhOzKZPb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAP17Re3Bv1SyhOzKZPb-8" value="员工完成订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1706,6 +1706,12 @@
         </mxCell>
         <mxCell id="RAP17Re3Bv1SyhOzKZPb-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RAP17Re3Bv1SyhOzKZPb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RAP17Re3Bv1SyhOzKZPb-10" target="RAP17Re3Bv1SyhOzKZPb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RAP17Re3Bv1SyhOzKZPb-10" value="员工完成订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="390" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
