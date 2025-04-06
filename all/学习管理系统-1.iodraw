@@ -1694,10 +1694,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="okxlw5lhaR9qoRP9SZBb-1" value="考试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="okxlw5lhaR9qoRP9SZBb-1" value="作业" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="okxlw5lhaR9qoRP9SZBb-2" value="总分" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="okxlw5lhaR9qoRP9SZBb-2" value="章节ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="okxlw5lhaR9qoRP9SZBb-3" value="课程编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
