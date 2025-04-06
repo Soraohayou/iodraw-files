@@ -1318,10 +1318,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-15" value="菜单分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-16" value="菜品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="240" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1337,7 +1337,7 @@
             <mxPoint x="330" y="380" as="sourcePoint" />
             <mxPoint x="215" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="243" y="320" />
+              <mxPoint x="253" y="320" />
               <mxPoint x="215" y="320" />
             </Array>
           </mxGeometry>
@@ -1461,6 +1461,9 @@
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-50" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="787.5" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-53" value="菜单分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
