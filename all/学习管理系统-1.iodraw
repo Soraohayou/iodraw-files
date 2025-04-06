@@ -55,22 +55,13 @@
           <mxGeometry x="55" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-14" value="测验管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
-          <mxGeometry x="55" y="300" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" source="tjzC58DmDrMLoJFfhkEt-16" target="tjzC58DmDrMLoJFfhkEt-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-16" value="章节管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
           <mxGeometry x="55" y="230" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nUXfS9wL3fUMNcOqfLJb-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="tjzC58DmDrMLoJFfhkEt-11" source="tjzC58DmDrMLoJFfhkEt-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="430" as="sourcePoint" />
-            <mxPoint x="300" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="410" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-10" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
           <mxGeometry x="-146" y="730" width="80" height="50" as="geometry" />
