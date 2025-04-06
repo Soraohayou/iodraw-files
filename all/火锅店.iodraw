@@ -1599,10 +1599,10 @@
         <mxCell id="sDcezvCBlWPMzkqS0bEH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDcezvCBlWPMzkqS0bEH-9" target="sDcezvCBlWPMzkqS0bEH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sDcezvCBlWPMzkqS0bEH-9" value="进入登陆界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDcezvCBlWPMzkqS0bEH-9" value="选择分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sDcezvCBlWPMzkqS0bEH-18" value="输入账号密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDcezvCBlWPMzkqS0bEH-18" value="选择是否推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sDcezvCBlWPMzkqS0bEH-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1612,6 +1612,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="369" y="800" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sDcezvCBlWPMzkqS0bEH-26" value="选择是否推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="410" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
