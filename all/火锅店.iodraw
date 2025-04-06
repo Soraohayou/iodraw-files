@@ -94,11 +94,8 @@
         <mxCell id="JmkXeP36s6Ba7fO7SXuw-2" value="创建订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="170" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JmkXeP36s6Ba7fO7SXuw-3" value="修改菜品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JmkXeP36s6Ba7fO7SXuw-3" value="修改订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="250" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="JmkXeP36s6Ba7fO7SXuw-4" value="购物车结算" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="330" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JmkXeP36s6Ba7fO7SXuw-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JmkXeP36s6Ba7fO7SXuw-1" target="JmkXeP36s6Ba7fO7SXuw-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -110,12 +107,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="270" as="sourcePoint" />
             <mxPoint x="590" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JmkXeP36s6Ba7fO7SXuw-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JmkXeP36s6Ba7fO7SXuw-1" target="JmkXeP36s6Ba7fO7SXuw-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="310" as="sourcePoint" />
-            <mxPoint x="210" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
