@@ -562,6 +562,9 @@
             <mxPoint x="90" y="765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XAXegO7JliAUNQIqZw-S-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XAXegO7JliAUNQIqZw-S-124" target="XAXegO7JliAUNQIqZw-S-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XAXegO7JliAUNQIqZw-S-124" value="评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="590" width="120" height="60" as="geometry" />
         </mxCell>
@@ -596,6 +599,9 @@
         </mxCell>
         <mxCell id="XAXegO7JliAUNQIqZw-S-130" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="595" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XAXegO7JliAUNQIqZw-S-132" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="605" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
