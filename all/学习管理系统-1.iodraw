@@ -1555,7 +1555,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FtgjRvuuBWfQRbl--ma-1" value="课程列表浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4FtgjRvuuBWfQRbl--ma-1" value="课程详情浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4FtgjRvuuBWfQRbl--ma-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4FtgjRvuuBWfQRbl--ma-3">
