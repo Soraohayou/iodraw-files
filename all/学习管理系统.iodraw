@@ -825,49 +825,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AstytUpqcrjZp6WsxkFe-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;课程观看功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;课程观看功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;测验与考试管理功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;测验与考试管理功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AstytUpqcrjZp6WsxkFe-1" target="AstytUpqcrjZp6WsxkFe-2">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="AstytUpqcrjZp6WsxkFe-1" target="AstytUpqcrjZp6WsxkFe-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="220" as="sourcePoint" />
             <mxPoint x="340" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AstytUpqcrjZp6WsxkFe-1" target="AstytUpqcrjZp6WsxkFe-3">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AstytUpqcrjZp6WsxkFe-1" target="AstytUpqcrjZp6WsxkFe-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="260" as="sourcePoint" />
             <mxPoint x="260" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;在线考试功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;在线考试功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="350" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;作业管理功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;作业管理功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="100" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;完成作业功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;完成作业功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="100" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AstytUpqcrjZp6WsxkFe-1" target="AstytUpqcrjZp6WsxkFe-8">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="AstytUpqcrjZp6WsxkFe-1" target="AstytUpqcrjZp6WsxkFe-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="250" as="sourcePoint" />
             <mxPoint x="342" y="233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="AstytUpqcrjZp6WsxkFe-7">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="AstytUpqcrjZp6WsxkFe-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="240" as="sourcePoint" />
             <mxPoint x="342" y="233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AstytUpqcrjZp6WsxkFe-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AstytUpqcrjZp6WsxkFe-1" target="AstytUpqcrjZp6WsxkFe-6">
+        <mxCell id="AstytUpqcrjZp6WsxkFe-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AstytUpqcrjZp6WsxkFe-1" target="AstytUpqcrjZp6WsxkFe-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="260" as="sourcePoint" />
             <mxPoint x="352" y="243" as="targetPoint" />
