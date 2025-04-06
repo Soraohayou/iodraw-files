@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-11" value="教师" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="70" width="344" height="930" as="geometry" />
+          <mxGeometry x="270" y="90" width="344" height="930" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" source="tjzC58DmDrMLoJFfhkEt-13" target="tjzC58DmDrMLoJFfhkEt-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry x="55" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-14" value="测验管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
-          <mxGeometry x="55" y="320" width="90" height="40" as="geometry" />
+          <mxGeometry x="55" y="540" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" source="tjzC58DmDrMLoJFfhkEt-16" target="tjzC58DmDrMLoJFfhkEt-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
