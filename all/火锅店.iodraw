@@ -615,11 +615,14 @@
             <mxPoint x="730" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAXegO7JliAUNQIqZw-S-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XAXegO7JliAUNQIqZw-S-137" target="XAXegO7JliAUNQIqZw-S-124">
+        <mxCell id="XAXegO7JliAUNQIqZw-S-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XAXegO7JliAUNQIqZw-S-137" target="XAXegO7JliAUNQIqZw-S-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XAXegO7JliAUNQIqZw-S-137" value="评价内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="695" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XAXegO7JliAUNQIqZw-S-139" value="评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="695" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
