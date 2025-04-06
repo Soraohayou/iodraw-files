@@ -1445,7 +1445,7 @@
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-48" target="7XrPeU1eL-p4NYIRQ0L3-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-48" value="消息汇总功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-48" value="统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-44">
@@ -1456,6 +1456,9 @@
               <mxPoint x="800" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-50" value="会员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
