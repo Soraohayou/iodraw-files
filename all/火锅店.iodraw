@@ -1035,7 +1035,7 @@
         <mxCell id="gUWWepp3AZp_EWCICAm6-3" value="所需积分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gUWWepp3AZp_EWCICAm6-4" value="颜色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gUWWepp3AZp_EWCICAm6-4" value="图片Url" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gUWWepp3AZp_EWCICAm6-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gUWWepp3AZp_EWCICAm6-1" target="gUWWepp3AZp_EWCICAm6-2">
