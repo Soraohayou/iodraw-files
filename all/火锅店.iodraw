@@ -1472,7 +1472,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-53" value="菜单浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-53" value="菜品浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
