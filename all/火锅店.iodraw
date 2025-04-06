@@ -1503,7 +1503,7 @@
         <mxCell id="wdIOixtCal32Z2CEuBY_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdIOixtCal32Z2CEuBY_-6" target="wdIOixtCal32Z2CEuBY_-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wdIOixtCal32Z2CEuBY_-6" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wdIOixtCal32Z2CEuBY_-6" value="进入登陆界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wdIOixtCal32Z2CEuBY_-8" target="wdIOixtCal32Z2CEuBY_-4">
@@ -1517,7 +1517,7 @@
           <mxGeometry x="180" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="545" width="80" height="80" as="geometry" />
+          <mxGeometry x="329" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-12" value="输入账号密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="420" width="90" height="40" as="geometry" />
