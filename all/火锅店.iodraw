@@ -1660,33 +1660,11 @@
         <mxCell id="nd5RQon9xmA5vum1yTjp-6" value="修改菜品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="250" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-8" target="nd5RQon9xmA5vum1yTjp-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-8" value="选择分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nd5RQon9xmA5vum1yTjp-8" value="结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-10" target="nd5RQon9xmA5vum1yTjp-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-10" value="选择是否推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nd5RQon9xmA5vum1yTjp-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="510" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-12" value="选择折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="470" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nd5RQon9xmA5vum1yTjp-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd5RQon9xmA5vum1yTjp-14" value="创建完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="550" width="90" height="40" as="geometry" />
+        <mxCell id="nd5RQon9xmA5vum1yTjp-15" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="390" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
