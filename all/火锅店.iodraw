@@ -1467,7 +1467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d8q19dOm1V8OsnG7LViz" name="登录流程图">
-    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1525,7 +1525,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wdIOixtCal32Z2CEuBY_-11" target="wdIOixtCal32Z2CEuBY_-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294" y="600" />
+              <mxPoint x="294" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wdIOixtCal32Z2CEuBY_-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wdIOixtCal32Z2CEuBY_-20">
+          <mxGeometry x="-0.0202" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wdIOixtCal32Z2CEuBY_-11" value="验证是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="560" width="109" height="80" as="geometry" />
