@@ -927,8 +927,14 @@
         <mxCell id="lPTQlo0IUYCIe0TQtn4x-22" value="库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lPTQlo0IUYCIe0TQtn4x-23" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="410" width="120" height="80" as="geometry" />
+        <mxCell id="lPTQlo0IUYCIe0TQtn4x-23" value="是否推荐" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lPTQlo0IUYCIe0TQtn4x-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="610" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
