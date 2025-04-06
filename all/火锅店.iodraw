@@ -1424,13 +1424,13 @@
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-41" target="7XrPeU1eL-p4NYIRQ0L3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-41" value="学习计划功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-41" value="订单状态修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7XrPeU1eL-p4NYIRQ0L3-43" target="7XrPeU1eL-p4NYIRQ0L3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-43" value="进度追踪功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XrPeU1eL-p4NYIRQ0L3-43" value="浏览订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7XrPeU1eL-p4NYIRQ0L3-44" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
