@@ -1118,10 +1118,10 @@
         <mxCell id="OWuKGNkrC3pO6vdl0ykS-11" value="角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OWuKGNkrC3pO6vdl0ykS-12" value="当前积分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OWuKGNkrC3pO6vdl0ykS-12" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OWuKGNkrC3pO6vdl0ykS-13" value="历史积分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OWuKGNkrC3pO6vdl0ykS-13" value="服务员ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWuKGNkrC3pO6vdl0ykS-14" value="下单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
