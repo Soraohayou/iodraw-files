@@ -944,7 +944,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AC-J9V9HiT9YvuKa8vYW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="62FmF5x2X7HY7d0S0_uU-1" target="AC-J9V9HiT9YvuKa8vYW-1" edge="1">
+        <mxCell id="AC-J9V9HiT9YvuKa8vYW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="62FmF5x2X7HY7d0S0_uU-1" target="BcefPtgvPTziFpsUmUzQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62FmF5x2X7HY7d0S0_uU-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -954,10 +954,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-1" value="填写个人信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="190" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-2" value="开始考试" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AC-J9V9HiT9YvuKa8vYW-3" target="AC-J9V9HiT9YvuKa8vYW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -966,39 +966,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-3" value="开始计时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="340" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AC-J9V9HiT9YvuKa8vYW-4" target="AC-J9V9HiT9YvuKa8vYW-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="445" y="480" />
-              <mxPoint x="570" y="480" />
+              <mxPoint x="445" y="490" />
+              <mxPoint x="570" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-4" value="结束计时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="420" width="90" height="40" as="geometry" />
+          <mxGeometry x="400" y="430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AC-J9V9HiT9YvuKa8vYW-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="500" as="targetPoint" />
+            <mxPoint x="570" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="685" y="480" />
-              <mxPoint x="571" y="480" />
+              <mxPoint x="685" y="490" />
+              <mxPoint x="571" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-5" value="考生交卷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="420" width="90" height="40" as="geometry" />
+          <mxGeometry x="640" y="430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AC-J9V9HiT9YvuKa8vYW-10" target="AC-J9V9HiT9YvuKa8vYW-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-10" value="生成成绩" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="500" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="510" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC-J9V9HiT9YvuKa8vYW-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="580" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="590" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BcefPtgvPTziFpsUmUzQ-1" value="填写个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="130" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
