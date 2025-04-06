@@ -254,6 +254,12 @@
         <mxCell id="XAXegO7JliAUNQIqZw-S-23" value="图片地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="XAXegO7JliAUNQIqZw-S-24" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="205" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XAXegO7JliAUNQIqZw-S-25" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="205" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
