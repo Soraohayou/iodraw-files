@@ -1483,6 +1483,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-2" target="pbvjZ71CW2KEYxF2S5Vc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-2" value="创建图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-3" target="pbvjZ71CW2KEYxF2S5Vc-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1" y="250" as="sourcePoint" />
+            <mxPoint x="-31" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-6" target="pbvjZ71CW2KEYxF2S5Vc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-6" value="创建课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-8" target="pbvjZ71CW2KEYxF2S5Vc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-8" value="设置日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-10" target="pbvjZ71CW2KEYxF2S5Vc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-10" value="课程搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="510" as="sourcePoint" />
+            <mxPoint x="369" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-13" value="课程浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
