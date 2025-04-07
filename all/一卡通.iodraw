@@ -262,7 +262,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tD1S9jiNBQBU8-PGdI9N-1" value="考试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="tD1S9jiNBQBU8-PGdI9N-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tD1S9jiNBQBU8-PGdI9N-2" value="总分" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
@@ -283,7 +283,7 @@
             <mxPoint x="540" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tD1S9jiNBQBU8-PGdI9N-6" value="及格分数" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="tD1S9jiNBQBU8-PGdI9N-6" value="学号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tD1S9jiNBQBU8-PGdI9N-7" value="ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
