@@ -322,7 +322,7 @@
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-18" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QHlYDI6aDGhc2bZvMwcS-19" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-19" value="签到记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
