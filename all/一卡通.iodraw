@@ -437,7 +437,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-55" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QHlYDI6aDGhc2bZvMwcS-58" target="QHlYDI6aDGhc2bZvMwcS-55">
           <mxGeometry relative="1" as="geometry" />
