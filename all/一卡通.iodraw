@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="21">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="22">
   <diagram name="登录模块用例图" id="ax3ACABYi6SNCBes95PS">
     <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1519,23 +1519,11 @@
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="110" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="510" as="sourcePoint" />
-            <mxPoint x="380" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-13" target="pbvjZ71CW2KEYxF2S5Vc-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-13" value="用户归还图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="590" as="sourcePoint" />
-            <mxPoint x="369" y="630" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-15" target="pbvjZ71CW2KEYxF2S5Vc-17">
           <mxGeometry relative="1" as="geometry" />
@@ -1543,18 +1531,20 @@
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-15" value="更新借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="670" as="sourcePoint" />
-            <mxPoint x="369" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-17" target="pbvjZ71CW2KEYxF2S5Vc-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-17" value="更新图书状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="250" width="90" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="11IaT3HY3IPOW3Lt6OMy" name="第 22 页">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
