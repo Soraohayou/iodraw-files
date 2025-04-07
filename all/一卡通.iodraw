@@ -887,7 +887,7 @@
         <mxCell id="r9Z8_5tm7ang0f2zrUJO-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r9Z8_5tm7ang0f2zrUJO-3" value="借出时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="r9Z8_5tm7ang0f2zrUJO-3" value="封面" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r9Z8_5tm7ang0f2zrUJO-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="r9Z8_5tm7ang0f2zrUJO-1" target="r9Z8_5tm7ang0f2zrUJO-3">
@@ -902,7 +902,7 @@
             <mxPoint x="540" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9Z8_5tm7ang0f2zrUJO-6" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="r9Z8_5tm7ang0f2zrUJO-6" value="新闻标题" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="260" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r9Z8_5tm7ang0f2zrUJO-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9Z8_5tm7ang0f2zrUJO-6" target="r9Z8_5tm7ang0f2zrUJO-1">
@@ -911,7 +911,7 @@
             <mxPoint x="480" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9Z8_5tm7ang0f2zrUJO-8" value="状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="r9Z8_5tm7ang0f2zrUJO-8" value="时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r9Z8_5tm7ang0f2zrUJO-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9Z8_5tm7ang0f2zrUJO-1" target="r9Z8_5tm7ang0f2zrUJO-8">
