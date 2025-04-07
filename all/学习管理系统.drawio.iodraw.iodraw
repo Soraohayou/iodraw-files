@@ -508,7 +508,7 @@
         <mxCell id="KcNUJOviNQc4lhOFOqn8-1" value="学习记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KcNUJOviNQc4lhOFOqn8-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;学生ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="KcNUJOviNQc4lhOFOqn8-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;学生编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="470" y="200" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KcNUJOviNQc4lhOFOqn8-5" value="ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
