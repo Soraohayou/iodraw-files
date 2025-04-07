@@ -204,7 +204,7 @@
         <mxCell id="UCQp4-vgPhdMMMGH6dJL-3" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: -48px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: 宋体;&quot;&gt;刷卡消费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="300" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UCQp4-vgPhdMMMGH6dJL-4" value="借阅状态查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCQp4-vgPhdMMMGH6dJL-4" value="费用充值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="380" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UCQp4-vgPhdMMMGH6dJL-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCQp4-vgPhdMMMGH6dJL-2" target="UCQp4-vgPhdMMMGH6dJL-3">
@@ -236,6 +236,9 @@
             <mxPoint x="340" y="280" as="sourcePoint" />
             <mxPoint x="400" y="285" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UCQp4-vgPhdMMMGH6dJL-11" value="费用充值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
