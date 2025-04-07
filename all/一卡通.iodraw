@@ -1287,7 +1287,7 @@
             <mxPoint x="50" y="320" as="sourcePoint" />
             <mxPoint x="215" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="153" y="320" />
+              <mxPoint x="168" y="320" />
               <mxPoint x="215" y="320" />
             </Array>
           </mxGeometry>
@@ -1385,13 +1385,13 @@
         <mxCell id="9k9dMHiwmUk7FtJFLED0-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-45" target="9k9dMHiwmUk7FtJFLED0-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="213" y="320" />
-              <mxPoint x="215" y="320" />
+              <mxPoint x="215" y="330" />
+              <mxPoint x="215" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-45" value="课程表查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-47">
           <mxGeometry relative="1" as="geometry">
