@@ -1569,13 +1569,13 @@
         <mxCell id="LaB7gtwoFVvnx0wRvxmL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaB7gtwoFVvnx0wRvxmL-8" target="LaB7gtwoFVvnx0wRvxmL-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LaB7gtwoFVvnx0wRvxmL-8" value="借阅图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LaB7gtwoFVvnx0wRvxmL-8" value="用户充值费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LaB7gtwoFVvnx0wRvxmL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaB7gtwoFVvnx0wRvxmL-10" target="LaB7gtwoFVvnx0wRvxmL-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LaB7gtwoFVvnx0wRvxmL-10" value="产生借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LaB7gtwoFVvnx0wRvxmL-10" value="选择商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LaB7gtwoFVvnx0wRvxmL-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
