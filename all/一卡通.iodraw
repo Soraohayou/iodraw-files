@@ -1642,7 +1642,7 @@
             <mxPoint x="465" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QL1KuPnjmxwh7gvAZCm-10" value="绑定班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_QL1KuPnjmxwh7gvAZCm-10" value="查看签到历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="595" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
