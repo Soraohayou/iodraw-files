@@ -1282,25 +1282,12 @@
         <mxCell id="9k9dMHiwmUk7FtJFLED0-15" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-16" value="用户选课功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="350" width="25" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="320" as="sourcePoint" />
             <mxPoint x="215" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="153" y="320" />
-              <mxPoint x="215" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="380" as="sourcePoint" />
-            <mxPoint x="215" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="253" y="320" />
               <mxPoint x="215" y="320" />
             </Array>
           </mxGeometry>
@@ -1403,7 +1390,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-45" value="课程详情浏览功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-45" value="课程表查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-47">
@@ -1411,7 +1398,7 @@
             <mxPoint x="215" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-47" value="课程搜索功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-47" value="课程搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-48">
