@@ -1378,7 +1378,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-45" value="课程表查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-45" value="课程表查看功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-47">
@@ -1391,7 +1391,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-47" value="课程搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-47" value="课程搜索功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-48">
