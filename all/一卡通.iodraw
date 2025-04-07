@@ -1584,7 +1584,7 @@
         <mxCell id="LaB7gtwoFVvnx0wRvxmL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaB7gtwoFVvnx0wRvxmL-13" target="LaB7gtwoFVvnx0wRvxmL-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LaB7gtwoFVvnx0wRvxmL-13" value="刷卡消费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LaB7gtwoFVvnx0wRvxmL-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LaB7gtwoFVvnx0wRvxmL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaB7gtwoFVvnx0wRvxmL-15" target="LaB7gtwoFVvnx0wRvxmL-17">
@@ -1596,7 +1596,7 @@
         <mxCell id="LaB7gtwoFVvnx0wRvxmL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaB7gtwoFVvnx0wRvxmL-17" target="LaB7gtwoFVvnx0wRvxmL-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LaB7gtwoFVvnx0wRvxmL-17" value="更新图书状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LaB7gtwoFVvnx0wRvxmL-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;更新存销记录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="250" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
