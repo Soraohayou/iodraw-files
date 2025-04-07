@@ -301,6 +301,30 @@
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-10" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="QHlYDI6aDGhc2bZvMwcS-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-15" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QHlYDI6aDGhc2bZvMwcS-14">
+          <mxGeometry x="0.0333" y="5" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QHlYDI6aDGhc2bZvMwcS-18" target="QHlYDI6aDGhc2bZvMwcS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-17" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QHlYDI6aDGhc2bZvMwcS-16">
+          <mxGeometry x="0.0255" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-18" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-19" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
