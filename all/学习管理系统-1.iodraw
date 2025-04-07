@@ -48,7 +48,7 @@
         <mxCell id="nUXfS9wL3fUMNcOqfLJb-16" value="笔记管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="109" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjzC58DmDrMLoJFfhkEt-7" value="考试" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
+        <mxCell id="tjzC58DmDrMLoJFfhkEt-7" value="在考试" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
           <mxGeometry x="109" y="640" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-10" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-1" vertex="1">
@@ -66,7 +66,7 @@
         <mxCell id="tjzC58DmDrMLoJFfhkEt-13" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
           <mxGeometry x="55" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjzC58DmDrMLoJFfhkEt-14" value="测验管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
+        <mxCell id="tjzC58DmDrMLoJFfhkEt-14" value="管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" vertex="1">
           <mxGeometry x="54" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjzC58DmDrMLoJFfhkEt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tjzC58DmDrMLoJFfhkEt-11" source="tjzC58DmDrMLoJFfhkEt-16" target="tjzC58DmDrMLoJFfhkEt-14" edge="1">
