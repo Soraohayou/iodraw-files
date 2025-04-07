@@ -1391,14 +1391,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="253" y="320" />
+              <mxPoint x="262" y="320" />
               <mxPoint x="216" y="320" />
               <mxPoint x="216" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-47" value="课程搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="250" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-48">
           <mxGeometry relative="1" as="geometry">
