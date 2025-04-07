@@ -1461,7 +1461,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-15" value="课程列表浏览功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-15" value="课程列表展示功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-16" value="用户选课功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
