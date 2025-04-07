@@ -1513,7 +1513,7 @@
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-10" target="pbvjZ71CW2KEYxF2S5Vc-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-10" value="课程搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-10" value="产生借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
