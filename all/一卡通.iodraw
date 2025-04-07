@@ -1645,6 +1645,9 @@
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="570" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_QL1KuPnjmxwh7gvAZCm-18" value="是否有课程" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
