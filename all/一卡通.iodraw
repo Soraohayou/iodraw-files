@@ -1448,13 +1448,13 @@
         <mxCell id="-2X7_ns62EdD8hM_C099-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-2X7_ns62EdD8hM_C099-6" target="-2X7_ns62EdD8hM_C099-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-2X7_ns62EdD8hM_C099-6" value="绑定班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-2X7_ns62EdD8hM_C099-6" value="创建课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-2X7_ns62EdD8hM_C099-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-2X7_ns62EdD8hM_C099-8" target="-2X7_ns62EdD8hM_C099-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-2X7_ns62EdD8hM_C099-8" value="选择分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-2X7_ns62EdD8hM_C099-8" value="设置日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-2X7_ns62EdD8hM_C099-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-2X7_ns62EdD8hM_C099-10" target="-2X7_ns62EdD8hM_C099-13">
