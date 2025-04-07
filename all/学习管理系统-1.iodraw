@@ -1575,16 +1575,14 @@
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-43" value="进度追踪" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4FtgjRvuuBWfQRbl--ma-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4FtgjRvuuBWfQRbl--ma-1" target="Ac3AeQnbfIFigUoIC1C7-3" edge="1">
+        <mxCell id="4FtgjRvuuBWfQRbl--ma-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="Ac3AeQnbfIFigUoIC1C7-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="183" y="320" />
               <mxPoint x="215" y="320" />
             </Array>
+            <mxPoint x="182.5" y="350" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4FtgjRvuuBWfQRbl--ma-1" value="课程详情浏览" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4FtgjRvuuBWfQRbl--ma-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="4FtgjRvuuBWfQRbl--ma-3" edge="1">
           <mxGeometry relative="1" as="geometry">
