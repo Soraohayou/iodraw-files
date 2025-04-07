@@ -351,6 +351,29 @@
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-26" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="QHlYDI6aDGhc2bZvMwcS-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-37" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QHlYDI6aDGhc2bZvMwcS-36">
+          <mxGeometry x="-0.1441" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QHlYDI6aDGhc2bZvMwcS-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-39" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QHlYDI6aDGhc2bZvMwcS-38">
+          <mxGeometry x="-0.1441" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-40" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
