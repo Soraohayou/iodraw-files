@@ -711,10 +711,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3H9Sy2wfTVX8NPrr9U1Z-1" value="测验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="3H9Sy2wfTVX8NPrr9U1Z-1" value="考试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3H9Sy2wfTVX8NPrr9U1Z-3" value="课程编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="3H9Sy2wfTVX8NPrr9U1Z-3" value="课程ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="470" y="200" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3H9Sy2wfTVX8NPrr9U1Z-4" value="ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
