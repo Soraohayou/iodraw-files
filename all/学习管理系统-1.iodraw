@@ -1390,7 +1390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g_qG2SdgSKKDgrR2OnzQ" name="整体功能图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="169" dy="100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1545,9 +1545,6 @@
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-33" value="考试管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="350" width="25" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-35" target="Ac3AeQnbfIFigUoIC1C7-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-35" value="作业布置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="350" width="25" height="140" as="geometry" />
