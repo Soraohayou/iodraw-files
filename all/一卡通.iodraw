@@ -1405,8 +1405,11 @@
         <mxCell id="9k9dMHiwmUk7FtJFLED0-48" value="图书借阅模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-51" value="校园新闻浏览功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="360" width="25" height="140" as="geometry" />
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-51" value="图书馆里功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-52" value="图书馆里功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="360" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
