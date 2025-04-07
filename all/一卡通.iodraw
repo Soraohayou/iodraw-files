@@ -1656,6 +1656,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_QL1KuPnjmxwh7gvAZCm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QL1KuPnjmxwh7gvAZCm-18" target="_QL1KuPnjmxwh7gvAZCm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-18" value="是否有课程" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="260" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1666,7 +1669,7 @@
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_QL1KuPnjmxwh7gvAZCm-23">
           <mxGeometry x="-0.1771" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-20" value="是否签到过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
