@@ -1390,7 +1390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g_qG2SdgSKKDgrR2OnzQ" name="整体功能图">
-    <mxGraphModel dx="169" dy="100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1545,6 +1545,14 @@
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-33" value="考试管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yEjIFMZ6J9ne8_BfYQ11-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ac3AeQnbfIFigUoIC1C7-35" target="Ac3AeQnbfIFigUoIC1C7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="743" y="330" />
+              <mxPoint x="660" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-35" value="作业布置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="350" width="25" height="140" as="geometry" />
