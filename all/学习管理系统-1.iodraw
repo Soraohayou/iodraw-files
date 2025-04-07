@@ -1390,7 +1390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g_qG2SdgSKKDgrR2OnzQ" name="整体功能图">
-    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1555,9 +1555,6 @@
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-37" target="Ac3AeQnbfIFigUoIC1C7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yEjIFMZ6J9ne8_BfYQ11-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ac3AeQnbfIFigUoIC1C7-37" target="yEjIFMZ6J9ne8_BfYQ11-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-37" value="完成作业" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
         </mxCell>
@@ -1596,9 +1593,6 @@
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="yEjIFMZ6J9ne8_BfYQ11-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yEjIFMZ6J9ne8_BfYQ11-1" target="Ac3AeQnbfIFigUoIC1C7-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yEjIFMZ6J9ne8_BfYQ11-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEjIFMZ6J9ne8_BfYQ11-1" target="Ac3AeQnbfIFigUoIC1C7-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yEjIFMZ6J9ne8_BfYQ11-1" value="在线考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
