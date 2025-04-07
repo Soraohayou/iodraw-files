@@ -1625,7 +1625,10 @@
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QL1KuPnjmxwh7gvAZCm-6" target="_QL1KuPnjmxwh7gvAZCm-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_QL1KuPnjmxwh7gvAZCm-6" value="绑定学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_QL1KuPnjmxwh7gvAZCm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QL1KuPnjmxwh7gvAZCm-6" target="_QL1KuPnjmxwh7gvAZCm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QL1KuPnjmxwh7gvAZCm-6" value="签到" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="445" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QL1KuPnjmxwh7gvAZCm-8" target="_QL1KuPnjmxwh7gvAZCm-10">
