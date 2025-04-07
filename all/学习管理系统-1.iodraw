@@ -1562,7 +1562,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-39" value="在线考试" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="405" y="480" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-41" target="Ac3AeQnbfIFigUoIC1C7-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
