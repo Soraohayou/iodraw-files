@@ -250,7 +250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gGOuEVAk01OTD2wBvhoN" name="整体E-R图">
-    <mxGraphModel dx="600" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-9" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QHlYDI6aDGhc2bZvMwcS-8">
           <mxGeometry x="0.0333" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-1" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -289,6 +289,9 @@
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-7" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-10" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
