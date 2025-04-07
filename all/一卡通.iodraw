@@ -1517,7 +1517,7 @@
           <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="550" width="90" height="40" as="geometry" />
+          <mxGeometry x="324" y="610" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1525,7 +1525,7 @@
             <mxPoint x="369" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-13" value="课程浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-13" value="用户归还图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="470" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
