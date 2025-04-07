@@ -1391,14 +1391,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-45" value="课程表查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="190" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="243" y="326" />
-              <mxPoint x="216" y="326" />
+              <mxPoint x="243" y="320" />
+              <mxPoint x="216" y="320" />
               <mxPoint x="216" y="300" />
             </Array>
           </mxGeometry>
