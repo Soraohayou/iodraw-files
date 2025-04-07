@@ -1227,7 +1227,7 @@
         <mxCell id="9k9dMHiwmUk7FtJFLED0-5" value="消费模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-6" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-6" value="校园新闻模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.513;exitY=0.011;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-4" target="9k9dMHiwmUk7FtJFLED0-1">
