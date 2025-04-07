@@ -450,9 +450,9 @@
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-58" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QHlYDI6aDGhc2bZvMwcS-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="QHlYDI6aDGhc2bZvMwcS-63">
+        <mxCell id="QHlYDI6aDGhc2bZvMwcS-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="QHlYDI6aDGhc2bZvMwcS-63" source="QHlYDI6aDGhc2bZvMwcS-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="540" as="sourcePoint" />
+            <mxPoint x="620" y="10" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-60" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QHlYDI6aDGhc2bZvMwcS-59">
@@ -462,7 +462,7 @@
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QHlYDI6aDGhc2bZvMwcS-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="700" as="targetPoint" />
+            <mxPoint x="620" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-62" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QHlYDI6aDGhc2bZvMwcS-61">
@@ -471,10 +471,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-63" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="580" width="80" height="80" as="geometry" />
+          <mxGeometry x="580" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QHlYDI6aDGhc2bZvMwcS-64" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
