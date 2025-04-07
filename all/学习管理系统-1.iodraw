@@ -1496,13 +1496,13 @@
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-22" target="Ac3AeQnbfIFigUoIC1C7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-22" value="提醒功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-22" value="提醒" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-24" target="Ac3AeQnbfIFigUoIC1C7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-24" value="系统数据汇总功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-24" value="系统数据汇总" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -1550,7 +1550,7 @@
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-35" target="Ac3AeQnbfIFigUoIC1C7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-35" value="作业管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-35" value="作业布置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-37" target="Ac3AeQnbfIFigUoIC1C7-4" edge="1">
@@ -1574,7 +1574,7 @@
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-43" target="Ac3AeQnbfIFigUoIC1C7-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-43" value="进度追踪功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-43" value="进度追踪" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4FtgjRvuuBWfQRbl--ma-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4FtgjRvuuBWfQRbl--ma-1" target="Ac3AeQnbfIFigUoIC1C7-3" edge="1">
