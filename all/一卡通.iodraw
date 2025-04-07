@@ -1406,10 +1406,10 @@
           <mxGeometry x="750" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-51" value="图书管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="750" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-52" value="图书借阅功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="797.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-53" value="图书借阅功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="350" width="25" height="140" as="geometry" />
