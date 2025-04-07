@@ -1402,7 +1402,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-48" value="校园新闻模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-48" value="图书借阅模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
