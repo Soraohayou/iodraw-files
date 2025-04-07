@@ -1414,9 +1414,12 @@
         <mxCell id="9k9dMHiwmUk7FtJFLED0-47" value="课程搜索功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9k9dMHiwmUk7FtJFLED0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-48">
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="220" as="targetPoint" />
+            <mxPoint x="620" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-48" value="校园新闻模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
