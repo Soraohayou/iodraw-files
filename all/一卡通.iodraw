@@ -1405,6 +1405,9 @@
         <mxCell id="9k9dMHiwmUk7FtJFLED0-48" value="图书借阅模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9k9dMHiwmUk7FtJFLED0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9k9dMHiwmUk7FtJFLED0-51" target="9k9dMHiwmUk7FtJFLED0-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9k9dMHiwmUk7FtJFLED0-51" value="图书管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="350" width="25" height="140" as="geometry" />
         </mxCell>
