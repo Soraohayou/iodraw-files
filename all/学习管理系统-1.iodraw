@@ -1592,8 +1592,11 @@
         <mxCell id="4FtgjRvuuBWfQRbl--ma-3" value="课程搜索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="yEjIFMZ6J9ne8_BfYQ11-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yEjIFMZ6J9ne8_BfYQ11-1" target="Ac3AeQnbfIFigUoIC1C7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yEjIFMZ6J9ne8_BfYQ11-1" value="在线考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="360" width="25" height="140" as="geometry" />
+          <mxGeometry x="414" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
