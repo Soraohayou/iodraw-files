@@ -1538,7 +1538,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-31" value="课程观看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="293.5" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="310" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-33" target="Ac3AeQnbfIFigUoIC1C7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1550,7 +1550,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-35" value="作业布置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364.5" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-37" target="Ac3AeQnbfIFigUoIC1C7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
