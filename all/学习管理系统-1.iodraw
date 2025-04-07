@@ -1464,7 +1464,7 @@
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-15" value="课程列表展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-16" value="用户选课功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-16" value="用户选课" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-15" edge="1">
@@ -1538,13 +1538,13 @@
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-31" target="Ac3AeQnbfIFigUoIC1C7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-31" value="课程观看功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-31" value="课程观看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-33" target="Ac3AeQnbfIFigUoIC1C7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-33" value="测验与考试管理功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-33" value="考试管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-35" target="Ac3AeQnbfIFigUoIC1C7-4" edge="1">
