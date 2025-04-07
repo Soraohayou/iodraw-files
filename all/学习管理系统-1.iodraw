@@ -1558,7 +1558,7 @@
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-37" value="完成作业" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ac3AeQnbfIFigUoIC1C7-39" value="在线考试" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac3AeQnbfIFigUoIC1C7-39" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ac3AeQnbfIFigUoIC1C7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ac3AeQnbfIFigUoIC1C7-41" target="Ac3AeQnbfIFigUoIC1C7-5" edge="1">
