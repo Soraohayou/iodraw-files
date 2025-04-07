@@ -1375,16 +1375,16 @@
           <mxGeometry x="1225" y="292.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ffxCbfsBojCcCkFhzcpN-1" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="1015" y="450" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ffxCbfsBojCcCkFhzcpN-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ffxCbfsBojCcCkFhzcpN-1" target="A11o3h4-PqnZfG7BSUQp-51">
+        <mxCell id="ffxCbfsBojCcCkFhzcpN-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ffxCbfsBojCcCkFhzcpN-1" target="A11o3h4-PqnZfG7BSUQp-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1225" y="570" as="sourcePoint" />
             <mxPoint x="1075" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ffxCbfsBojCcCkFhzcpN-3" value="考试信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="536.25" width="100" height="40" as="geometry" />
+          <mxGeometry x="1075" y="420" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
