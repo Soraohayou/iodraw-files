@@ -369,7 +369,7 @@
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-3" value="名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="140" y="190" width="120" height="80" as="geometry" />
@@ -387,10 +387,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-6" value="教师编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="590" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-7" value="教室" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="530" y="350" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="zEFrHAv8H-9IOpfFUeST-6" target="zEFrHAv8H-9IOpfFUeST-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -405,7 +405,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-10" value="介绍" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="160" y="350" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.76;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zEFrHAv8H-9IOpfFUeST-10" target="zEFrHAv8H-9IOpfFUeST-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -423,7 +423,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-14" value="周列表" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zEFrHAv8H-9IOpfFUeST-14" target="zEFrHAv8H-9IOpfFUeST-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
