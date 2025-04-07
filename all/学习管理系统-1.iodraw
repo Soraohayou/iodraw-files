@@ -424,12 +424,6 @@
         <mxCell id="76TQxUympXX5JkumUprx-4" value="ID&lt;span style=&quot;white-space: pre; font-size: 20px;&quot;&gt;&#x9;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="500" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="76TQxUympXX5JkumUprx-5" value="姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="354" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="76TQxUympXX5JkumUprx-6" value="用户名" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="200" y="310" width="90" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="76TQxUympXX5JkumUprx-7" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="170" y="210" width="90" height="60" as="geometry" />
         </mxCell>
@@ -445,16 +439,16 @@
             <mxPoint x="528" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76TQxUympXX5JkumUprx-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="76TQxUympXX5JkumUprx-1" target="76TQxUympXX5JkumUprx-5" edge="1">
+        <mxCell id="76TQxUympXX5JkumUprx-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="76TQxUympXX5JkumUprx-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="260" as="sourcePoint" />
-            <mxPoint x="538" y="208" as="targetPoint" />
+            <mxPoint x="414" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76TQxUympXX5JkumUprx-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="76TQxUympXX5JkumUprx-1" target="76TQxUympXX5JkumUprx-6" edge="1">
+        <mxCell id="76TQxUympXX5JkumUprx-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="76TQxUympXX5JkumUprx-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="280" as="sourcePoint" />
-            <mxPoint x="424" y="330" as="targetPoint" />
+            <mxPoint x="276.8198051533948" y="317.32233047033606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="76TQxUympXX5JkumUprx-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="76TQxUympXX5JkumUprx-1" target="76TQxUympXX5JkumUprx-7" edge="1">
@@ -462,6 +456,9 @@
             <mxPoint x="400" y="290" as="sourcePoint" />
             <mxPoint x="434" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fwrf4kDbZN4pMm8Tb_-v-1" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
