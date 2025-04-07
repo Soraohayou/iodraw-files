@@ -1652,7 +1652,7 @@
         <mxCell id="ozIufE9yI6Nz0h6WDTmZ-7" value="名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="526" y="399.5" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ozIufE9yI6Nz0h6WDTmZ-8" value="ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="ozIufE9yI6Nz0h6WDTmZ-8" value="课程ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="362" y="287" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ozIufE9yI6Nz0h6WDTmZ-9" value="教师ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
