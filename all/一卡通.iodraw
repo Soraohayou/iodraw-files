@@ -1610,7 +1610,7 @@
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QL1KuPnjmxwh7gvAZCm-2" target="_QL1KuPnjmxwh7gvAZCm-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_QL1KuPnjmxwh7gvAZCm-2" value="创建班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_QL1KuPnjmxwh7gvAZCm-2" value="查看当前课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
