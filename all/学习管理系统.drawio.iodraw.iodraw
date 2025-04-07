@@ -1127,7 +1127,7 @@
         <mxCell id="UGySiZdZE3lcFrmcWgtS-1" value="作业题目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="354" y="240" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UGySiZdZE3lcFrmcWgtS-2" value="作业题目ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="UGySiZdZE3lcFrmcWgtS-2" value="作业ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="501" y="230" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UGySiZdZE3lcFrmcWgtS-3" value="作业题目ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
