@@ -1507,7 +1507,7 @@
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-8" target="pbvjZ71CW2KEYxF2S5Vc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-8" value="设置日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-8" value="借阅图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbvjZ71CW2KEYxF2S5Vc-10" target="pbvjZ71CW2KEYxF2S5Vc-13">
