@@ -926,8 +926,14 @@
             <mxPoint x="490" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q3IUz0n7iWKJvAz8lDIq-1" value="商品价格" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="120" height="80" as="geometry" />
+        <mxCell id="Q3IUz0n7iWKJvAz8lDIq-1" value="库存" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="474" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3IUz0n7iWKJvAz8lDIq-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="80" as="sourcePoint" />
+            <mxPoint x="390" y="30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
