@@ -558,7 +558,7 @@
         <mxCell id="e2XG3zWc3FVPzDyv538D-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;课程编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="105" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e2XG3zWc3FVPzDyv538D-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;学生编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="e2XG3zWc3FVPzDyv538D-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;学生ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="475" y="200" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e2XG3zWc3FVPzDyv538D-4" value="计划内容" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
@@ -597,7 +597,7 @@
             <mxPoint x="434" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2XG3zWc3FVPzDyv538D-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="e2XG3zWc3FVPzDyv538D-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;学习计划ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="420" y="298" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
