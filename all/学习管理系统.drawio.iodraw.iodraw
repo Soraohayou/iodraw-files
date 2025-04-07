@@ -667,10 +667,10 @@
         <mxCell id="rIR_yh1BivBUVrwIzO4u-1" value="成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rIR_yh1BivBUVrwIzO4u-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;测验编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="rIR_yh1BivBUVrwIzO4u-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;测验ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rIR_yh1BivBUVrwIzO4u-3" value="学生编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="rIR_yh1BivBUVrwIzO4u-3" value="学生ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="470" y="200" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rIR_yh1BivBUVrwIzO4u-4" value="分数" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
