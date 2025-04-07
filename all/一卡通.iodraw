@@ -372,7 +372,7 @@
           <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-3" value="名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="zEFrHAv8H-9IOpfFUeST-1" target="zEFrHAv8H-9IOpfFUeST-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -387,7 +387,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-6" value="教师编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="590" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-7" value="教室" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="530" y="350" width="120" height="80" as="geometry" />
@@ -414,7 +414,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-12" value="班级编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="150" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zEFrHAv8H-9IOpfFUeST-1" target="zEFrHAv8H-9IOpfFUeST-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -432,10 +432,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-16" value="日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="300" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zEFrHAv8H-9IOpfFUeST-17" value="节数" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="450" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="450" y="60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
