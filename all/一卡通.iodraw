@@ -1517,7 +1517,7 @@
           <mxGeometry x="324" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="630" width="90" height="40" as="geometry" />
+          <mxGeometry x="324" y="710" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1536,6 +1536,15 @@
         </mxCell>
         <mxCell id="pbvjZ71CW2KEYxF2S5Vc-15" value="更新借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="670" as="sourcePoint" />
+            <mxPoint x="369" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbvjZ71CW2KEYxF2S5Vc-17" value="更新借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="630" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
