@@ -1383,7 +1383,7 @@
             <mxPoint x="1075" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ffxCbfsBojCcCkFhzcpN-3" value="考试信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ffxCbfsBojCcCkFhzcpN-3" value="作业信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1075" y="400" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
