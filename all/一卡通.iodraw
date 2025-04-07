@@ -799,8 +799,14 @@
             <mxPoint x="620" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHDxMUQm-2v1xBFbLmQU-14" value="分类" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="120" height="80" as="geometry" />
+        <mxCell id="JHDxMUQm-2v1xBFbLmQU-14" value="位置" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JHDxMUQm-2v1xBFbLmQU-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JHDxMUQm-2v1xBFbLmQU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="90" as="sourcePoint" />
+            <mxPoint x="260" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
