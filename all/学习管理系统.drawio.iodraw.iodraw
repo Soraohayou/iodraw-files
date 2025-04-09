@@ -453,6 +453,9 @@
         <mxCell id="uPiRxrQkv4TOoWCoUyTC-1" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="415" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uPiRxrQkv4TOoWCoUyTC-2" value="教师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
