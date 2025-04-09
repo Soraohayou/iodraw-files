@@ -531,7 +531,7 @@
             <mxPoint x="540" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tD1S9jiNBQBU8-PGdI9N-6" value="学号" style="ellipse;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="tD1S9jiNBQBU8-PGdI9N-6" value="学号" style="ellipse;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="210" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tD1S9jiNBQBU8-PGdI9N-7" value="头像" style="ellipse;html=1;fontSize=20;" parent="1" vertex="1">
@@ -576,7 +576,7 @@
             <mxPoint x="400" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="urGp8InRo2bmVl3rwOZ--2" value="联系方式" style="ellipse;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="urGp8InRo2bmVl3rwOZ--2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;联系方式&lt;/font&gt;" style="ellipse;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="urGp8InRo2bmVl3rwOZ--3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="urGp8InRo2bmVl3rwOZ--2" target="tD1S9jiNBQBU8-PGdI9N-1">
