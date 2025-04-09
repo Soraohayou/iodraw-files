@@ -1625,7 +1625,7 @@
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_QL1KuPnjmxwh7gvAZCm-6" target="_QL1KuPnjmxwh7gvAZCm-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_QL1KuPnjmxwh7gvAZCm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_QL1KuPnjmxwh7gvAZCm-6" target="_QL1KuPnjmxwh7gvAZCm-10" edge="1">
+        <mxCell id="_QL1KuPnjmxwh7gvAZCm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_QL1KuPnjmxwh7gvAZCm-8" target="_QL1KuPnjmxwh7gvAZCm-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-6" value="签到" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1633,9 +1633,6 @@
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_QL1KuPnjmxwh7gvAZCm-8" target="_QL1KuPnjmxwh7gvAZCm-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_QL1KuPnjmxwh7gvAZCm-8" value="更新签到记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="324" y="600" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_QL1KuPnjmxwh7gvAZCm-10" target="_QL1KuPnjmxwh7gvAZCm-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1685,19 +1682,26 @@
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_QL1KuPnjmxwh7gvAZCm-20" target="_QL1KuPnjmxwh7gvAZCm-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="304" y="440" />
-              <mxPoint x="304" y="700" />
-              <mxPoint x="490" y="700" />
+              <mxPoint x="490" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_QL1KuPnjmxwh7gvAZCm-26" vertex="1" connectable="0">
           <mxGeometry x="0.0085" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-41" y="31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_QL1KuPnjmxwh7gvAZCm-20" value="是否签到过" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zTpk9_x0TUGS7PokdlyS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QL1KuPnjmxwh7gvAZCm-6" target="_QL1KuPnjmxwh7gvAZCm-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="550" as="sourcePoint" />
+            <mxPoint x="535" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QL1KuPnjmxwh7gvAZCm-8" value="更新签到记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="530" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
