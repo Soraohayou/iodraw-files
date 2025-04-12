@@ -1762,7 +1762,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BaJIPghXO1sNVOsxqWn8" name="管理员实体表">
-    <mxGraphModel dx="202" dy="119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1796,14 +1796,14 @@
             <mxPoint x="270" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oD8Os5I74pjoU7a-Gov0-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="oD8Os5I74pjoU7a-Gov0-1">
+        <mxCell id="oD8Os5I74pjoU7a-Gov0-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oD8Os5I74pjoU7a-Gov0-1" target="oD8Os5I74pjoU7a-Gov0-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="390" as="sourcePoint" />
             <mxPoint x="404" y="318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oD8Os5I74pjoU7a-Gov0-10" value="管理员账号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="348" y="320" width="106" height="70" as="geometry" />
+        <mxCell id="oD8Os5I74pjoU7a-Gov0-10" value="管理员密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="351" y="320" width="106" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
