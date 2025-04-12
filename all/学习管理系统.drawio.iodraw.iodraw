@@ -1743,7 +1743,7 @@
         <mxCell id="StfvBypwu2PRr8uAWVHk-6" value="教师姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="354" y="142" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="StfvBypwu2PRr8uAWVHk-7" value="教师编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="StfvBypwu2PRr8uAWVHk-7" value="考试题目" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="354" y="318" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="StfvBypwu2PRr8uAWVHk-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="StfvBypwu2PRr8uAWVHk-6" target="StfvBypwu2PRr8uAWVHk-1">
