@@ -1393,7 +1393,7 @@
         <mxCell id="5kI63dt9_tJAjCMJhQa--16" value="车辆信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-130" y="600" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5kI63dt9_tJAjCMJhQa--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5kI63dt9_tJAjCMJhQa--18" target="5kI63dt9_tJAjCMJhQa--12">
+        <mxCell id="5kI63dt9_tJAjCMJhQa--32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5kI63dt9_tJAjCMJhQa--18" target="5kI63dt9_tJAjCMJhQa--12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="625" as="sourcePoint" />
             <mxPoint x="170" y="550" as="targetPoint" />
@@ -1433,7 +1433,7 @@
           <mxGeometry x="170" y="650" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--33" value="车位状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="560" width="70" height="30" as="geometry" />
+          <mxGeometry x="120" y="555" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
