@@ -1426,6 +1426,9 @@
             <mxPoint x="175" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5kI63dt9_tJAjCMJhQa--35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5kI63dt9_tJAjCMJhQa--27" target="5kI63dt9_tJAjCMJhQa--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--27" value="D3 停车记录" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
           <mxGeometry x="125" y="690" width="90" height="30" as="geometry" />
         </mxCell>
