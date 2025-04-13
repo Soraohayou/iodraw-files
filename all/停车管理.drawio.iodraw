@@ -1402,9 +1402,6 @@
             <mxPoint x="-5" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5kI63dt9_tJAjCMJhQa--20" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="88" y="555" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5kI63dt9_tJAjCMJhQa--21" target="5kI63dt9_tJAjCMJhQa--18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1415,7 +1412,7 @@
           <mxGeometry x="-10" y="650" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--24" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="670" width="70" height="30" as="geometry" />
+          <mxGeometry x="70" y="660" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
