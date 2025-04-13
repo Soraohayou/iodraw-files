@@ -1426,6 +1426,9 @@
         <mxCell id="5kI63dt9_tJAjCMJhQa--28" value="停车记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="650" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5kI63dt9_tJAjCMJhQa--30" value="D3 停车记录" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
