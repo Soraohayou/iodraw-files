@@ -1417,7 +1417,7 @@
         <mxCell id="5kI63dt9_tJAjCMJhQa--24" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="660" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5kI63dt9_tJAjCMJhQa--26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5kI63dt9_tJAjCMJhQa--27">
+        <mxCell id="5kI63dt9_tJAjCMJhQa--26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5kI63dt9_tJAjCMJhQa--27" source="5kI63dt9_tJAjCMJhQa--18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="646" as="sourcePoint" />
             <mxPoint x="175" y="690" as="targetPoint" />
@@ -1431,6 +1431,9 @@
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--31" value="D1 车位信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
           <mxGeometry x="125" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5kI63dt9_tJAjCMJhQa--33" value="停车记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
