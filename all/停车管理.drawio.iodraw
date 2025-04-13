@@ -1209,7 +1209,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TF82IzBl7VVF4mOdHEoM" name="一层数据流程图">
-    <mxGraphModel dx="1577" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1465,14 +1465,6 @@
         <mxCell id="5kI63dt9_tJAjCMJhQa--42" value="4.在线缴费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="604" width="100" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="5kI63dt9_tJAjCMJhQa--43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5kI63dt9_tJAjCMJhQa--44" target="5kI63dt9_tJAjCMJhQa--46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5kI63dt9_tJAjCMJhQa--44" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="440" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kI63dt9_tJAjCMJhQa--46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="604" as="targetPoint" />
@@ -1480,9 +1472,6 @@
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--46" value="D1 车位信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
           <mxGeometry x="455" y="520" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5kI63dt9_tJAjCMJhQa--47" value="区域信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="493" y="480" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--48" value="收费标准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="493" y="560" width="70" height="30" as="geometry" />
