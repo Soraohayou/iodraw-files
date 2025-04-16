@@ -1240,7 +1240,7 @@
           <mxGeometry x="-50" y="520" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--15" value="车位信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-17" y="560" width="80" height="30" as="geometry" />
+          <mxGeometry x="-80" y="560" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--16" value="车辆信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-135" y="600" width="80" height="30" as="geometry" />
