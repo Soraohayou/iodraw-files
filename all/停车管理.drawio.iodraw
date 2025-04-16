@@ -1361,6 +1361,9 @@
         <mxCell id="6U1mwIMYNS0HxKYZ312V-4" value="车位信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6U1mwIMYNS0HxKYZ312V-5" value="车位信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
