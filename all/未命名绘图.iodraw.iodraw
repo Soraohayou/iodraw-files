@@ -69,8 +69,8 @@
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-16" value="反馈回复" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-2">
           <mxGeometry x="60.63" y="320" width="78.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PJmnqJjPcFo8oxSfZAwR-29" value="反馈回复" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-2">
-          <mxGeometry x="50" y="430" width="78.75" height="40" as="geometry" />
+        <mxCell id="PJmnqJjPcFo8oxSfZAwR-29" value="积分兑换管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-2">
+          <mxGeometry x="60.63" y="430" width="78.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJmnqJjPcFo8oxSfZAwR-6" target="PJmnqJjPcFo8oxSfZAwR-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,6 +92,9 @@
               <mxPoint x="329" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PJmnqJjPcFo8oxSfZAwR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJmnqJjPcFo8oxSfZAwR-24" target="PJmnqJjPcFo8oxSfZAwR-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
