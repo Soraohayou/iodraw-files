@@ -484,7 +484,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-15" value="课程管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-15" value="垃圾识别功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-16" value="用户选课功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
