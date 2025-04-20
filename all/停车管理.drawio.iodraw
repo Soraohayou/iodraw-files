@@ -1070,7 +1070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0DBzOVBCJN8kybDQcG8c" name="整体E-R图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1086,13 +1086,13 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="115" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-3" target="1U42tDswmAcsm77UZaS_-4">
+        <mxCell id="1U42tDswmAcsm77UZaS_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-3" target="1U42tDswmAcsm77UZaS_-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-3" value="车主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="120" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-4" target="1U42tDswmAcsm77UZaS_-5">
+        <mxCell id="1U42tDswmAcsm77UZaS_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-4" target="1U42tDswmAcsm77UZaS_-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
