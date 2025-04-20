@@ -1335,6 +1335,12 @@
         <mxCell id="6U1mwIMYNS0HxKYZ312V-8" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Jv2mLs8xNzSM5N3JY4LR-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="380" as="sourcePoint" />
+            <mxPoint x="-70" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
