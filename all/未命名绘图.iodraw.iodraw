@@ -174,7 +174,7 @@
         <mxCell id="pNPAGDoQyxje6SHK-F6Q-45" value="结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eAPEEr1GDjHi3kvANTl--3" value="意见反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eAPEEr1GDjHi3kvANTl--3" value="信息修改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="320" width="77.5" height="40" as="geometry" />
         </mxCell>
       </root>
