@@ -19,6 +19,9 @@
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-4" value="注册" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
           <mxGeometry x="126.25" y="100" width="77.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PJmnqJjPcFo8oxSfZAwR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-6" target="PJmnqJjPcFo8oxSfZAwR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-6" value="登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
           <mxGeometry x="126.25" y="160" width="77.5" height="30" as="geometry" />
         </mxCell>
