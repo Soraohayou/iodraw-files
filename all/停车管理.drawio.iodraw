@@ -1722,46 +1722,19 @@
         <mxCell id="D9LOvIUX412M8ZFCHHvn-2" value="停车记录ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="491" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D9LOvIUX412M8ZFCHHvn-3" value="车辆ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="220" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="D9LOvIUX412M8ZFCHHvn-4" value="车位ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="D9LOvIUX412M8ZFCHHvn-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D9LOvIUX412M8ZFCHHvn-4" target="D9LOvIUX412M8ZFCHHvn-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="370" as="sourcePoint" />
-            <mxPoint x="630" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D9LOvIUX412M8ZFCHHvn-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D9LOvIUX412M8ZFCHHvn-3" target="D9LOvIUX412M8ZFCHHvn-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="210" as="sourcePoint" />
-            <mxPoint x="750" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D9LOvIUX412M8ZFCHHvn-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D9LOvIUX412M8ZFCHHvn-2" target="D9LOvIUX412M8ZFCHHvn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="150" as="sourcePoint" />
             <mxPoint x="750" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9LOvIUX412M8ZFCHHvn-8" value="预约时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D9LOvIUX412M8ZFCHHvn-8" value="缴费记录ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D9LOvIUX412M8ZFCHHvn-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D9LOvIUX412M8ZFCHHvn-8" target="D9LOvIUX412M8ZFCHHvn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="200" as="sourcePoint" />
             <mxPoint x="280" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D9LOvIUX412M8ZFCHHvn-10" value="车主ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="70" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="D9LOvIUX412M8ZFCHHvn-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D9LOvIUX412M8ZFCHHvn-1" target="D9LOvIUX412M8ZFCHHvn-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="100" as="sourcePoint" />
-            <mxPoint x="500" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
