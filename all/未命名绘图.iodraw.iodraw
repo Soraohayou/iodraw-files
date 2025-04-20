@@ -519,7 +519,7 @@
         <mxCell id="8YdqSDylGd8aM1u4uFM2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="8YdqSDylGd8aM1u4uFM2-22" target="8YdqSDylGd8aM1u4uFM2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-22" value="提醒功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-22" value="知识查询功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="8YdqSDylGd8aM1u4uFM2-24" target="8YdqSDylGd8aM1u4uFM2-6">
