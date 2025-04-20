@@ -927,6 +927,9 @@
             <mxPoint x="110" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nfObnGr-e3p5gr6Jv6Ya-1" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
