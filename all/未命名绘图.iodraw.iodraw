@@ -186,7 +186,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Awy6oPty8u9PS6boQsa_-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Awy6oPty8u9PS6boQsa_-2" value="智能垃圾分类系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
@@ -220,6 +220,9 @@
         </mxCell>
         <mxCell id="Awy6oPty8u9PS6boQsa_-8" value="垃圾图片信息、用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awy6oPty8u9PS6boQsa_-9" value="垃圾图片信息、用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
