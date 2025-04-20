@@ -643,7 +643,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cQ7qekGY1IvDqNf9qZgD" name="积分兑换模块流程图">
-    <mxGraphModel dx="1909" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -656,7 +656,7 @@
         <mxCell id="w-FK8moTeXciIKfQEVy3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-4" target="w-FK8moTeXciIKfQEVy3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w-FK8moTeXciIKfQEVy3-4" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w-FK8moTeXciIKfQEVy3-4" value="选择物品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-FK8moTeXciIKfQEVy3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-6">
