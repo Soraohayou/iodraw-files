@@ -1070,7 +1070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0DBzOVBCJN8kybDQcG8c" name="整体E-R图">
-    <mxGraphModel dx="202" dy="119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1158,7 +1158,7 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-28" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="115" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-29" value="停车记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1U42tDswmAcsm77UZaS_-29" value="预约记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="205" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-32" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
