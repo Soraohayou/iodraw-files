@@ -593,7 +593,7 @@
         <mxCell id="foNkA9OsIJGsmYHf28rh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-4" target="foNkA9OsIJGsmYHf28rh-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="foNkA9OsIJGsmYHf28rh-4" value="填写个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="foNkA9OsIJGsmYHf28rh-4" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="190" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-5" value="开始考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
