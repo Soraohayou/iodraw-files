@@ -227,8 +227,8 @@
         <mxCell id="Awy6oPty8u9PS6boQsa_-10" value="积分兑换信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Awy6oPty8u9PS6boQsa_-12" value="积分兑换信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="350" width="160" height="30" as="geometry" />
+        <mxCell id="Awy6oPty8u9PS6boQsa_-12" value="分类详情、反馈回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="290" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
