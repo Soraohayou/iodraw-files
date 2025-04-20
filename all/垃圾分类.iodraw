@@ -580,7 +580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v2drY75HTIQ5CjGTFUwd" name="垃圾分类流程图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,14 +590,17 @@
         <mxCell id="foNkA9OsIJGsmYHf28rh-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="110" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="foNkA9OsIJGsmYHf28rh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-4" target="foNkA9OsIJGsmYHf28rh-8">
+        <mxCell id="foNkA9OsIJGsmYHf28rh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-4" target="foNkA9OsIJGsmYHf28rh-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-4" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="190" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-5" target="foNkA9OsIJGsmYHf28rh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-5" value="开始考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="270" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-8" target="foNkA9OsIJGsmYHf28rh-10">
           <mxGeometry relative="1" as="geometry" />
