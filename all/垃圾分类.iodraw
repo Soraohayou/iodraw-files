@@ -642,11 +642,66 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="cQ7qekGY1IvDqNf9qZgD" name="第 10 页">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="cQ7qekGY1IvDqNf9qZgD" name="积分兑换模块流程图">
+    <mxGraphModel dx="1909" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w-FK8moTeXciIKfQEVy3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-2" target="w-FK8moTeXciIKfQEVy3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-4" target="w-FK8moTeXciIKfQEVy3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-4" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-6" value="识别图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="345" />
+              <mxPoint x="730" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w-FK8moTeXciIKfQEVy3-7">
+          <mxGeometry x="-0.0842" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-10" target="w-FK8moTeXciIKfQEVy3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-10" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-12" target="w-FK8moTeXciIKfQEVy3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-12" value="确认信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-14" target="w-FK8moTeXciIKfQEVy3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-14" value="信息上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-FK8moTeXciIKfQEVy3-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="544.5" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
