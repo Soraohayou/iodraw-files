@@ -1070,7 +1070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0DBzOVBCJN8kybDQcG8c" name="整体E-R图">
-    <mxGraphModel dx="420" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1176,14 +1176,14 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-34" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="290" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-35" value="车主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1U42tDswmAcsm77UZaS_-35" value="缴费记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="295" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-39" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="250" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-40" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="215" width="30" height="30" as="geometry" />
+          <mxGeometry x="685" y="290" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
