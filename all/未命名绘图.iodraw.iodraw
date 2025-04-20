@@ -429,7 +429,7 @@
         <mxCell id="8YdqSDylGd8aM1u4uFM2-4" value="积分兑换模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-5" value="学习管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-5" value="意见反馈模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-6" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
