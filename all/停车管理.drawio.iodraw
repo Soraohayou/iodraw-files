@@ -1716,6 +1716,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D9LOvIUX412M8ZFCHHvn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="D9LOvIUX412M8ZFCHHvn-1" target="D9LOvIUX412M8ZFCHHvn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D9LOvIUX412M8ZFCHHvn-1" value="缴费记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1738,7 +1741,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LOvIUX412M8ZFCHHvn-12" value="缴费记录ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="80" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
