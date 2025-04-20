@@ -909,7 +909,7 @@
         <mxCell id="elAD--_I3bISw7ccULbv-1" value="垃圾分类记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="elAD--_I3bISw7ccULbv-2" value="内容" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="elAD--_I3bISw7ccULbv-2" value="图片Url" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="elAD--_I3bISw7ccULbv-3" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
