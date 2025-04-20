@@ -256,8 +256,8 @@
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-6" value="D1 识别信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="470" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T_dPgv7TUL5_mzArG0XQ-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="50" height="30" as="geometry" />
+        <mxCell id="T_dPgv7TUL5_mzArG0XQ-8" value="识别信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
