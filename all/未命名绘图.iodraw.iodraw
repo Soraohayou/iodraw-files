@@ -287,7 +287,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-16" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="220" width="70" height="30" as="geometry" />
+          <mxGeometry x="280" y="300" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_dPgv7TUL5_mzArG0XQ-17" target="T_dPgv7TUL5_mzArG0XQ-13">
           <mxGeometry relative="1" as="geometry" />
