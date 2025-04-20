@@ -580,7 +580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v2drY75HTIQ5CjGTFUwd" name="垃圾分类流程图">
-    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -602,6 +602,9 @@
         <mxCell id="foNkA9OsIJGsmYHf28rh-5" value="识别图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="250" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-8" target="foNkA9OsIJGsmYHf28rh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-8" value="开始计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="320" width="90" height="40" as="geometry" />
         </mxCell>
@@ -614,8 +617,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-20" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="foNkA9OsIJGsmYHf28rh-18">
+          <mxGeometry x="-0.0842" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-17" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="390" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-21" value="开始计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="330" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
