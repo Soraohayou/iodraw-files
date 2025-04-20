@@ -1170,7 +1170,7 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-33" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="890" y="170" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-34" target="1U42tDswmAcsm77UZaS_-35">
+        <mxCell id="1U42tDswmAcsm77UZaS_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-34" target="1U42tDswmAcsm77UZaS_-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-34" value="绑定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
