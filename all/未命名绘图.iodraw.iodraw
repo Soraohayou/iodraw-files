@@ -250,6 +250,9 @@
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-5" value="垃圾照片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="T_dPgv7TUL5_mzArG0XQ-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
