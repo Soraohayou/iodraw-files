@@ -980,13 +980,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0L1qD2e9FEG06MMrttdk-1" value="垃圾分类记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="0L1qD2e9FEG06MMrttdk-1" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0L1qD2e9FEG06MMrttdk-2" value="图片Url" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0L1qD2e9FEG06MMrttdk-3" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="0L1qD2e9FEG06MMrttdk-3" value="物品ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="510" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0L1qD2e9FEG06MMrttdk-4" value="分类" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
