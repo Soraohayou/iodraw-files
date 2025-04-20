@@ -218,7 +218,7 @@
             <mxPoint x="550" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Awy6oPty8u9PS6boQsa_-8" value="垃圾图片信息、用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Awy6oPty8u9PS6boQsa_-8" value="垃圾图片信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Awy6oPty8u9PS6boQsa_-9" value="垃圾识别信息、兑换信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
