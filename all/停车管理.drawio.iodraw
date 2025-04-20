@@ -1084,7 +1084,13 @@
           <mxGeometry x="720" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="190" width="80" height="50" as="geometry" />
+          <mxGeometry x="725" y="200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1U42tDswmAcsm77UZaS_-5" value="车主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="205" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1U42tDswmAcsm77UZaS_-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="195" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
