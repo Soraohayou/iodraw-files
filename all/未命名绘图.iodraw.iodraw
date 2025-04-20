@@ -188,7 +188,7 @@
         <mxCell id="Awy6oPty8u9PS6boQsa_-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Awy6oPty8u9PS6boQsa_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Awy6oPty8u9PS6boQsa_-2" value="智能垃圾分类系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
