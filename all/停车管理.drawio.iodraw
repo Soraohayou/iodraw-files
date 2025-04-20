@@ -1095,6 +1095,12 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-7" value="车主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="205" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1U42tDswmAcsm77UZaS_-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="290" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1U42tDswmAcsm77UZaS_-9" value="车主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
