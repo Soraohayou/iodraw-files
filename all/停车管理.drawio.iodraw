@@ -1341,9 +1341,6 @@
             <mxPoint x="-70" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jv2mLs8xNzSM5N3JY4LR-2" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="110" y="570" width="80" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
