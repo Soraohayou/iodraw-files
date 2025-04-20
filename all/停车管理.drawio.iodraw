@@ -1617,7 +1617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kp049o9zabYRqJO6RrIw" name="预约表实体图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1625,7 +1625,7 @@
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ipYPUb4QdVd2Cmp9uDW-2" value="预约记录ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="491" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0ipYPUb4QdVd2Cmp9uDW-3" value="车辆ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="220" width="120" height="80" as="geometry" />
@@ -1658,12 +1658,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="200" as="sourcePoint" />
             <mxPoint x="280" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CrQVfeAJWhT4sx72rFn0-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0ipYPUb4QdVd2Cmp9uDW-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="100" as="sourcePoint" />
-            <mxPoint x="300" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
