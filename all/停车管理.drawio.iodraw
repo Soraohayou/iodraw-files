@@ -1101,7 +1101,7 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-5" target="1U42tDswmAcsm77UZaS_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-5" value="车主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1U42tDswmAcsm77UZaS_-5" value="停车记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="205" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-6" target="1U42tDswmAcsm77UZaS_-7">
@@ -1113,7 +1113,7 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-7" target="1U42tDswmAcsm77UZaS_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-7" value="车主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1U42tDswmAcsm77UZaS_-7" value="停车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="205" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-8" target="1U42tDswmAcsm77UZaS_-9">
@@ -1122,7 +1122,7 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-8" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="290" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-9" value="车主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1U42tDswmAcsm77UZaS_-9" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="295" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-18" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
