@@ -336,7 +336,7 @@
         <mxCell id="D1-p3sqYQLNbAnHltP7V-2" value="垃圾识别功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="240" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D1-p3sqYQLNbAnHltP7V-3" value="垃圾信息上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D1-p3sqYQLNbAnHltP7V-3" value="垃圾信息上传功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="340" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D1-p3sqYQLNbAnHltP7V-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D1-p3sqYQLNbAnHltP7V-1" target="D1-p3sqYQLNbAnHltP7V-2">
