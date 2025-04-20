@@ -584,6 +584,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="foNkA9OsIJGsmYHf28rh-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-2" target="foNkA9OsIJGsmYHf28rh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-4" target="foNkA9OsIJGsmYHf28rh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-4" value="填写个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-5" value="开始考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-8" target="foNkA9OsIJGsmYHf28rh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-8" target="foNkA9OsIJGsmYHf28rh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-8" value="开始计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-10" target="foNkA9OsIJGsmYHf28rh-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="480" />
+              <mxPoint x="570" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-10" value="开始计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="685" y="480" />
+              <mxPoint x="571" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-12" value="考生交卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foNkA9OsIJGsmYHf28rh-14" target="foNkA9OsIJGsmYHf28rh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-14" value="生成成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foNkA9OsIJGsmYHf28rh-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="580" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
