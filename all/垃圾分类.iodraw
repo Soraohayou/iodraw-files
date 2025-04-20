@@ -1175,11 +1175,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCqtesDn6yqzP_bR-5-J-1" target="gtLPQxDVKcH1K-9ys-1Q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KCqtesDn6yqzP_bR-5-J-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-1" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="255" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-3" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="248" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
