@@ -1199,13 +1199,13 @@
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-6" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="248" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gtLPQxDVKcH1K-9ys-1Q-7" target="gtLPQxDVKcH1K-9ys-1Q-9">
+        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gtLPQxDVKcH1K-9ys-1Q-7" target="gtLPQxDVKcH1K-9ys-1Q-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-7" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-9" value="垃圾分类记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-9" value="积分兑换记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
