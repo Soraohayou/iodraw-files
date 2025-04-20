@@ -181,12 +181,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UVkBznc9E0R6v_g9mzyS" name="顶层数据流程图">
-    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="488" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Awy6oPty8u9PS6boQsa_-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Awy6oPty8u9PS6boQsa_-2" value="智能垃圾分类系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry x="210" y="340" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Awy6oPty8u9PS6boQsa_-9" value="垃圾识别信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="210" y="290" width="180" height="30" as="geometry" />
+          <mxGeometry x="200" y="290" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Awy6oPty8u9PS6boQsa_-10" value="积分兑换信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="470" y="340" width="180" height="30" as="geometry" />
