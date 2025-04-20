@@ -260,7 +260,7 @@
           <mxGeometry x="240" y="430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-9" value="2.在线上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="372.5" width="70" height="45" as="geometry" />
+          <mxGeometry x="390" y="372.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_dPgv7TUL5_mzArG0XQ-6" target="T_dPgv7TUL5_mzArG0XQ-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -272,7 +272,7 @@
           <mxGeometry x="370" y="430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-13" value="2.在线上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="382.5" width="70" height="45" as="geometry" />
+          <mxGeometry x="530" y="372.5" width="70" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
