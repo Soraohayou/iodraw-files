@@ -1095,7 +1095,7 @@
         <mxCell id="1U42tDswmAcsm77UZaS_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-4" target="1U42tDswmAcsm77UZaS_-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1U42tDswmAcsm77UZaS_-4" value="关联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1U42tDswmAcsm77UZaS_-4" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="200" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1U42tDswmAcsm77UZaS_-5" target="1U42tDswmAcsm77UZaS_-6">
@@ -1148,6 +1148,9 @@
         </mxCell>
         <mxCell id="1U42tDswmAcsm77UZaS_-27" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1U42tDswmAcsm77UZaS_-28" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="210" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
