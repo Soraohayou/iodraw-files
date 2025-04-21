@@ -1196,13 +1196,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--11" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="305" width="90" height="30" as="geometry" />
+          <mxGeometry x="-380" y="590" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="5kI63dt9_tJAjCMJhQa--12" target="5kI63dt9_tJAjCMJhQa--4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--12" value="D1 车位信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="385" width="90" height="30" as="geometry" />
+          <mxGeometry x="-220" y="590" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--15" value="车位信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-80" y="425" width="80" height="30" as="geometry" />
