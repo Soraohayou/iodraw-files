@@ -1391,14 +1391,20 @@
         <mxCell id="3JF12HGdIOORtm5zQzdX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3JF12HGdIOORtm5zQzdX-2" target="5kI63dt9_tJAjCMJhQa--21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3JF12HGdIOORtm5zQzdX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3JF12HGdIOORtm5zQzdX-2" target="5kI63dt9_tJAjCMJhQa--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3JF12HGdIOORtm5zQzdX-2" value="D5 车辆信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-60" y="610" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JF12HGdIOORtm5zQzdX-4" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-145" y="706" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3JF12HGdIOORtm5zQzdX-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="568" width="50" height="30" as="geometry" />
+        <mxCell id="3JF12HGdIOORtm5zQzdX-7" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JF12HGdIOORtm5zQzdX-9" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
