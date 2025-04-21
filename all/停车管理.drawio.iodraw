@@ -1401,6 +1401,9 @@
             <mxPoint x="20" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3JF12HGdIOORtm5zQzdX-2" value="D4 用户信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-223" y="690" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
