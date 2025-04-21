@@ -1403,8 +1403,8 @@
         <mxCell id="3JF12HGdIOORtm5zQzdX-7" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-90" y="570" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3JF12HGdIOORtm5zQzdX-9" value="预约信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="80" y="560" width="80" height="30" as="geometry" />
+        <mxCell id="3JF12HGdIOORtm5zQzdX-9" value="车辆信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="35" y="624" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
