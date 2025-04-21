@@ -1205,7 +1205,7 @@
           <mxGeometry x="-310" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--16" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="646" width="80" height="30" as="geometry" />
+          <mxGeometry x="-170" y="654" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kI63dt9_tJAjCMJhQa--32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="5kI63dt9_tJAjCMJhQa--4" target="5kI63dt9_tJAjCMJhQa--12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1396,6 +1396,9 @@
         </mxCell>
         <mxCell id="3JF12HGdIOORtm5zQzdX-2" value="D5 车辆信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-60" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JF12HGdIOORtm5zQzdX-4" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="706" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
