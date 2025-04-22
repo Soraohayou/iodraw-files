@@ -1255,6 +1255,26 @@
         <mxCell id="kxDoGPxsvtlvz8RVE8p_-3" value="观看历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="130" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kxDoGPxsvtlvz8RVE8p_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxDoGPxsvtlvz8RVE8p_-5" target="kxDoGPxsvtlvz8RVE8p_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kxDoGPxsvtlvz8RVE8p_-5" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="125" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kxDoGPxsvtlvz8RVE8p_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kxDoGPxsvtlvz8RVE8p_-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxDoGPxsvtlvz8RVE8p_-7" value="关联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kxDoGPxsvtlvz8RVE8p_-8" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="113" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kxDoGPxsvtlvz8RVE8p_-9" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="113" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
