@@ -1394,7 +1394,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QBjQ3BC94yv52O94kH6Z-1" value="知识记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="QBjQ3BC94yv52O94kH6Z-1" value="积分数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QBjQ3BC94yv52O94kH6Z-2" value="知识ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
