@@ -1400,7 +1400,7 @@
         <mxCell id="QBjQ3BC94yv52O94kH6Z-2" value="知识ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QBjQ3BC94yv52O94kH6Z-3" value="知识记录ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="QBjQ3BC94yv52O94kH6Z-3" value="积分数据ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="460" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QBjQ3BC94yv52O94kH6Z-4" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
