@@ -44,16 +44,16 @@
           <mxGeometry x="127.5" y="320" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-24" value="垃圾分类" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
-          <mxGeometry x="127.5" y="510" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="127.5" y="525" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-28" target="PJmnqJjPcFo8oxSfZAwR-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-28" value="积分兑换" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
-          <mxGeometry x="126.25" y="590" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="126.25" y="605" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-32" value="结束" style="rhombus;whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
-          <mxGeometry x="125" y="660" width="80" height="40" as="geometry" />
+          <mxGeometry x="125" y="675" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-16" value="反馈回复" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="391.88" y="440" width="78.75" height="40" as="geometry" />
@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-29" value="积分兑换管理" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
-          <mxGeometry x="391.88" y="550" width="78.75" height="40" as="geometry" />
+          <mxGeometry x="391.88" y="565" width="78.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-13" target="PJmnqJjPcFo8oxSfZAwR-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
