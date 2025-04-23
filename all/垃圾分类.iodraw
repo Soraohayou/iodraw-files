@@ -307,8 +307,11 @@
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="T_dPgv7TUL5_mzArG0XQ-16" target="T_dPgv7TUL5_mzArG0XQ-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FANedxWwY38iTG3i7YOs-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T_dPgv7TUL5_mzArG0XQ-16" target="FANedxWwY38iTG3i7YOs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-16" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="280" y="300" width="95" height="30" as="geometry" />
+          <mxGeometry x="267.5" y="300" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" target="T_dPgv7TUL5_mzArG0XQ-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -424,7 +427,7 @@
           <mxGeometry x="97.5" y="292.5" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-22" value="D2 积分兑换信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="485" y="310" width="115" height="30" as="geometry" />
+          <mxGeometry x="260" y="210" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
