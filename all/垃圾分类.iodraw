@@ -299,7 +299,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-13" value="3.积分兑换" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="700" y="292.5" width="90" height="45" as="geometry" />
+          <mxGeometry x="700" y="292.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-15" value="积分信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="604" y="337.5" width="80" height="30" as="geometry" />
@@ -420,8 +420,8 @@
             <mxPoint x="640" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FANedxWwY38iTG3i7YOs-20" value="3.积分兑换" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="105" y="292.5" width="105" height="45" as="geometry" />
+        <mxCell id="FANedxWwY38iTG3i7YOs-20" value="3.新闻阅读" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="292.5" width="105" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
