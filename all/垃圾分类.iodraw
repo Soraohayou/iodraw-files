@@ -318,7 +318,7 @@
             <mxPoint x="584" y="315" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T_dPgv7TUL5_mzArG0XQ-17" value="D2 积分兑换信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="T_dPgv7TUL5_mzArG0XQ-17" value="D2 积分兑换" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="475" y="300" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-21" value="积分兑换信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
@@ -432,7 +432,7 @@
         <mxCell id="FANedxWwY38iTG3i7YOs-20" value="3.新闻阅读" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="292.5" width="105" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="FANedxWwY38iTG3i7YOs-22" value="D2 知识信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FANedxWwY38iTG3i7YOs-22" value="D2 知识" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="210" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-24" value="知识信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
