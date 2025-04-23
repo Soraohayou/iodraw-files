@@ -277,7 +277,7 @@
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="T_dPgv7TUL5_mzArG0XQ-3" target="T_dPgv7TUL5_mzArG0XQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T_dPgv7TUL5_mzArG0XQ-3" value="1.垃圾识别" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="T_dPgv7TUL5_mzArG0XQ-3" value="4.垃圾识别" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="270" y="372.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-5" value="垃圾照片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
