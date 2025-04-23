@@ -565,7 +565,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uxUBHzCBl-UrvVuQjQuQ" name="系统功能图">
-    <mxGraphModel dx="1500" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -637,7 +637,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-15" value="垃圾识别功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="160" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-16" value="垃圾信息上传功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="350" width="25" height="140" as="geometry" />
@@ -728,10 +728,10 @@
         <mxCell id="8YdqSDylGd8aM1u4uFM2-43" value="反馈回复功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dDZJRGB5692U-Anf0Rra-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="dDZJRGB5692U-Anf0Rra-1" target="8YdqSDylGd8aM1u4uFM2-4">
+        <mxCell id="dDZJRGB5692U-Anf0Rra-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="dDZJRGB5692U-Anf0Rra-1" target="8YdqSDylGd8aM1u4uFM2-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dDZJRGB5692U-Anf0Rra-1" value="积分排行功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dDZJRGB5692U-Anf0Rra-1" value="积分排行功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
