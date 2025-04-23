@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-1" value="用户" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="60" width="364" height="810" as="geometry" />
+          <mxGeometry x="50" y="60" width="340" height="810" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-3" value="开始" style="rhombus;whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="126.25" y="40" width="80" height="40" as="geometry" />
@@ -96,8 +96,8 @@
         <mxCell id="niyDa22h1KO967UyYhDJ-9" value="判断分类" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
           <mxGeometry x="127.5" y="390" width="77.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0MK6yK9jQ06-5bC0VfHl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
-          <mxGeometry x="244" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="0MK6yK9jQ06-5bC0VfHl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
+          <mxGeometry x="189" y="730" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-2" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="60" width="200" height="810" as="geometry" />
