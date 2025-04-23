@@ -459,6 +459,9 @@
         <mxCell id="FANedxWwY38iTG3i7YOs-36" value="识别信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="348" y="370" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FANedxWwY38iTG3i7YOs-38" value="D5 积分兑换" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="787" y="378.5" width="115" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
