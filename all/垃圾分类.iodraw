@@ -462,8 +462,8 @@
         <mxCell id="FANedxWwY38iTG3i7YOs-38" value="D8&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="910" y="380" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FANedxWwY38iTG3i7YOs-40" value="上传记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="730" y="367.5" width="80" height="30" as="geometry" />
+        <mxCell id="FANedxWwY38iTG3i7YOs-40" value="垃圾分类记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="715" y="367.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
