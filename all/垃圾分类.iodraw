@@ -269,11 +269,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T_dPgv7TUL5_mzArG0XQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T_dPgv7TUL5_mzArG0XQ-1" target="T_dPgv7TUL5_mzArG0XQ-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T_dPgv7TUL5_mzArG0XQ-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="380" width="70" height="30" as="geometry" />
+        <mxCell id="T_dPgv7TUL5_mzArG0XQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="T_dPgv7TUL5_mzArG0XQ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="395" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T_dPgv7TUL5_mzArG0XQ-3" target="T_dPgv7TUL5_mzArG0XQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -357,43 +356,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-405" y="610" width="90" height="30" as="geometry" />
+          <mxGeometry x="-220" y="396" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="47" y="594" as="sourcePoint" />
-            <mxPoint x="-65" y="705" as="targetPoint" />
+            <mxPoint x="232" y="380" as="sourcePoint" />
+            <mxPoint x="120" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-4" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="654" width="80" height="30" as="geometry" />
+          <mxGeometry x="15" y="440" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-2" target="FANedxWwY38iTG3i7YOs-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-133" y="619" as="sourcePoint" />
-            <mxPoint x="92" y="619" as="targetPoint" />
+            <mxPoint x="52" y="405" as="sourcePoint" />
+            <mxPoint x="277" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-7" target="FANedxWwY38iTG3i7YOs-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-7" value="1.用户注册" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-238" y="604" width="100" height="42" as="geometry" />
+          <mxGeometry x="-53" y="390" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-8" value="D4 用户信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-233" y="690" width="90" height="30" as="geometry" />
+          <mxGeometry x="-48" y="476" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-30" y="750" as="sourcePoint" />
-            <mxPoint x="-65" y="705" as="targetPoint" />
+            <mxPoint x="155" y="536" as="sourcePoint" />
+            <mxPoint x="120" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-10" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="654" width="70" height="30" as="geometry" />
+          <mxGeometry x="-75" y="440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-11" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-145" y="706" width="80" height="30" as="geometry" />
+          <mxGeometry x="40" y="492" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
