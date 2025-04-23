@@ -765,7 +765,7 @@
             <mxPoint x="570" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="foNkA9OsIJGsmYHf28rh-5" value="识别图片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="foNkA9OsIJGsmYHf28rh-5" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="foNkA9OsIJGsmYHf28rh-17" edge="1">
@@ -786,7 +786,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-17" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="320" width="80" height="50" as="geometry" />
+          <mxGeometry x="510" y="320" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="foNkA9OsIJGsmYHf28rh-21" target="foNkA9OsIJGsmYHf28rh-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
