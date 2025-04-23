@@ -37,6 +37,9 @@
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-13" value="意见反馈" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="231.25" y="440" width="77.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="niyDa22h1KO967UyYhDJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-22" target="niyDa22h1KO967UyYhDJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-22" value="识别图片" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="127.5" y="320" width="77.5" height="40" as="geometry" />
         </mxCell>
@@ -86,6 +89,9 @@
             <mxPoint x="200" y="100" as="sourcePoint" />
             <mxPoint x="250" y="50" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="niyDa22h1KO967UyYhDJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJmnqJjPcFo8oxSfZAwR-1" source="niyDa22h1KO967UyYhDJ-9" target="PJmnqJjPcFo8oxSfZAwR-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="niyDa22h1KO967UyYhDJ-9" value="识别图片" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
           <mxGeometry x="127.5" y="410" width="77.5" height="40" as="geometry" />
