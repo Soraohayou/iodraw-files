@@ -414,6 +414,12 @@
         <mxCell id="FANedxWwY38iTG3i7YOs-18" value="分类信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="470" y="430" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FANedxWwY38iTG3i7YOs-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-16" target="T_dPgv7TUL5_mzArG0XQ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="580" as="sourcePoint" />
+            <mxPoint x="640" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
