@@ -450,11 +450,11 @@
         <mxCell id="FANedxWwY38iTG3i7YOs-28" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="150" y="344" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FANedxWwY38iTG3i7YOs-29" value="D2 知识信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FANedxWwY38iTG3i7YOs-29" value="D2 知识记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-80.5" y="300" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-32" value="阅读记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="278" width="70" height="30" as="geometry" />
+          <mxGeometry x="30" y="290" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
