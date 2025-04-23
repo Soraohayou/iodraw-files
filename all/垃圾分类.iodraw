@@ -19,14 +19,6 @@
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-4" value="注册" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="126.25" y="100" width="77.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PJmnqJjPcFo8oxSfZAwR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-6" target="PJmnqJjPcFo8oxSfZAwR-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="165" y="230" />
-              <mxPoint x="269" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-6" target="PJmnqJjPcFo8oxSfZAwR-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -94,6 +86,13 @@
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-10" value="人员管理" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-2" vertex="1">
           <mxGeometry x="60.63" y="210" width="78.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="niyDa22h1KO967UyYhDJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJmnqJjPcFo8oxSfZAwR-6" target="PJmnqJjPcFo8oxSfZAwR-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="226" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
