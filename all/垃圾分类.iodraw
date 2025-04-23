@@ -51,16 +51,11 @@
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-28" value="积分兑换" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="126.25" y="620" width="77.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0MK6yK9jQ06-5bC0VfHl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-16" target="PJmnqJjPcFo8oxSfZAwR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-16" value="反馈回复" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="391.88" y="440" width="78.75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PJmnqJjPcFo8oxSfZAwR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-16" target="PJmnqJjPcFo8oxSfZAwR-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="300" />
-              <mxPoint x="269" y="300" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-29" value="积分兑换管理" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="391.88" y="580" width="78.75" height="40" as="geometry" />
