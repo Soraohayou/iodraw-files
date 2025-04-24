@@ -350,11 +350,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T_dPgv7TUL5_mzArG0XQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" target="T_dPgv7TUL5_mzArG0XQ-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="395" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-3" value="4.垃圾识别" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="290" y="460" width="90" height="45" as="geometry" />
         </mxCell>
