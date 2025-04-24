@@ -25,7 +25,7 @@
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-19" target="PJmnqJjPcFo8oxSfZAwR-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJmnqJjPcFo8oxSfZAwR-19" value="拍照上传" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
+        <mxCell id="PJmnqJjPcFo8oxSfZAwR-19" value="照片上传" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="127.5" y="310" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-26" value="信息修改" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="0MK6yK9jQ06-5bC0VfHl-11" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="60" y="430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7aD-Xhtr5t8N8y6a0ONK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PJmnqJjPcFo8oxSfZAwR-1" source="7aD-Xhtr5t8N8y6a0ONK-1" target="PJmnqJjPcFo8oxSfZAwR-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7aD-Xhtr5t8N8y6a0ONK-1" value="选择照片" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
           <mxGeometry x="127.5" y="250" width="77.5" height="40" as="geometry" />
