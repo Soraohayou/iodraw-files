@@ -461,7 +461,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-10" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="160" y="430" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="424" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FANedxWwY38iTG3i7YOs-11" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="240" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="FANedxWwY38iTG3i7YOs-12" target="FANedxWwY38iTG3i7YOs-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -529,20 +532,11 @@
         <mxCell id="FANedxWwY38iTG3i7YOs-36" value="照片信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="395" y="430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h-_uEf_FgKGcuduJYOHR-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-11" target="T_dPgv7TUL5_mzArG0XQ-3">
+        <mxCell id="h-_uEf_FgKGcuduJYOHR-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-12" target="T_dPgv7TUL5_mzArG0XQ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="570" as="sourcePoint" />
             <mxPoint x="170" y="520" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="h-_uEf_FgKGcuduJYOHR-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-12" target="FANedxWwY38iTG3i7YOs-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="335" y="416" as="sourcePoint" />
-            <mxPoint x="335" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FANedxWwY38iTG3i7YOs-11" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="250" y="430" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
