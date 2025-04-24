@@ -142,6 +142,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7aD-Xhtr5t8N8y6a0ONK-3" value="是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189.25" y="615" width="74" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
