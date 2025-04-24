@@ -47,6 +47,11 @@
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-24" value="记录上传" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="127.5" y="665" width="77.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7aD-Xhtr5t8N8y6a0ONK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJmnqJjPcFo8oxSfZAwR-1" source="PJmnqJjPcFo8oxSfZAwR-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-28" value="积分兑换" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="125.75" y="760" width="77.5" height="40" as="geometry" />
         </mxCell>
@@ -81,9 +86,6 @@
         </mxCell>
         <mxCell id="niyDa22h1KO967UyYhDJ-9" value="判断分类" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="127.5" y="525" width="77.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0MK6yK9jQ06-5bC0VfHl-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
-          <mxGeometry x="129" y="825" width="71" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0MK6yK9jQ06-5bC0VfHl-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="129.5" y="40" width="71" height="40" as="geometry" />
@@ -166,6 +168,9 @@
         <mxCell id="7aD-Xhtr5t8N8y6a0ONK-19" value="数据统计" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-2">
           <mxGeometry x="51.879999999999995" y="100" width="78.75" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0MK6yK9jQ06-5bC0VfHl-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-2" vertex="1">
+          <mxGeometry x="55.75999999999999" y="830" width="71" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PJmnqJjPcFo8oxSfZAwR-24" target="PJmnqJjPcFo8oxSfZAwR-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -205,6 +210,9 @@
         </mxCell>
         <mxCell id="7aD-Xhtr5t8N8y6a0ONK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7aD-Xhtr5t8N8y6a0ONK-17" target="7aD-Xhtr5t8N8y6a0ONK-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7aD-Xhtr5t8N8y6a0ONK-22" value="积分兑换管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="451.88" y="740" width="78.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
