@@ -1576,40 +1576,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aY1Me270O61ra5_Ht2f8-1" value="知识记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-1" value="知识浏览记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-2" value="知识ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-2" value="知识ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="310" y="100" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-3" value="知识记录ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-3" value="知识浏览ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-4" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-4" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="160" y="200" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="aY1Me270O61ra5_Ht2f8-1" target="aY1Me270O61ra5_Ht2f8-2">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="aY1Me270O61ra5_Ht2f8-1" target="aY1Me270O61ra5_Ht2f8-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="270" as="sourcePoint" />
             <mxPoint x="710" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="aY1Me270O61ra5_Ht2f8-1" target="aY1Me270O61ra5_Ht2f8-3">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="aY1Me270O61ra5_Ht2f8-1" target="aY1Me270O61ra5_Ht2f8-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="250" as="sourcePoint" />
             <mxPoint x="528" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="aY1Me270O61ra5_Ht2f8-1" target="aY1Me270O61ra5_Ht2f8-4">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="aY1Me270O61ra5_Ht2f8-1" target="aY1Me270O61ra5_Ht2f8-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="280" as="sourcePoint" />
             <mxPoint x="424" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-8" value="阅读时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-8" value="阅读时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="315" y="300" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aY1Me270O61ra5_Ht2f8-1" target="aY1Me270O61ra5_Ht2f8-8">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aY1Me270O61ra5_Ht2f8-1" target="aY1Me270O61ra5_Ht2f8-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="310" as="sourcePoint" />
             <mxPoint x="630" y="260" as="targetPoint" />
@@ -1623,13 +1623,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QBjQ3BC94yv52O94kH6Z-1" value="积分数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="QBjQ3BC94yv52O94kH6Z-1" value="用户积分" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QBjQ3BC94yv52O94kH6Z-2" value="积分" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="310" y="100" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QBjQ3BC94yv52O94kH6Z-3" value="积分数据ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="QBjQ3BC94yv52O94kH6Z-3" value="用户积分ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QBjQ3BC94yv52O94kH6Z-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="QBjQ3BC94yv52O94kH6Z-1" target="QBjQ3BC94yv52O94kH6Z-2" edge="1">
