@@ -1404,13 +1404,13 @@
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-7" value="创建" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-9" value="积分兑换记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-9" value="奖品兑换记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gtLPQxDVKcH1K-9ys-1Q-11" target="gtLPQxDVKcH1K-9ys-1Q-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-11" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gtLPQxDVKcH1K-9ys-1Q-11" value="奖品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="gtLPQxDVKcH1K-9ys-1Q-12" target="gtLPQxDVKcH1K-9ys-1Q-9" edge="1">
