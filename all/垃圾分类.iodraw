@@ -354,7 +354,7 @@
           <mxGeometry x="290" y="460" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-5" value="垃圾照片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="300" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="330" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-9" value="6.在线上传" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="570" y="372.5" width="100" height="45" as="geometry" />
@@ -497,7 +497,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-20" value="3.新闻阅读" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="97.5" y="292.5" width="105" height="45" as="geometry" />
+          <mxGeometry x="282.5" y="290" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-22" value="D3 知识" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="475" y="140" width="115" height="30" as="geometry" />
