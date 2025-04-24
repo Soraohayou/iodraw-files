@@ -1451,7 +1451,7 @@
         <mxCell id="kxDoGPxsvtlvz8RVE8p_-1" value="生成" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="190" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kxDoGPxsvtlvz8RVE8p_-3" value="知识记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kxDoGPxsvtlvz8RVE8p_-3" value="知识浏览记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kxDoGPxsvtlvz8RVE8p_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kxDoGPxsvtlvz8RVE8p_-5" target="kxDoGPxsvtlvz8RVE8p_-7" edge="1">
@@ -1582,7 +1582,7 @@
         <mxCell id="aY1Me270O61ra5_Ht2f8-2" value="知识ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="310" y="100" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aY1Me270O61ra5_Ht2f8-3" value="知识浏览ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="aY1Me270O61ra5_Ht2f8-3" value="知识浏览记录ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aY1Me270O61ra5_Ht2f8-4" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
