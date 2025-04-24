@@ -131,7 +131,7 @@
           <mxGeometry x="127.5" y="250" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7aD-Xhtr5t8N8y6a0ONK-3" value="是否成功识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
-          <mxGeometry x="120" y="380" width="83.5" height="45" as="geometry" />
+          <mxGeometry x="116.25" y="380" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-2" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="60" width="200" height="810" as="geometry" />
