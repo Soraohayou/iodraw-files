@@ -666,9 +666,6 @@
         <mxCell id="8YdqSDylGd8aM1u4uFM2-4" value="积分兑换模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="298.5" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-5" value="意见反馈模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="445" y="250" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-6" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="250" width="120" height="50" as="geometry" />
         </mxCell>
@@ -747,12 +744,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="8YdqSDylGd8aM1u4uFM2-20" target="8YdqSDylGd8aM1u4uFM2-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-20" value="意见反馈功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="350" width="25" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="8YdqSDylGd8aM1u4uFM2-22" target="8YdqSDylGd8aM1u4uFM2-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -783,9 +774,9 @@
             <mxPoint x="215" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8YdqSDylGd8aM1u4uFM2-5" edge="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="180" as="sourcePoint" />
+            <mxPoint x="505" y="250" as="sourcePoint" />
             <mxPoint x="505" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -807,9 +798,6 @@
         <mxCell id="8YdqSDylGd8aM1u4uFM2-37" value="积分兑换功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="8YdqSDylGd8aM1u4uFM2-43" target="8YdqSDylGd8aM1u4uFM2-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-43" value="反馈回复功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="350" width="25" height="140" as="geometry" />
         </mxCell>
@@ -824,6 +812,9 @@
         </mxCell>
         <mxCell id="kUoNjgeSiXFVItXLRhOg-1" value="垃圾分类判断功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YbbRfumculmQ6C_ZisWG-1" value="意见反馈功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
