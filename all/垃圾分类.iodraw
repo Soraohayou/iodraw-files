@@ -149,6 +149,9 @@
         <mxCell id="7aD-Xhtr5t8N8y6a0ONK-8" value="展示结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
           <mxGeometry x="127.5" y="460" width="77.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7aD-Xhtr5t8N8y6a0ONK-14" value="记录上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
+          <mxGeometry x="231.25" y="665" width="77.5" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-2" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="30" width="200" height="880" as="geometry" />
         </mxCell>
@@ -179,9 +182,6 @@
               <mxPoint x="442" y="638" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7aD-Xhtr5t8N8y6a0ONK-14" value="记录上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="705" width="77.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
