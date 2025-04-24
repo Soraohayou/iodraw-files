@@ -152,6 +152,9 @@
         <mxCell id="7aD-Xhtr5t8N8y6a0ONK-14" value="积分获取" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
           <mxGeometry x="231.25" y="665" width="77.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7aD-Xhtr5t8N8y6a0ONK-17" value="知识浏览" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJmnqJjPcFo8oxSfZAwR-1">
+          <mxGeometry x="231.25" y="100" width="77.5" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="PJmnqJjPcFo8oxSfZAwR-2" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="30" width="200" height="880" as="geometry" />
         </mxCell>
@@ -197,9 +200,6 @@
               <mxPoint x="481" y="795" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7aD-Xhtr5t8N8y6a0ONK-17" value="意见反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291.25" y="565" width="77.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
