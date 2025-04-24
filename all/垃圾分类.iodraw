@@ -425,7 +425,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-48" y="380" width="90" height="30" as="geometry" />
+          <mxGeometry x="-30" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FANedxWwY38iTG3i7YOs-7" target="FANedxWwY38iTG3i7YOs-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -518,7 +518,7 @@
           <mxGeometry x="277.5" y="230" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-32" value="阅读记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="220" y="280" width="80" height="30" as="geometry" />
+          <mxGeometry x="260" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-33" value="D7 积分兑换记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="697.5" y="230" width="115" height="30" as="geometry" />
