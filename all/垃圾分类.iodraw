@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="niyDa22h1KO967UyYhDJ-9" value="判断分类" style="whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
-          <mxGeometry x="127.5" y="475" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="127.5" y="450" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0MK6yK9jQ06-5bC0VfHl-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="PJmnqJjPcFo8oxSfZAwR-1" vertex="1">
           <mxGeometry x="129.5" y="770" width="71" height="40" as="geometry" />
@@ -142,7 +142,8 @@
         <mxCell id="niyDa22h1KO967UyYhDJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PJmnqJjPcFo8oxSfZAwR-6" target="PJmnqJjPcFo8oxSfZAwR-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="216" y="290" />
+              <mxPoint x="216" y="260" />
+              <mxPoint x="451" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
