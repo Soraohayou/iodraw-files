@@ -346,7 +346,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B5Vbht_4e9Ps4_dGXZHF" name="一层流程图">
-    <mxGraphModel dx="1427" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -529,8 +529,8 @@
         <mxCell id="FANedxWwY38iTG3i7YOs-35" value="积分兑换记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="800" y="290" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FANedxWwY38iTG3i7YOs-36" value="识别信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="424" width="80" height="30" as="geometry" />
+        <mxCell id="FANedxWwY38iTG3i7YOs-36" value="照片信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="395" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h-_uEf_FgKGcuduJYOHR-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FANedxWwY38iTG3i7YOs-12" target="T_dPgv7TUL5_mzArG0XQ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
