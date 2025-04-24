@@ -461,7 +461,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-10" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="424" width="80" height="30" as="geometry" />
+          <mxGeometry x="160" y="424" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-11" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="430" width="80" height="30" as="geometry" />
@@ -537,6 +537,9 @@
             <mxPoint x="120" y="570" as="sourcePoint" />
             <mxPoint x="170" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h-_uEf_FgKGcuduJYOHR-4" value="分类信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
