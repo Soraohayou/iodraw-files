@@ -896,13 +896,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-37" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="330" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="buvbputKa599DAh_2bLO-39" target="buvbputKa599DAh_2bLO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-39" value="查看收藏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="389" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="360" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="buvbputKa599DAh_2bLO-41" target="buvbputKa599DAh_2bLO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -915,6 +915,9 @@
         </mxCell>
         <mxCell id="buvbputKa599DAh_2bLO-44" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zNotmFLJO_X6YlDDVBO0-1" value="查看收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
