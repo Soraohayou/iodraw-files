@@ -964,7 +964,7 @@
           <mxGeometry x="530" y="390" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w-FK8moTeXciIKfQEVy3-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="720" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EQbENfSIXMOY9EALZkDv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EQbENfSIXMOY9EALZkDv-1" target="w-FK8moTeXciIKfQEVy3-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -974,7 +974,7 @@
         <mxCell id="EQbENfSIXMOY9EALZkDv-1" value="提交选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EQbENfSIXMOY9EALZkDv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EQbENfSIXMOY9EALZkDv-3" target="w-FK8moTeXciIKfQEVy3-15" edge="1">
+        <mxCell id="EQbENfSIXMOY9EALZkDv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EQbENfSIXMOY9EALZkDv-3" target="TRx5Myf5P9ipgW4lmXAh-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EQbENfSIXMOY9EALZkDv-3" value="增加积分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -997,8 +997,11 @@
         <mxCell id="TRx5Myf5P9ipgW4lmXAh-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="440" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TRx5Myf5P9ipgW4lmXAh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TRx5Myf5P9ipgW4lmXAh-11" target="w-FK8moTeXciIKfQEVy3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TRx5Myf5P9ipgW4lmXAh-11" value="增加积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="660" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="620" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
