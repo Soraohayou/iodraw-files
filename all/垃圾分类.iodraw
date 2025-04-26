@@ -1082,6 +1082,9 @@
         <mxCell id="qKa8SEOONgbFCqTm1oXO-7" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="350" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qKa8SEOONgbFCqTm1oXO-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKa8SEOONgbFCqTm1oXO-8" target="qKa8SEOONgbFCqTm1oXO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qKa8SEOONgbFCqTm1oXO-8" value="用户是否拥&lt;div&gt;有足够积分&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="470" width="160" height="50" as="geometry" />
         </mxCell>
@@ -1114,7 +1117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKa8SEOONgbFCqTm1oXO-14" value="提示物品为符合兑换条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qKa8SEOONgbFCqTm1oXO-14" value="提示物品未符合兑换条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKa8SEOONgbFCqTm1oXO-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKa8SEOONgbFCqTm1oXO-1" target="qKa8SEOONgbFCqTm1oXO-14">
@@ -1125,6 +1128,9 @@
               <mxPoint x="460" y="415" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qKa8SEOONgbFCqTm1oXO-20" value="提示物品为符合兑换条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="475" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
