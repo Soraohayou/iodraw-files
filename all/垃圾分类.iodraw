@@ -1103,6 +1103,13 @@
         <mxCell id="qKa8SEOONgbFCqTm1oXO-11" value="扣除积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="550" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qKa8SEOONgbFCqTm1oXO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKa8SEOONgbFCqTm1oXO-14" target="s-SA1oViSu9lswpyD8_M-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="459" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qKa8SEOONgbFCqTm1oXO-14" value="提示物品为符合兑换条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="250" width="90" height="40" as="geometry" />
         </mxCell>
