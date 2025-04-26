@@ -927,17 +927,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w-FK8moTeXciIKfQEVy3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w-FK8moTeXciIKfQEVy3-2" target="w-FK8moTeXciIKfQEVy3-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="w-FK8moTeXciIKfQEVy3-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="110" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="w-FK8moTeXciIKfQEVy3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w-FK8moTeXciIKfQEVy3-4" target="w-FK8moTeXciIKfQEVy3-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w-FK8moTeXciIKfQEVy3-4" value="展示识别信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-FK8moTeXciIKfQEVy3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w-FK8moTeXciIKfQEVy3-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -985,6 +976,19 @@
         </mxCell>
         <mxCell id="EQbENfSIXMOY9EALZkDv-3" value="增加积分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRx5Myf5P9ipgW4lmXAh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="TRx5Myf5P9ipgW4lmXAh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRx5Myf5P9ipgW4lmXAh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRx5Myf5P9ipgW4lmXAh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRx5Myf5P9ipgW4lmXAh-4" value="展示识别信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
