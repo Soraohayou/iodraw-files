@@ -1056,7 +1056,7 @@
         <mxCell id="s-SA1oViSu9lswpyD8_M-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s-SA1oViSu9lswpyD8_M-11" target="H56INEaDS9OC-MPa1G1n-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s-SA1oViSu9lswpyD8_M-11" value="扣除积分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="s-SA1oViSu9lswpyD8_M-11" value="更新用户积分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="550" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s-SA1oViSu9lswpyD8_M-12" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
