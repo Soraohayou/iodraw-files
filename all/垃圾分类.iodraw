@@ -1686,7 +1686,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iHfi-7qnRaOenivZebQN" name="第 23 页">
-    <mxGraphModel dx="600" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1730,11 +1730,11 @@
         <mxCell id="XCVI9PZED87HImsaLQej-20" value="垃圾分类信息、意见回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XCVI9PZED87HImsaLQej-21" value="垃圾分类记录、物品兑换信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XCVI9PZED87HImsaLQej-21" value="垃圾分类记录、物品兑换记录、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="150" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XCVI9PZED87HImsaLQej-22" value="物品兑换信息、意见回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="210" width="160" height="30" as="geometry" />
+          <mxGeometry x="530" y="210" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
