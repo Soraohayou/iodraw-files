@@ -993,7 +993,10 @@
         <mxCell id="TRx5Myf5P9ipgW4lmXAh-4" value="展示识别信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TRx5Myf5P9ipgW4lmXAh-7" value="选择分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TRx5Myf5P9ipgW4lmXAh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRx5Myf5P9ipgW4lmXAh-7" target="w-FK8moTeXciIKfQEVy3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRx5Myf5P9ipgW4lmXAh-7" value="显示分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="180" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
