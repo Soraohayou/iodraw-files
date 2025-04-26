@@ -1090,6 +1090,9 @@
         <mxCell id="qKa8SEOONgbFCqTm1oXO-7" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qKa8SEOONgbFCqTm1oXO-8" value="物品是否符合&lt;div&gt;兑换条件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
