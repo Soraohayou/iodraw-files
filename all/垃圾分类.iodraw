@@ -687,10 +687,10 @@
             <mxPoint x="65" y="432.57142857142867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-10" value="用户资料管理功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-10" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="47.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-11" value="用户登录功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-11" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8YdqSDylGd8aM1u4uFM2-8" target="8YdqSDylGd8aM1u4uFM2-2" edge="1">
@@ -722,7 +722,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-15" value="垃圾识别功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-15" value="垃圾识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-16" value="垃圾信息上传功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
