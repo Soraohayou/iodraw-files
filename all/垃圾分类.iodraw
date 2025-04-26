@@ -1023,7 +1023,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZCK0Sh4AIUpm6oJHOn3e" name="意见反馈模块流程图">
-    <mxGraphModel dx="350" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1077,7 +1077,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKa8SEOONgbFCqTm1oXO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKa8SEOONgbFCqTm1oXO-1" target="qKa8SEOONgbFCqTm1oXO-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="415" />
+              <mxPoint x="460" y="340" />
+              <mxPoint x="455" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qKa8SEOONgbFCqTm1oXO-1" value="物品是否符合&lt;div&gt;兑换条件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="390" width="160" height="50" as="geometry" />
