@@ -1076,15 +1076,6 @@
         <mxCell id="qKa8SEOONgbFCqTm1oXO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKa8SEOONgbFCqTm1oXO-1" target="s-SA1oViSu9lswpyD8_M-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qKa8SEOONgbFCqTm1oXO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKa8SEOONgbFCqTm1oXO-1" target="qKa8SEOONgbFCqTm1oXO-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="415" />
-              <mxPoint x="460" y="340" />
-              <mxPoint x="455" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qKa8SEOONgbFCqTm1oXO-1" value="物品是否符合&lt;div&gt;兑换条件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="390" width="160" height="50" as="geometry" />
         </mxCell>
@@ -1113,7 +1104,13 @@
           <mxGeometry x="525" y="550" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKa8SEOONgbFCqTm1oXO-14" value="扣除积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="250" width="90" height="40" as="geometry" />
+          <mxGeometry x="414" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKa8SEOONgbFCqTm1oXO-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qKa8SEOONgbFCqTm1oXO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="360" as="sourcePoint" />
+            <mxPoint x="400" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
