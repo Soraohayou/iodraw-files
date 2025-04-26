@@ -816,7 +816,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v2drY75HTIQ5CjGTFUwd" name="垃圾识别流程图">
-    <mxGraphModel dx="420" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -895,7 +895,7 @@
           <mxGeometry x="525" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5JsP59yFyIt_QlMS3CmL-10" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="70" width="40" height="30" as="geometry" />
+          <mxGeometry x="570" y="70" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5JsP59yFyIt_QlMS3CmL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JsP59yFyIt_QlMS3CmL-12" target="5JsP59yFyIt_QlMS3CmL-15">
           <mxGeometry relative="1" as="geometry" />
@@ -913,7 +913,7 @@
         <mxCell id="5JsP59yFyIt_QlMS3CmL-15" value="点击拍照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5JsP59yFyIt_QlMS3CmL-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5JsP59yFyIt_QlMS3CmL-18" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="50" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
