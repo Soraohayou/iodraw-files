@@ -794,13 +794,13 @@
         <mxCell id="8YdqSDylGd8aM1u4uFM2-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="8YdqSDylGd8aM1u4uFM2-37" target="8YdqSDylGd8aM1u4uFM2-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-37" value="兑换奖品功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-37" value="物品配送" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dDZJRGB5692U-Anf0Rra-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="dDZJRGB5692U-Anf0Rra-1" target="8YdqSDylGd8aM1u4uFM2-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dDZJRGB5692U-Anf0Rra-1" value="积分排行功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dDZJRGB5692U-Anf0Rra-1" value="兑换物品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kUoNjgeSiXFVItXLRhOg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="kUoNjgeSiXFVItXLRhOg-1" target="8YdqSDylGd8aM1u4uFM2-3" edge="1">
