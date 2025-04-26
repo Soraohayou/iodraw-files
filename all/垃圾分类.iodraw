@@ -946,6 +946,9 @@
             <mxPoint x="470" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TRx5Myf5P9ipgW4lmXAh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-FK8moTeXciIKfQEVy3-10" target="TRx5Myf5P9ipgW4lmXAh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w-FK8moTeXciIKfQEVy3-10" value="是否正确" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="390" width="80" height="50" as="geometry" />
         </mxCell>
@@ -1005,6 +1008,9 @@
         </mxCell>
         <mxCell id="TRx5Myf5P9ipgW4lmXAh-18" value="提示正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRx5Myf5P9ipgW4lmXAh-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="410" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
