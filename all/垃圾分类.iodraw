@@ -957,7 +957,7 @@
         </mxCell>
         <mxCell id="w-FK8moTeXciIKfQEVy3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w-FK8moTeXciIKfQEVy3-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="470" as="targetPoint" />
+            <mxPoint x="450" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w-FK8moTeXciIKfQEVy3-10" value="是否正确" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -986,7 +986,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TRx5Myf5P9ipgW4lmXAh-4" value="展示识别信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="90" height="40" as="geometry" />
+          <mxGeometry x="360" y="395" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRx5Myf5P9ipgW4lmXAh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRx5Myf5P9ipgW4lmXAh-7" target="w-FK8moTeXciIKfQEVy3-6">
           <mxGeometry relative="1" as="geometry" />
@@ -995,7 +995,7 @@
           <mxGeometry x="525" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRx5Myf5P9ipgW4lmXAh-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="440" width="40" height="30" as="geometry" />
+          <mxGeometry x="485" y="490" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TRx5Myf5P9ipgW4lmXAh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TRx5Myf5P9ipgW4lmXAh-11" target="w-FK8moTeXciIKfQEVy3-15">
           <mxGeometry relative="1" as="geometry" />
