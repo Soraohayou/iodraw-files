@@ -1730,6 +1730,9 @@
         <mxCell id="XCVI9PZED87HImsaLQej-20" value="垃圾分类信息、意见回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XCVI9PZED87HImsaLQej-21" value="垃圾图片、物品兑换信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
