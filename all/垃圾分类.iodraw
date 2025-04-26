@@ -1704,7 +1704,7 @@
           <mxGeometry x="400" y="170" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XCVI9PZED87HImsaLQej-12" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="170" width="90" height="50" as="geometry" />
+          <mxGeometry x="710" y="170" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XCVI9PZED87HImsaLQej-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCVI9PZED87HImsaLQej-10" target="XCVI9PZED87HImsaLQej-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1730,8 +1730,8 @@
         <mxCell id="XCVI9PZED87HImsaLQej-20" value="垃圾分类信息、意见回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XCVI9PZED87HImsaLQej-21" value="垃圾图片、物品兑换信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="140" width="220" height="30" as="geometry" />
+        <mxCell id="XCVI9PZED87HImsaLQej-21" value="垃圾分类记录、物品兑换信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
