@@ -824,7 +824,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="-120" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="-100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="foNkA9OsIJGsmYHf28rh-4" target="foNkA9OsIJGsmYHf28rh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -875,11 +875,17 @@
         <mxCell id="foNkA9OsIJGsmYHf28rh-25" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="544.5" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5JsP59yFyIt_QlMS3CmL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JsP59yFyIt_QlMS3CmL-5" target="5JsP59yFyIt_QlMS3CmL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5JsP59yFyIt_QlMS3CmL-5" value="是否选择拍照上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="-30" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JsP59yFyIt_QlMS3CmL-6" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5JsP59yFyIt_QlMS3CmL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JsP59yFyIt_QlMS3CmL-7" target="foNkA9OsIJGsmYHf28rh-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5JsP59yFyIt_QlMS3CmL-7" value="返回垃圾信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="60" width="90" height="40" as="geometry" />
