@@ -1733,8 +1733,8 @@
         <mxCell id="XCVI9PZED87HImsaLQej-21" value="垃圾分类记录、物品兑换信息、意见反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="150" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XCVI9PZED87HImsaLQej-22" value="奖品信息、意见回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="210" width="130" height="30" as="geometry" />
+        <mxCell id="XCVI9PZED87HImsaLQej-22" value="物品兑换信息、意见回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
