@@ -611,7 +611,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="BRcj0OBFLVGwTyEOInvC" name="意见反馈用例图">
+  <diagram id="BRcj0OBFLVGwTyEOInvC" name="其他功能用例图">
     <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -622,7 +622,7 @@
         <mxCell id="JjfDiPqtv_4Q3lYk4zdb-2" value="知识浏览" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="200" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JjfDiPqtv_4Q3lYk4zdb-3" value="回复反馈功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JjfDiPqtv_4Q3lYk4zdb-3" value="意见反馈" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="380" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JjfDiPqtv_4Q3lYk4zdb-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JjfDiPqtv_4Q3lYk4zdb-1" target="JjfDiPqtv_4Q3lYk4zdb-2" edge="1">
@@ -637,7 +637,7 @@
             <mxPoint x="170" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4YyW2lsEp6xvNrldghZd-1" value="数据统计功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YyW2lsEp6xvNrldghZd-1" value="数据统计" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="290" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4YyW2lsEp6xvNrldghZd-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="4YyW2lsEp6xvNrldghZd-1" edge="1">
@@ -657,7 +657,7 @@
         <mxCell id="8YdqSDylGd8aM1u4uFM2-1" value="智能垃圾分类系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="226" y="140" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8YdqSDylGd8aM1u4uFM2-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8YdqSDylGd8aM1u4uFM2-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-3" value="垃圾识别上传模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
