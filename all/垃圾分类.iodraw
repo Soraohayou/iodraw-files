@@ -878,6 +878,9 @@
         <mxCell id="5JsP59yFyIt_QlMS3CmL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JsP59yFyIt_QlMS3CmL-5" target="5JsP59yFyIt_QlMS3CmL-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5JsP59yFyIt_QlMS3CmL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JsP59yFyIt_QlMS3CmL-5" target="5JsP59yFyIt_QlMS3CmL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5JsP59yFyIt_QlMS3CmL-5" value="是否选择拍照上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="10" width="130" height="60" as="geometry" />
         </mxCell>
@@ -893,8 +896,8 @@
         <mxCell id="5JsP59yFyIt_QlMS3CmL-10" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="70" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5JsP59yFyIt_QlMS3CmL-12" value="打开系统相册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="110" width="90" height="40" as="geometry" />
+        <mxCell id="5JsP59yFyIt_QlMS3CmL-12" value="打开相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
