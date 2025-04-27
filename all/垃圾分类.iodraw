@@ -356,6 +356,9 @@
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-5" value="垃圾照片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="330" y="430" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T_dPgv7TUL5_mzArG0XQ-9" target="T_dPgv7TUL5_mzArG0XQ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-9" value="6.在线上传" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="570" y="372.5" width="100" height="45" as="geometry" />
         </mxCell>
@@ -541,8 +544,8 @@
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-5" value="积分兑换记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="262.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c7PCiHB6CCYlyfpwuNZs-6" value="6.在线上传" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="580" y="382.5" width="100" height="45" as="geometry" />
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-6" value="9.在线上传" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="830" y="374" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
