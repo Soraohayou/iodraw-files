@@ -1969,7 +1969,7 @@
             <mxPoint x="570" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RkDrBOi1M3mG0Fz_67l3-6" value="上传心得" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-6" value="上传内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-11" target="RkDrBOi1M3mG0Fz_67l3-13">
@@ -1997,7 +1997,7 @@
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-15" target="RkDrBOi1M3mG0Fz_67l3-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RkDrBOi1M3mG0Fz_67l3-15" value="显示垃圾信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-15" value="用户浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
