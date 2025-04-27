@@ -820,7 +820,7 @@
         <mxCell id="YbbRfumculmQ6C_ZisWG-1" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="637.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EHixDbGGkr8JUxXSE-WG-1" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EHixDbGGkr8JUxXSE-WG-1" value="用户交流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EHixDbGGkr8JUxXSE-WG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EHixDbGGkr8JUxXSE-WG-3" target="EHixDbGGkr8JUxXSE-WG-1">
