@@ -676,7 +676,7 @@
           <mxGeometry x="298.5" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-6" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="250" width="120" height="50" as="geometry" />
+          <mxGeometry x="580" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.513;exitY=0.011;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="8YdqSDylGd8aM1u4uFM2-4" target="8YdqSDylGd8aM1u4uFM2-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -684,7 +684,6 @@
             <mxPoint x="370" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="220" />
-              <mxPoint x="286" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -761,13 +760,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-22" value="知识浏览" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="590" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="8YdqSDylGd8aM1u4uFM2-24" target="8YdqSDylGd8aM1u4uFM2-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-24" value="意见反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="670" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8YdqSDylGd8aM1u4uFM2-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -819,7 +818,7 @@
           <mxGeometry x="202.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YbbRfumculmQ6C_ZisWG-1" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="497.5" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="627.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
