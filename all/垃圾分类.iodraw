@@ -544,11 +544,14 @@
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-5" value="积分兑换记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="262.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c7PCiHB6CCYlyfpwuNZs-6" value="10.在线上传" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-6" value="10.用户交流" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="827" y="372.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-8" value="用户交流内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="699" y="367.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-9" value="D6 意见反馈信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="825" y="470" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
