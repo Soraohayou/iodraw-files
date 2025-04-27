@@ -2010,6 +2010,9 @@
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-22" value="编写心得内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="40" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-29" value="管理员审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
