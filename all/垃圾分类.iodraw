@@ -2065,15 +2065,16 @@
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-41" value="撰写评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RkDrBOi1M3mG0Fz_67l3-42" value="编写内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-42" target="RkDrBOi1M3mG0Fz_67l3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-42" value="更新记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-43" target="RkDrBOi1M3mG0Fz_67l3-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="305" y="90" />
-              <mxPoint x="360" y="90" />
-              <mxPoint x="360" y="60" />
+              <mxPoint x="305" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
