@@ -515,7 +515,7 @@
           <mxGeometry x="260" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-33" value="D7 积分兑换记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="697.5" y="230" width="115" height="30" as="geometry" />
+          <mxGeometry x="697.5" y="160" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-35" value="积分兑换记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="750" y="260" width="110" height="30" as="geometry" />
