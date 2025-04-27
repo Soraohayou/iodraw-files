@@ -1494,7 +1494,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zuTYEZ5x90Mb6f_ZgG4M" name="积分兑换实体图">
+  <diagram id="zuTYEZ5x90Mb6f_ZgG4M" name="物品实体图">
     <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1505,7 +1505,7 @@
         <mxCell id="0L1qD2e9FEG06MMrttdk-2" value="图片" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="310" y="100" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0L1qD2e9FEG06MMrttdk-3" value="奖品ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="0L1qD2e9FEG06MMrttdk-3" value="物品ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="510" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0L1qD2e9FEG06MMrttdk-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="0L1qD2e9FEG06MMrttdk-1" target="0L1qD2e9FEG06MMrttdk-2" edge="1">
