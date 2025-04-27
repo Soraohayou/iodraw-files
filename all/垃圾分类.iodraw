@@ -2095,7 +2095,7 @@
         <mxCell id="yt7dCGdK5cQiIukP1DNF-2" value="积分" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yt7dCGdK5cQiIukP1DNF-3" value="用户积分ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="yt7dCGdK5cQiIukP1DNF-3" value="垃圾物品ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="460" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yt7dCGdK5cQiIukP1DNF-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="yt7dCGdK5cQiIukP1DNF-1" target="yt7dCGdK5cQiIukP1DNF-2">
