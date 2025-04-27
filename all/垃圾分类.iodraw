@@ -1052,9 +1052,10 @@
         <mxCell id="Lyh84-TXh218wf8YRnvn-2" value="转换成为模型文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="395" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lyh84-TXh218wf8YRnvn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lyh84-TXh218wf8YRnvn-6" target="foNkA9OsIJGsmYHf28rh-21">
+        <mxCell id="Lyh84-TXh218wf8YRnvn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyh84-TXh218wf8YRnvn-6" target="Lyh84-TXh218wf8YRnvn-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="197.50000000000023" as="sourcePoint" />
+            <mxPoint x="320" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lyh84-TXh218wf8YRnvn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lyh84-TXh218wf8YRnvn-4" target="Lyh84-TXh218wf8YRnvn-6">
@@ -1065,6 +1066,9 @@
         </mxCell>
         <mxCell id="Lyh84-TXh218wf8YRnvn-6" value="&lt;div&gt;&lt;span class=&quot;text-sm px-1 rounded-sm !font-mono bg-orange-400/10 text-orange-500 dark:bg-orange-300/10 dark:text-orange-200&quot;&gt;传入图片ByteBuffer&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyh84-TXh218wf8YRnvn-9" value="返回垃圾信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
