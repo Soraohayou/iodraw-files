@@ -584,7 +584,10 @@
           <mxGeometry x="805" y="344" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-21" value="D1 用户信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="117" y="477.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="827" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="296" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
