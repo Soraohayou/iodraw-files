@@ -1994,8 +1994,10 @@
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-13" value="发布内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="325" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RkDrBOi1M3mG0Fz_67l3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-15" target="RkDrBOi1M3mG0Fz_67l3-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-15" value="用户浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="250" width="90" height="40" as="geometry" />
@@ -2047,6 +2049,9 @@
         </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-36" value="用户收到通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-39" value="用户点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
