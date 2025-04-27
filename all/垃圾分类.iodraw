@@ -986,7 +986,7 @@
         <mxCell id="foNkA9OsIJGsmYHf28rh-5" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="250" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5JsP59yFyIt_QlMS3CmL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="foNkA9OsIJGsmYHf28rh-21" edge="1">
+        <mxCell id="5JsP59yFyIt_QlMS3CmL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Lyh84-TXh218wf8YRnvn-2" target="foNkA9OsIJGsmYHf28rh-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="346" as="sourcePoint" />
           </mxGeometry>
@@ -1043,11 +1043,14 @@
         <mxCell id="5JsP59yFyIt_QlMS3CmL-18" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="50" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Lyh84-TXh218wf8YRnvn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lyh84-TXh218wf8YRnvn-1" target="Lyh84-TXh218wf8YRnvn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lyh84-TXh218wf8YRnvn-1" value="解析图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lyh84-TXh218wf8YRnvn-2" value="解析图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="330" width="90" height="40" as="geometry" />
+        <mxCell id="Lyh84-TXh218wf8YRnvn-2" value="预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
