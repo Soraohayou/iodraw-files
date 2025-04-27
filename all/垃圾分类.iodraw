@@ -508,7 +508,7 @@
         <mxCell id="FANedxWwY38iTG3i7YOs-28" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="330" y="341" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FANedxWwY38iTG3i7YOs-29" value="D2 知识记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="FANedxWwY38iTG3i7YOs-29" value="D2 浏览记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="277.5" y="230" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FANedxWwY38iTG3i7YOs-32" value="阅读记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
