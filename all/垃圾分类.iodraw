@@ -1991,7 +1991,7 @@
             <mxPoint x="500" y="265" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RkDrBOi1M3mG0Fz_67l3-13" value="发布内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-13" value="更新展示列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="325" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-15" target="RkDrBOi1M3mG0Fz_67l3-41">
