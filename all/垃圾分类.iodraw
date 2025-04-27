@@ -532,11 +532,14 @@
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-2" value="8.物品配送" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="700" y="217.5" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="c7PCiHB6CCYlyfpwuNZs-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c7PCiHB6CCYlyfpwuNZs-2" target="T_dPgv7TUL5_mzArG0XQ-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="170" as="sourcePoint" />
             <mxPoint x="740" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-5" value="积分兑换记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="760" y="270" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
