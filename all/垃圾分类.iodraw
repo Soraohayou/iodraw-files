@@ -1129,7 +1129,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKa8SEOONgbFCqTm1oXO-20" value="提示物品为符合兑换条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qKa8SEOONgbFCqTm1oXO-20" value="提示用户积分不足" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="475" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
