@@ -356,9 +356,6 @@
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-5" value="垃圾照片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="330" y="430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c7PCiHB6CCYlyfpwuNZs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_dPgv7TUL5_mzArG0XQ-9" target="c7PCiHB6CCYlyfpwuNZs-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="T_dPgv7TUL5_mzArG0XQ-9" value="6.在线上传" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="570" y="372.5" width="100" height="45" as="geometry" />
         </mxCell>
@@ -548,7 +545,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-6" value="10.用户交流" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="827" y="372.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="760" y="460" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-8" value="用户交流内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="699" y="367.5" width="100" height="30" as="geometry" />
