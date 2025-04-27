@@ -991,7 +991,7 @@
             <mxPoint x="410" y="346" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5JsP59yFyIt_QlMS3CmL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="foNkA9OsIJGsmYHf28rh-21" target="foNkA9OsIJGsmYHf28rh-23" edge="1">
+        <mxCell id="5JsP59yFyIt_QlMS3CmL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="foNkA9OsIJGsmYHf28rh-21" target="Lyh84-TXh218wf8YRnvn-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="foNkA9OsIJGsmYHf28rh-21" value="向输出&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;ByteBuffer写入数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
@@ -1072,6 +1072,9 @@
         </mxCell>
         <mxCell id="Lyh84-TXh218wf8YRnvn-9" value="执行向前传播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyh84-TXh218wf8YRnvn-11" value="向输出&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;ByteBuffer写入数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
