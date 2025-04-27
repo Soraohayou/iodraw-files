@@ -548,13 +548,10 @@
           <mxGeometry x="760" y="460" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-8" value="用户交流内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="430" width="100" height="30" as="geometry" />
+          <mxGeometry x="740" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-9" value="D7 用户交流" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="940" y="467.5" width="104" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="c7PCiHB6CCYlyfpwuNZs-11" value="用户交流内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="430" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c7PCiHB6CCYlyfpwuNZs-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_dPgv7TUL5_mzArG0XQ-9" target="c7PCiHB6CCYlyfpwuNZs-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
