@@ -1978,6 +1978,11 @@
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-11" target="RkDrBOi1M3mG0Fz_67l3-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-11" value="是否审核通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="100" height="50" as="geometry" />
         </mxCell>
@@ -2017,6 +2022,9 @@
         </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-29" value="管理员审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-32" value="管理员审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="260" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
