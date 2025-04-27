@@ -1067,7 +1067,7 @@
         <mxCell id="Lyh84-TXh218wf8YRnvn-6" value="&lt;div&gt;&lt;span class=&quot;text-sm px-1 rounded-sm !font-mono bg-orange-400/10 text-orange-500 dark:bg-orange-300/10 dark:text-orange-200&quot;&gt;传入图片ByteBuffer&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lyh84-TXh218wf8YRnvn-9" value="返回垃圾信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lyh84-TXh218wf8YRnvn-9" value="执行向前传播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="100" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
