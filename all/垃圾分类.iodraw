@@ -1674,7 +1674,7 @@
           <mxGeometry x="470" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pMvkLLC2dly5UHvEk_D8-2" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="460" width="30" height="30" as="geometry" />
+          <mxGeometry x="200" y="318" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pMvkLLC2dly5UHvEk_D8-3" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="399" y="160" width="30" height="30" as="geometry" />
@@ -1722,7 +1722,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nzLBeNlK56WUR7Dg8ULw-7" value="编写" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="325" width="80" height="40" as="geometry" />
+          <mxGeometry x="365" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nzLBeNlK56WUR7Dg8ULw-8" value="评论记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="390" width="80" height="30" as="geometry" />
@@ -1803,7 +1803,7 @@
         <mxCell id="nzLBeNlK56WUR7Dg8ULw-28" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="360" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nzLBeNlK56WUR7Dg8ULw-29" value="编写" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nzLBeNlK56WUR7Dg8ULw-29" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
