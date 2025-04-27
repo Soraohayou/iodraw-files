@@ -1784,6 +1784,19 @@
         <mxCell id="nzLBeNlK56WUR7Dg8ULw-23" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="248" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nzLBeNlK56WUR7Dg8ULw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nzLBeNlK56WUR7Dg8ULw-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzLBeNlK56WUR7Dg8ULw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nzLBeNlK56WUR7Dg8ULw-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="805" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzLBeNlK56WUR7Dg8ULw-26" value="编写" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="295" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
