@@ -2023,14 +2023,17 @@
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-29" value="管理员审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="250" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkDrBOi1M3mG0Fz_67l3-32" target="RkDrBOi1M3mG0Fz_67l3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-32" value="编写未通过原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-33" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="320" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkDrBOi1M3mG0Fz_67l3-34" value="上传心得" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="190" width="90" height="40" as="geometry" />
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-34" value="发送审核结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
