@@ -1578,7 +1578,7 @@
           <mxGeometry x="50" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-9" value="物品兑换记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="265" y="395" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gtLPQxDVKcH1K-9ys-1Q-11" target="gtLPQxDVKcH1K-9ys-1Q-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1590,7 +1590,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-12" value="关联" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="457" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="385" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gtLPQxDVKcH1K-9ys-1Q-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="145" y="450" width="30" height="30" as="geometry" />
