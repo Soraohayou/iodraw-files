@@ -1760,7 +1760,7 @@
         <mxCell id="nzLBeNlK56WUR7Dg8ULw-17" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="377" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nzLBeNlK56WUR7Dg8ULw-18" value="编写" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nzLBeNlK56WUR7Dg8ULw-18" value="提交" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="255" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nzLBeNlK56WUR7Dg8ULw-19" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
