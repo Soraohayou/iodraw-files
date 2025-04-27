@@ -2056,7 +2056,7 @@
         <mxCell id="RkDrBOi1M3mG0Fz_67l3-39" value="点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RkDrBOi1M3mG0Fz_67l3-41" value="用户点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RkDrBOi1M3mG0Fz_67l3-41" value="撰写评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="180" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
