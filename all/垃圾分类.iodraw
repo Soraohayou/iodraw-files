@@ -601,8 +601,11 @@
             <mxPoint x="1170" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c7PCiHB6CCYlyfpwuNZs-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="975" y="238" width="50" height="30" as="geometry" />
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-27" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="965" y="238" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7PCiHB6CCYlyfpwuNZs-28" value="D7 用户交流" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="217.5" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
