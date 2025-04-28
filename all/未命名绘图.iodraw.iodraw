@@ -92,7 +92,7 @@
             <mxPoint x="280" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2j0XcX0odfQxQ6kqQex7-6" value="患者账单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2j0XcX0odfQxQ6kqQex7-6" value="排队" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2j0XcX0odfQxQ6kqQex7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2j0XcX0odfQxQ6kqQex7-1" target="2j0XcX0odfQxQ6kqQex7-6">
