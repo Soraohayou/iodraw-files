@@ -180,6 +180,11 @@
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-5" target="5tQycuh7vFEFJ3pgRF8H-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-5" value="就医" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="250" width="120" height="50" as="geometry" />
         </mxCell>
@@ -334,7 +339,10 @@
           <mxGeometry x="393.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-42" value="病例更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="510" y="350" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-45" value="病例更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
