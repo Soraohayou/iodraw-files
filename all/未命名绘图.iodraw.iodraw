@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8jXS-V2DA6Hbqo0CXXNn" name="功能模块图">
-    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="350" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-5" target="5tQycuh7vFEFJ3pgRF8H-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5tQycuh7vFEFJ3pgRF8H-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-5">
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-5" target="5tQycuh7vFEFJ3pgRF8H-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="350" as="targetPoint" />
           </mxGeometry>
@@ -342,7 +342,7 @@
           <mxGeometry x="510" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-45" value="病例更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="350" width="25" height="140" as="geometry" />
+          <mxGeometry x="540" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
