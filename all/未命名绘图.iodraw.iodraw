@@ -171,10 +171,10 @@
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-2" value="病例管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5tQycuh7vFEFJ3pgRF8H-3" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-3" value="公告管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5tQycuh7vFEFJ3pgRF8H-4" value="收藏分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-4" value="医生管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-5" value="搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
