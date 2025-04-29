@@ -177,7 +177,7 @@
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-4" value="医生管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5tQycuh7vFEFJ3pgRF8H-5" value="医生预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-5" value="就医" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-6" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
