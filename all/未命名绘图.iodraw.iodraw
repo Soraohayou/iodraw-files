@@ -297,13 +297,13 @@
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-31" target="5tQycuh7vFEFJ3pgRF8H-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5tQycuh7vFEFJ3pgRF8H-31" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-31" value="医生新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-33" target="5tQycuh7vFEFJ3pgRF8H-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5tQycuh7vFEFJ3pgRF8H-33" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-33" value="医生修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="350" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-35" target="5tQycuh7vFEFJ3pgRF8H-4">
