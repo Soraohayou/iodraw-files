@@ -188,7 +188,7 @@
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-5" value="就医" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5tQycuh7vFEFJ3pgRF8H-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-6" target="5tQycuh7vFEFJ3pgRF8H-47">
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5tQycuh7vFEFJ3pgRF8H-6" target="5tQycuh7vFEFJ3pgRF8H-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-6" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -347,7 +347,7 @@
         <mxCell id="5tQycuh7vFEFJ3pgRF8H-45" value="处方开具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="350" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="5tQycuh7vFEFJ3pgRF8H-47" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5tQycuh7vFEFJ3pgRF8H-47" value="用户信息修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="647.5" y="350" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
