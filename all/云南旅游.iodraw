@@ -1140,8 +1140,14 @@
         <mxCell id="lDshWDY5Is35pROuIXvP-17" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="400" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lDshWDY5Is35pROuIXvP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDshWDY5Is35pROuIXvP-19" target="lDshWDY5Is35pROuIXvP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lDshWDY5Is35pROuIXvP-19" value="是否成功登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="470" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDshWDY5Is35pROuIXvP-21" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
