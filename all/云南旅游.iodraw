@@ -1184,6 +1184,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WdWf7ZzePKr3kzk2F5fL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WdWf7ZzePKr3kzk2F5fL-2" target="WdWf7ZzePKr3kzk2F5fL-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="240" />
+              <mxPoint x="665" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WdWf7ZzePKr3kzk2F5fL-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="180" width="90" height="40" as="geometry" />
         </mxCell>
