@@ -1094,14 +1094,25 @@
         <mxCell id="lDshWDY5Is35pROuIXvP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDshWDY5Is35pROuIXvP-4" target="lDshWDY5Is35pROuIXvP-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lDshWDY5Is35pROuIXvP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDshWDY5Is35pROuIXvP-4" target="lDshWDY5Is35pROuIXvP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDshWDY5Is35pROuIXvP-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lDshWDY5Is35pROuIXvP-12">
+          <mxGeometry x="-0.2045" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lDshWDY5Is35pROuIXvP-4" value="是否注册" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="180" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lDshWDY5Is35pROuIXvP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDshWDY5Is35pROuIXvP-7" target="lDshWDY5Is35pROuIXvP-9">
+        <mxCell id="lDshWDY5Is35pROuIXvP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDshWDY5Is35pROuIXvP-7" target="lDshWDY5Is35pROuIXvP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDshWDY5Is35pROuIXvP-7" value="填写手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="185" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDshWDY5Is35pROuIXvP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDshWDY5Is35pROuIXvP-8" target="lDshWDY5Is35pROuIXvP-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDshWDY5Is35pROuIXvP-8" value="填写手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="90" height="40" as="geometry" />
