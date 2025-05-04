@@ -1421,11 +1421,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B3G9ahkA25rILmrKzfpf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4reWxOILzGDQktcBcAT1-1" target="B3G9ahkA25rILmrKzfpf-2">
+        <mxCell id="B3G9ahkA25rILmrKzfpf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4reWxOILzGDQktcBcAT1-1" target="B3G9ahkA25rILmrKzfpf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4reWxOILzGDQktcBcAT1-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B3G9ahkA25rILmrKzfpf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B3G9ahkA25rILmrKzfpf-1" target="B3G9ahkA25rILmrKzfpf-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B3G9ahkA25rILmrKzfpf-1" value="浏览文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="90" height="40" as="geometry" />
