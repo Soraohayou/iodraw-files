@@ -1271,14 +1271,20 @@
             <mxPoint x="405" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-8" target="7KsWLYgUSXAuH98Os_ju-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7KsWLYgUSXAuH98Os_ju-8" value="浏览收藏文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7KsWLYgUSXAuH98Os_ju-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7KsWLYgUSXAuH98Os_ju-17" value="浏览收藏文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="290" width="90" height="40" as="geometry" />
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-17" target="7KsWLYgUSXAuH98Os_ju-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-17" value="取消收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
