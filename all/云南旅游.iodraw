@@ -1082,6 +1082,12 @@
         <mxCell id="lDshWDY5Is35pROuIXvP-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="110" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lDshWDY5Is35pROuIXvP-2" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDshWDY5Is35pROuIXvP-3" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
