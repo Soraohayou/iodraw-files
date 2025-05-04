@@ -1091,11 +1091,14 @@
         <mxCell id="lDshWDY5Is35pROuIXvP-3" value="填写密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="330" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lDshWDY5Is35pROuIXvP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDshWDY5Is35pROuIXvP-4" target="lDshWDY5Is35pROuIXvP-3">
+        <mxCell id="lDshWDY5Is35pROuIXvP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDshWDY5Is35pROuIXvP-4" target="lDshWDY5Is35pROuIXvP-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDshWDY5Is35pROuIXvP-4" value="是否注册" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDshWDY5Is35pROuIXvP-7" value="填写手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="185" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
