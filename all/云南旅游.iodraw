@@ -1343,7 +1343,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-eYmYRSWZiU4ak-aMzL_" name="文章分享流程图">
-    <mxGraphModel dx="292" dy="173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1384,13 +1384,13 @@
         <mxCell id="ne-lAVO6HNq5JvnQLJbt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ne-lAVO6HNq5JvnQLJbt-12" target="ne-lAVO6HNq5JvnQLJbt-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ne-lAVO6HNq5JvnQLJbt-12" value="输入分享账户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ne-lAVO6HNq5JvnQLJbt-12" value="发送分享消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vRcv7MsjxN-TPKpBt8fz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vRcv7MsjxN-TPKpBt8fz-2" target="ne-lAVO6HNq5JvnQLJbt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vRcv7MsjxN-TPKpBt8fz-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vRcv7MsjxN-TPKpBt8fz-3">
+        <mxCell id="vRcv7MsjxN-TPKpBt8fz-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vRcv7MsjxN-TPKpBt8fz-3">
           <mxGeometry x="0.1489" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
