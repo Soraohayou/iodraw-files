@@ -1229,7 +1229,7 @@
         <mxCell id="WdWf7ZzePKr3kzk2F5fL-26" value="填写密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WdWf7ZzePKr3kzk2F5fL-27" value="浏览文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WdWf7ZzePKr3kzk2F5fL-27" value="浏览线路信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
