@@ -1171,11 +1171,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gea_nNQSiNpAOJjpk2vo" name="旅游信息浏览">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WdWf7ZzePKr3kzk2F5fL-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WdWf7ZzePKr3kzk2F5fL-2">
+        <mxCell id="WdWf7ZzePKr3kzk2F5fL-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WdWf7ZzePKr3kzk2F5fL-2" target="WdWf7ZzePKr3kzk2F5fL-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="545" y="260" as="targetPoint" />
           </mxGeometry>
@@ -1186,7 +1186,7 @@
         <mxCell id="WdWf7ZzePKr3kzk2F5fL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WdWf7ZzePKr3kzk2F5fL-4" target="WdWf7ZzePKr3kzk2F5fL-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WdWf7ZzePKr3kzk2F5fL-4" value="填写手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WdWf7ZzePKr3kzk2F5fL-4" value="浏览文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WdWf7ZzePKr3kzk2F5fL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WdWf7ZzePKr3kzk2F5fL-6" target="WdWf7ZzePKr3kzk2F5fL-19">
