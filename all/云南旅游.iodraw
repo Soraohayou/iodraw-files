@@ -1249,6 +1249,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-4" target="7KsWLYgUSXAuH98Os_ju-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="200" />
+              <mxPoint x="405" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-4" target="7KsWLYgUSXAuH98Os_ju-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="190" />
+              <mxPoint x="525" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-6" target="7KsWLYgUSXAuH98Os_ju-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-6" value="浏览文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-8" target="7KsWLYgUSXAuH98Os_ju-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-8" value="浏览文章列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405.0344827586207" y="420.0215517241379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-10" value="浏览文章详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-13" target="7KsWLYgUSXAuH98Os_ju-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-13" value="填写搜索关键词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-16" target="7KsWLYgUSXAuH98Os_ju-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-16" value="搜索关键词文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
