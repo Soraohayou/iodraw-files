@@ -1245,7 +1245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xCNZyHjoRnfAQLXrl6_e" name="文章收藏流程图">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1263,13 +1263,13 @@
         <mxCell id="7KsWLYgUSXAuH98Os_ju-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-6" target="7KsWLYgUSXAuH98Os_ju-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7KsWLYgUSXAuH98Os_ju-6" value="浏览文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-6" value="收藏文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7KsWLYgUSXAuH98Os_ju-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-8" target="7KsWLYgUSXAuH98Os_ju-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7KsWLYgUSXAuH98Os_ju-8" value="浏览文章列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7KsWLYgUSXAuH98Os_ju-8" value="浏览收藏文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7KsWLYgUSXAuH98Os_ju-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KsWLYgUSXAuH98Os_ju-10">
