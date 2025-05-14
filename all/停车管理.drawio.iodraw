@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="20">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="23">
   <diagram name="车位用例图" id="K21Unu6RBYL9LUFwpGdk">
     <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -765,7 +765,7 @@
           <mxGeometry x="490" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zcp74CeE-N3BjcE7inZT-3" value="车主姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="490" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zcp74CeE-N3BjcE7inZT-7" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="190" y="110" width="120" height="80" as="geometry" />
@@ -804,6 +804,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="170" as="sourcePoint" />
             <mxPoint x="660" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SDcc7MOeUSuvWqv4rc8t-1" value="车主姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SDcc7MOeUSuvWqv4rc8t-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zcp74CeE-N3BjcE7inZT-1" target="SDcc7MOeUSuvWqv4rc8t-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="470" as="sourcePoint" />
+            <mxPoint x="460" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -1766,6 +1775,117 @@
         <mxCell id="D9LOvIUX412M8ZFCHHvn-12" value="金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="120" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="u1OQ8A1BRW9YHAEJeL_J" name="积分实体图">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-1" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-3" value="积分兑换ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-5" value="物品图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-6" value="所需积分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmGhsjaYP3yPDF4Am5EC-1" target="WmGhsjaYP3yPDF4Am5EC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="390" as="sourcePoint" />
+            <mxPoint x="120" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmGhsjaYP3yPDF4Am5EC-6" target="WmGhsjaYP3yPDF4Am5EC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmGhsjaYP3yPDF4Am5EC-3" target="WmGhsjaYP3yPDF4Am5EC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="220" as="sourcePoint" />
+            <mxPoint x="750" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-12" value="物品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WmGhsjaYP3yPDF4Am5EC-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmGhsjaYP3yPDF4Am5EC-1" target="WmGhsjaYP3yPDF4Am5EC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="90" as="sourcePoint" />
+            <mxPoint x="630" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="D7ZdmDmTCwP8H6SFkT83" name="会员记录实体图">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="txDWF36Ep_ywuMg131YQ-1" value="会员记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-2" value="会员记录ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-3" value="起始时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-4" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="txDWF36Ep_ywuMg131YQ-1" target="txDWF36Ep_ywuMg131YQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="390" as="sourcePoint" />
+            <mxPoint x="120" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="txDWF36Ep_ywuMg131YQ-4" target="txDWF36Ep_ywuMg131YQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="txDWF36Ep_ywuMg131YQ-2" target="txDWF36Ep_ywuMg131YQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="220" as="sourcePoint" />
+            <mxPoint x="750" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-8" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="txDWF36Ep_ywuMg131YQ-1" target="txDWF36Ep_ywuMg131YQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="90" as="sourcePoint" />
+            <mxPoint x="630" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-10" value="支付金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txDWF36Ep_ywuMg131YQ-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="txDWF36Ep_ywuMg131YQ-1" target="txDWF36Ep_ywuMg131YQ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="400" as="sourcePoint" />
+            <mxPoint x="600" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O0tf53sYiB38KS8QNxr8" name="第 23 页">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
